@@ -1,0 +1,1998 @@
+[2024-10-20] [09:26:09] : Comport Setup Load
+[2024-10-20] [09:26:09] : Load Model : 5G200
+[2024-10-20] [09:26:09] : Program Start
+[2024-10-20] [09:26:09] : Thread Initialized success
+[2024-10-20] [09:26:09] : Calibration Initialized success
+[2024-10-20] [09:26:11] : Plc Initialized success
+[2024-10-20] [09:26:16] : Program End
+[2024-10-20] [09:26:16] : DB Disconnect Success
+[2024-10-20] [09:26:38] : Comport Setup Load
+[2024-10-20] [09:26:38] : Load Model : 5G200
+[2024-10-20] [09:26:38] : Program Start
+[2024-10-20] [09:26:38] : Thread Initialized success
+[2024-10-20] [09:26:38] : Calibration Initialized success
+[2024-10-20] [09:26:44] : Plc Initialized success
+[2024-10-20] [09:27:27] : Program End
+[2024-10-20] [09:27:27] : DB Disconnect Success
+[2024-10-20] [09:27:53] : Comport Setup Load
+[2024-10-20] [09:27:53] : Load Model : 5G200
+[2024-10-20] [09:27:53] : Program Start
+[2024-10-20] [09:27:53] : Thread Initialized success
+[2024-10-20] [09:27:53] : Calibration Initialized success
+[2024-10-20] [09:27:54] : Plc Initialized success
+[2024-10-20] [09:27:56] : Program End
+[2024-10-20] [09:27:56] : DB Disconnect Success
+[2024-10-20] [09:28:12] : Comport Setup Load
+[2024-10-20] [09:28:12] : Load Model : 5G200
+[2024-10-20] [09:28:12] : Program Start
+[2024-10-20] [09:28:12] : Thread Initialized success
+[2024-10-20] [09:28:12] : Calibration Initialized success
+[2024-10-20] [09:28:13] : Plc Initialized success
+[2024-10-20] [09:30:22] : Program End
+[2024-10-20] [09:30:22] : DB Disconnect Success
+[2024-10-20] [09:30:54] : Comport Setup Load
+[2024-10-20] [09:30:54] : Load Model : 5G200
+[2024-10-20] [09:30:54] : Program Start
+[2024-10-20] [09:30:54] : Thread Initialized success
+[2024-10-20] [09:30:54] : Calibration Initialized success
+[2024-10-20] [09:30:54] : Plc Initialized success
+[2024-10-20] [09:31:31] : Program End
+[2024-10-20] [09:31:31] : DB Disconnect Success
+[2024-10-20] [09:33:52] : Comport Setup Load
+[2024-10-20] [09:33:52] : Load Model : 5G200
+[2024-10-20] [09:33:52] : Program Start
+[2024-10-20] [09:33:52] : Thread Initialized success
+[2024-10-20] [09:33:52] : Calibration Initialized success
+[2024-10-20] [09:33:53] : Plc Initialized success
+[2024-10-20] [09:33:56] : Program End
+[2024-10-20] [09:33:56] : DB Disconnect Success
+[2024-10-20] [09:34:13] : Comport Setup Load
+[2024-10-20] [09:34:13] : Load Model : 5G200
+[2024-10-20] [09:34:13] : Program Start
+[2024-10-20] [09:34:13] : Thread Initialized success
+[2024-10-20] [09:34:13] : Calibration Initialized success
+[2024-10-20] [09:34:14] : Plc Initialized success
+[2024-10-20] [09:34:20] : Manual Sig:1, Sensing Count:10
+[2024-10-20] [09:34:24] : Manual Sig:1, Sensing Count:10
+[2024-10-20] [09:34:26] : Manual Sig:1, Sensing Count:10
+[2024-10-20] [09:34:33] : Manual Sig:1, Sensing Count:10
+[2024-10-20] [09:42:09] : Display : Model Setup
+[2024-10-20] [09:42:18] : Model Selected:4G100
+[2024-10-20] [09:42:27] : Model Selected:5G200
+[2024-10-20] [09:42:28] : Model Selected:4G100
+[2024-10-20] [09:42:36] : Model Selected:5G200
+[2024-10-20] [09:42:46] : Load Model : 5G200
+[2024-10-20] [09:43:25] : Program End
+[2024-10-20] [09:43:25] : DB Disconnect Success
+[2024-10-20] [09:44:25] : Comport Setup Load
+[2024-10-20] [09:44:25] : Load Model : 5G200
+[2024-10-20] [09:44:25] : Program Start
+[2024-10-20] [09:44:25] : Thread Initialized success
+[2024-10-20] [09:44:25] : Calibration Initialized success
+[2024-10-20] [09:44:25] : Plc Initialized success
+[2024-10-20] [09:44:29] : Manual Sig:1, Sensing Count:10
+[2024-10-20] [09:44:36] : Program End
+[2024-10-20] [09:44:36] : DB Disconnect Success
+[2024-10-20] [09:45:01] : Comport Setup Load
+[2024-10-20] [09:45:01] : Load Model : 5G200
+[2024-10-20] [09:45:01] : Program Start
+[2024-10-20] [09:45:01] : Thread Initialized success
+[2024-10-20] [09:45:01] : Calibration Initialized success
+[2024-10-20] [09:45:09] : Plc Initialized success
+[2024-10-20] [09:45:28] : Manual Sig:1, Sensing Count:10
+[2024-10-20] [09:54:53] : Program End
+[2024-10-20] [09:54:53] : DB Disconnect Success
+[2024-10-20] [09:55:16] : Comport Setup Load
+[2024-10-20] [09:55:16] : Load Model : 5G200
+[2024-10-20] [09:55:16] : Program Start
+[2024-10-20] [09:55:16] : Thread Initialized success
+[2024-10-20] [09:55:16] : Calibration Initialized success
+[2024-10-20] [09:55:16] : Plc Initialized success
+[2024-10-20] [09:55:26] : Display : Program Setup
+[2024-10-20] [09:55:33] : Program End
+[2024-10-20] [09:55:33] : DB Disconnect Success
+[2024-10-20] [09:56:00] : Comport Setup Load
+[2024-10-20] [09:56:00] : Load Model : 5G200
+[2024-10-20] [09:56:00] : Program Start
+[2024-10-20] [09:56:00] : Thread Initialized success
+[2024-10-20] [09:56:00] : Calibration Initialized success
+[2024-10-20] [09:56:01] : Plc Initialized success
+[2024-10-20] [09:56:09] : Program End
+[2024-10-20] [09:56:09] : DB Disconnect Success
+[2024-10-20] [09:56:41] : Comport Setup Load
+[2024-10-20] [09:56:41] : Load Model : 5G200
+[2024-10-20] [09:56:41] : Program Start
+[2024-10-20] [09:56:41] : Thread Initialized success
+[2024-10-20] [09:56:41] : Calibration Initialized success
+[2024-10-20] [09:56:41] : Plc Initialized success
+[2024-10-20] [09:56:41] : Error 01,셔틀전/후 알람 ON
+[2024-10-20] [09:56:41] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [09:56:48] : Display : Model Setup
+[2024-10-20] [09:56:49] : Load Model : 5G200
+[2024-10-20] [09:56:51] : Display : Program Setup
+[2024-10-20] [09:59:46] : LED_2
+[2024-10-20] [09:59:47] : LED_1
+[2024-10-20] [09:59:48] : LED_2
+[2024-10-20] [09:59:48] : LED_1
+[2024-10-20] [10:04:46] : Error 01,셔틀전/후 알람 OFF
+[2024-10-20] [10:09:24] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [10:09:25] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [10:09:48] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [10:09:50] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [10:09:54] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [10:09:55] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [10:12:57] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [10:12:58] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [10:13:51] : LED_6
+[2024-10-20] [10:13:56] : LED_6
+[2024-10-20] [10:13:56] : LED_5
+[2024-10-20] [10:13:57] : LED_6
+[2024-10-20] [10:13:59] : LED_6
+[2024-10-20] [10:14:01] : LED_6
+[2024-10-20] [10:14:03] : LED_7
+[2024-10-20] [10:14:04] : LED_6
+[2024-10-20] [10:14:05] : LED_5
+[2024-10-20] [10:14:05] : LED_6
+[2024-10-20] [10:14:06] : LED_6
+[2024-10-20] [10:14:07] : LED_5
+[2024-10-20] [10:14:07] : LED_6
+[2024-10-20] [10:14:07] : LED_5
+[2024-10-20] [10:14:08] : LED_6
+[2024-10-20] [10:14:10] : LED_6
+[2024-10-20] [10:14:10] : LED_5
+[2024-10-20] [10:14:11] : LED_6
+[2024-10-20] [10:14:12] : LED_6
+[2024-10-20] [10:14:13] : LED_6
+[2024-10-20] [10:14:26] : LED_4
+[2024-10-20] [10:14:27] : LED_3
+[2024-10-20] [10:14:28] : LED_4
+[2024-10-20] [10:14:28] : LED_3
+[2024-10-20] [10:14:29] : LED_4
+[2024-10-20] [10:14:30] : LED_3
+[2024-10-20] [10:14:34] : LED_1
+[2024-10-20] [10:14:34] : LED_2
+[2024-10-20] [10:14:37] : LED_6
+[2024-10-20] [10:14:37] : LED_5
+[2024-10-20] [10:14:38] : LED_3
+[2024-10-20] [10:14:38] : LED_4
+[2024-10-20] [10:15:15] : LED_4
+[2024-10-20] [10:15:16] : LED_3
+[2024-10-20] [10:15:16] : LED_4
+[2024-10-20] [10:15:17] : LED_3
+[2024-10-20] [10:15:17] : LED_3
+[2024-10-20] [10:15:19] : LED_1
+[2024-10-20] [10:15:19] : LED_2
+[2024-10-20] [10:15:20] : LED_1
+[2024-10-20] [10:15:20] : LED_2
+[2024-10-20] [10:15:20] : LED_1
+[2024-10-20] [10:15:20] : LED_1
+[2024-10-20] [10:15:21] : LED_3
+[2024-10-20] [10:15:21] : LED_4
+[2024-10-20] [10:15:23] : LED_6
+[2024-10-20] [10:15:23] : LED_5
+[2024-10-20] [10:15:24] : LED_3
+[2024-10-20] [10:15:24] : LED_4
+[2024-10-20] [10:15:24] : LED_2
+[2024-10-20] [10:15:25] : LED_1
+[2024-10-20] [10:15:25] : LED_2
+[2024-10-20] [10:15:25] : LED_4
+[2024-10-20] [10:15:25] : LED_3
+[2024-10-20] [10:15:26] : LED_1
+[2024-10-20] [10:15:26] : LED_2
+[2024-10-20] [10:15:26] : LED_4
+[2024-10-20] [10:15:27] : LED_2
+[2024-10-20] [10:15:27] : LED_4
+[2024-10-20] [10:15:28] : LED_2
+[2024-10-20] [10:15:28] : LED_1
+[2024-10-20] [10:15:28] : LED_3
+[2024-10-20] [10:15:29] : LED_4
+[2024-10-20] [10:15:30] : LED_2
+[2024-10-20] [10:15:30] : LED_4
+[2024-10-20] [10:15:31] : LED_2
+[2024-10-20] [10:15:31] : LED_4
+[2024-10-20] [10:15:31] : LED_2
+[2024-10-20] [10:15:32] : LED_1
+[2024-10-20] [10:15:32] : LED_3
+[2024-10-20] [10:15:33] : LED_4
+[2024-10-20] [10:15:34] : LED_2
+[2024-10-20] [10:15:34] : LED_4
+[2024-10-20] [10:15:35] : LED_2
+[2024-10-20] [10:15:35] : LED_1
+[2024-10-20] [10:15:36] : LED_2
+[2024-10-20] [10:15:36] : LED_4
+[2024-10-20] [10:15:37] : LED_3
+[2024-10-20] [10:15:38] : LED_4
+[2024-10-20] [10:15:39] : LED_3
+[2024-10-20] [10:15:39] : LED_4
+[2024-10-20] [10:15:40] : LED_2
+[2024-10-20] [10:15:41] : LED_1
+[2024-10-20] [10:15:41] : LED_2
+[2024-10-20] [10:15:43] : LED_2
+[2024-10-20] [10:15:44] : LED_1
+[2024-10-20] [10:15:44] : LED_3
+[2024-10-20] [10:15:44] : LED_4
+[2024-10-20] [10:15:44] : LED_3
+[2024-10-20] [10:15:45] : LED_4
+[2024-10-20] [10:15:45] : LED_2
+[2024-10-20] [10:15:45] : LED_1
+[2024-10-20] [10:15:46] : LED_3
+[2024-10-20] [10:15:46] : LED_4
+[2024-10-20] [10:15:46] : LED_2
+[2024-10-20] [10:15:50] : LED_2
+[2024-10-20] [10:15:51] : LED_3
+[2024-10-20] [10:15:52] : LED_4
+[2024-10-20] [10:15:52] : LED_3
+[2024-10-20] [10:15:53] : LED_4
+[2024-10-20] [10:15:54] : LED_3
+[2024-10-20] [10:15:54] : LED_4
+[2024-10-20] [10:15:55] : LED_3
+[2024-10-20] [10:15:56] : LED_4
+[2024-10-20] [10:15:56] : LED_3
+[2024-10-20] [10:15:57] : LED_4
+[2024-10-20] [10:15:58] : LED_3
+[2024-10-20] [10:15:58] : LED_4
+[2024-10-20] [10:15:59] : LED_3
+[2024-10-20] [10:16:00] : LED_4
+[2024-10-20] [10:16:00] : LED_3
+[2024-10-20] [10:16:01] : LED_4
+[2024-10-20] [10:16:02] : LED_6
+[2024-10-20] [10:16:02] : LED_5
+[2024-10-20] [10:16:02] : LED_6
+[2024-10-20] [10:16:03] : LED_2
+[2024-10-20] [10:16:03] : LED_1
+[2024-10-20] [10:16:03] : LED_2
+[2024-10-20] [10:16:36] : LED_1
+[2024-10-20] [10:16:38] : LED_2
+[2024-10-20] [10:16:38] : LED_1
+[2024-10-20] [10:16:39] : LED_2
+[2024-10-20] [10:16:39] : LED_1
+[2024-10-20] [10:16:41] : LED_2
+[2024-10-20] [10:16:41] : LED_1
+[2024-10-20] [10:16:41] : LED_2
+[2024-10-20] [10:16:42] : LED_1
+[2024-10-20] [10:16:44] : LED_6
+[2024-10-20] [10:16:44] : LED_5
+[2024-10-20] [10:16:45] : LED_6
+[2024-10-20] [10:16:45] : LED_5
+[2024-10-20] [10:16:45] : LED_6
+[2024-10-20] [10:16:46] : LED_5
+[2024-10-20] [10:18:38] : LED_10
+[2024-10-20] [10:18:39] : LED_9
+[2024-10-20] [10:18:39] : LED_10
+[2024-10-20] [10:18:40] : LED_10
+[2024-10-20] [10:18:41] : LED_10
+[2024-10-20] [10:18:42] : LED_10
+[2024-10-20] [10:18:42] : LED_10
+[2024-10-20] [10:18:42] : LED_9
+[2024-10-20] [10:18:47] : LED_10
+[2024-10-20] [10:18:47] : LED_9
+[2024-10-20] [10:18:49] : LED_10
+[2024-10-20] [10:18:50] : LED_9
+[2024-10-20] [10:18:51] : LED_10
+[2024-10-20] [10:18:52] : LED_9
+[2024-10-20] [10:18:53] : LED_7
+[2024-10-20] [10:18:54] : LED_8
+[2024-10-20] [10:18:57] : LED_12
+[2024-10-20] [10:18:57] : LED_11
+[2024-10-20] [10:18:58] : LED_12
+[2024-10-20] [10:18:59] : LED_11
+[2024-10-20] [10:19:02] : LED_7
+[2024-10-20] [10:19:02] : LED_7
+[2024-10-20] [10:19:03] : LED_8
+[2024-10-20] [10:19:03] : LED_7
+[2024-10-20] [10:19:03] : LED_6
+[2024-10-20] [10:19:04] : LED_5
+[2024-10-20] [10:19:04] : LED_3
+[2024-10-20] [10:19:04] : LED_4
+[2024-10-20] [10:19:05] : LED_2
+[2024-10-20] [10:19:05] : LED_1
+[2024-10-20] [10:19:05] : LED_2
+[2024-10-20] [10:19:09] : LED_2
+[2024-10-20] [10:19:14] : LED_10
+[2024-10-20] [10:19:15] : LED_9
+[2024-10-20] [10:19:16] : LED_10
+[2024-10-20] [10:19:17] : LED_9
+[2024-10-20] [10:19:19] : LED_6
+[2024-10-20] [10:19:20] : LED_4
+[2024-10-20] [10:19:20] : LED_3
+[2024-10-20] [10:19:20] : LED_4
+[2024-10-20] [10:19:21] : LED_1
+[2024-10-20] [10:19:21] : LED_2
+[2024-10-20] [10:19:21] : LED_1
+[2024-10-20] [10:19:21] : LED_2
+[2024-10-20] [10:19:22] : LED_1
+[2024-10-20] [10:19:22] : LED_3
+[2024-10-20] [10:19:22] : LED_4
+[2024-10-20] [10:19:22] : LED_6
+[2024-10-20] [10:19:23] : LED_5
+[2024-10-20] [10:19:23] : LED_6
+[2024-10-20] [10:19:23] : LED_5
+[2024-10-20] [10:19:24] : LED_6
+[2024-10-20] [10:19:24] : LED_7
+[2024-10-20] [10:19:25] : LED_8
+[2024-10-20] [10:19:25] : LED_12
+[2024-10-20] [10:19:30] : LED_11
+[2024-10-20] [10:19:33] : LED_7
+[2024-10-20] [10:19:34] : LED_8
+[2024-10-20] [10:19:34] : LED_7
+[2024-10-20] [10:19:34] : LED_8
+[2024-10-20] [10:19:34] : LED_7
+[2024-10-20] [10:20:13] : LED_7
+[2024-10-20] [10:20:14] : LED_7
+[2024-10-20] [10:20:14] : LED_8
+[2024-10-20] [10:20:15] : LED_6
+[2024-10-20] [10:20:15] : LED_5
+[2024-10-20] [10:20:15] : LED_6
+[2024-10-20] [10:20:15] : LED_4
+[2024-10-20] [10:20:16] : LED_3
+[2024-10-20] [10:20:16] : LED_2
+[2024-10-20] [10:20:16] : LED_1
+[2024-10-20] [10:20:17] : LED_2
+[2024-10-20] [10:20:17] : LED_4
+[2024-10-20] [10:20:17] : LED_6
+[2024-10-20] [10:21:37] : LED_2
+[2024-10-20] [10:21:37] : LED_1
+[2024-10-20] [10:21:38] : LED_3
+[2024-10-20] [10:21:38] : LED_4
+[2024-10-20] [10:21:38] : LED_3
+[2024-10-20] [10:21:42] : LED_2
+[2024-10-20] [10:21:43] : LED_1
+[2024-10-20] [10:21:43] : LED_3
+[2024-10-20] [10:21:44] : LED_4
+[2024-10-20] [10:21:44] : LED_3
+[2024-10-20] [10:21:45] : LED_1
+[2024-10-20] [10:21:45] : LED_2
+[2024-10-20] [10:21:45] : LED_4
+[2024-10-20] [10:21:51] : LED_6
+[2024-10-20] [10:21:51] : LED_5
+[2024-10-20] [10:21:52] : LED_6
+[2024-10-20] [10:21:52] : LED_5
+[2024-10-20] [10:21:52] : LED_5
+[2024-10-20] [10:21:53] : LED_4
+[2024-10-20] [10:21:53] : LED_3
+[2024-10-20] [10:21:54] : LED_4
+[2024-10-20] [10:21:54] : LED_6
+[2024-10-20] [10:21:54] : LED_3
+[2024-10-20] [10:21:54] : LED_3
+[2024-10-20] [10:21:55] : LED_4
+[2024-10-20] [10:21:55] : LED_3
+[2024-10-20] [10:21:55] : LED_4
+[2024-10-20] [10:21:55] : LED_3
+[2024-10-20] [10:21:56] : LED_1
+[2024-10-20] [10:21:56] : LED_2
+[2024-10-20] [10:21:56] : LED_1
+[2024-10-20] [10:21:56] : LED_2
+[2024-10-20] [10:21:57] : LED_1
+[2024-10-20] [10:21:57] : LED_2
+[2024-10-20] [10:21:57] : LED_4
+[2024-10-20] [10:21:57] : LED_6
+[2024-10-20] [10:21:57] : LED_5
+[2024-10-20] [10:21:58] : LED_5
+[2024-10-20] [10:21:58] : LED_3
+[2024-10-20] [10:21:58] : LED_3
+[2024-10-20] [10:22:19] : LED_2
+[2024-10-20] [10:22:19] : LED_2
+[2024-10-20] [10:22:20] : LED_4
+[2024-10-20] [10:22:20] : LED_4
+[2024-10-20] [10:22:20] : LED_6
+[2024-10-20] [10:22:21] : LED_5
+[2024-10-20] [10:22:21] : LED_6
+[2024-10-20] [10:22:22] : LED_4
+[2024-10-20] [10:22:22] : LED_3
+[2024-10-20] [10:22:23] : LED_4
+[2024-10-20] [10:22:23] : LED_4
+[2024-10-20] [10:22:25] : LED_4
+[2024-10-20] [10:22:29] : LED_6
+[2024-10-20] [10:22:30] : LED_2
+[2024-10-20] [10:22:30] : LED_2
+[2024-10-20] [10:22:30] : LED_2
+[2024-10-20] [10:22:31] : LED_1
+[2024-10-20] [10:22:31] : LED_3
+[2024-10-20] [10:22:32] : LED_5
+[2024-10-20] [10:22:32] : LED_5
+[2024-10-20] [10:22:33] : LED_6
+[2024-10-20] [10:22:33] : LED_6
+[2024-10-20] [10:22:33] : LED_4
+[2024-10-20] [10:22:34] : LED_6
+[2024-10-20] [10:22:34] : LED_3
+[2024-10-20] [10:22:34] : LED_3
+[2024-10-20] [10:22:34] : LED_5
+[2024-10-20] [10:22:35] : LED_5
+[2024-10-20] [10:22:35] : LED_1
+[2024-10-20] [10:22:36] : LED_1
+[2024-10-20] [10:22:36] : LED_1
+[2024-10-20] [10:22:37] : LED_1
+[2024-10-20] [10:22:37] : LED_1
+[2024-10-20] [10:22:37] : LED_1
+[2024-10-20] [10:22:39] : LED_3
+[2024-10-20] [10:22:39] : LED_3
+[2024-10-20] [10:22:41] : LED_4
+[2024-10-20] [10:22:42] : LED_3
+[2024-10-20] [10:22:42] : LED_2
+[2024-10-20] [10:22:42] : LED_1
+[2024-10-20] [10:22:42] : LED_2
+[2024-10-20] [10:22:43] : LED_4
+[2024-10-20] [10:22:43] : LED_6
+[2024-10-20] [10:22:43] : LED_6
+[2024-10-20] [10:22:43] : LED_5
+[2024-10-20] [10:22:44] : LED_6
+[2024-10-20] [10:22:44] : LED_5
+[2024-10-20] [10:22:44] : LED_6
+[2024-10-20] [10:22:44] : LED_5
+[2024-10-20] [10:23:00] : LED_2
+[2024-10-20] [10:23:01] : LED_1
+[2024-10-20] [10:23:01] : LED_2
+[2024-10-20] [10:23:01] : LED_1
+[2024-10-20] [10:28:45] : LED_1
+[2024-10-20] [10:28:47] : LED_2
+[2024-10-20] [10:28:47] : LED_2
+[2024-10-20] [10:28:50] : LED_1
+[2024-10-20] [10:28:50] : LED_2
+[2024-10-20] [10:28:51] : LED_1
+[2024-10-20] [10:28:51] : LED_2
+[2024-10-20] [10:28:52] : LED_2
+[2024-10-20] [10:28:52] : LED_1
+[2024-10-20] [10:28:53] : LED_2
+[2024-10-20] [10:28:54] : LED_1
+[2024-10-20] [10:28:54] : LED_2
+[2024-10-20] [10:28:55] : LED_1
+[2024-10-20] [10:28:55] : LED_2
+[2024-10-20] [10:28:56] : LED_1
+[2024-10-20] [10:28:56] : LED_2
+[2024-10-20] [10:28:57] : LED_1
+[2024-10-20] [10:28:57] : LED_2
+[2024-10-20] [10:28:58] : LED_1
+[2024-10-20] [10:28:59] : LED_2
+[2024-10-20] [10:29:12] : LED_7
+[2024-10-20] [10:29:12] : LED_7
+[2024-10-20] [10:29:34] : LED_7
+[2024-10-20] [10:29:35] : LED_7
+[2024-10-20] [10:30:06] : LED_7
+[2024-10-20] [10:30:10] : LED_7
+[2024-10-20] [10:30:11] : LED_7
+[2024-10-20] [10:30:28] : LED_8
+[2024-10-20] [10:30:28] : LED_8
+[2024-10-20] [10:30:29] : LED_7
+[2024-10-20] [10:30:31] : LED_8
+[2024-10-20] [10:30:31] : LED_8
+[2024-10-20] [10:30:31] : LED_8
+[2024-10-20] [10:30:49] : LED_8
+[2024-10-20] [10:30:58] : LED_1
+[2024-10-20] [10:30:59] : LED_2
+[2024-10-20] [10:31:02] : LED_1
+[2024-10-20] [10:31:06] : LED_2
+[2024-10-20] [10:31:07] : LED_2
+[2024-10-20] [10:31:12] : LED_8
+[2024-10-20] [10:31:18] : LED_7
+[2024-10-20] [10:31:19] : LED_8
+[2024-10-20] [10:31:20] : LED_7
+[2024-10-20] [10:31:21] : LED_8
+[2024-10-20] [10:31:22] : LED_7
+[2024-10-20] [10:31:23] : LED_8
+[2024-10-20] [10:31:24] : LED_7
+[2024-10-20] [10:31:32] : LED_8
+[2024-10-20] [10:31:43] : LED_7
+[2024-10-20] [10:31:44] : LED_8
+[2024-10-20] [10:32:14] : LED_10
+[2024-10-20] [10:32:16] : LED_9
+[2024-10-20] [10:32:36] : LED_10
+[2024-10-20] [10:32:37] : LED_9
+[2024-10-20] [10:32:38] : LED_10
+[2024-10-20] [10:32:38] : LED_9
+[2024-10-20] [10:32:43] : LED_7
+[2024-10-20] [10:32:44] : LED_8
+[2024-10-20] [10:32:45] : LED_7
+[2024-10-20] [10:32:47] : LED_8
+[2024-10-20] [10:32:49] : LED_10
+[2024-10-20] [10:32:50] : LED_9
+[2024-10-20] [10:32:50] : LED_7
+[2024-10-20] [10:33:17] : LED_10
+[2024-10-20] [10:33:18] : LED_9
+[2024-10-20] [10:33:33] : LED_10
+[2024-10-20] [10:33:33] : LED_9
+[2024-10-20] [10:33:35] : LED_10
+[2024-10-20] [10:33:35] : LED_9
+[2024-10-20] [10:33:48] : LED_4
+[2024-10-20] [10:33:49] : LED_3
+[2024-10-20] [10:33:52] : LED_6
+[2024-10-20] [10:34:04] : LED_4
+[2024-10-20] [10:34:05] : LED_4
+[2024-10-20] [10:34:05] : LED_3
+[2024-10-20] [10:34:12] : LED_4
+[2024-10-20] [10:34:13] : LED_4
+[2024-10-20] [10:34:14] : LED_4
+[2024-10-20] [10:34:14] : LED_4
+[2024-10-20] [10:35:03] : LED_4
+[2024-10-20] [10:35:19] : LED_3
+[2024-10-20] [10:35:23] : LED_5
+[2024-10-20] [10:35:29] : LED_1
+[2024-10-20] [10:35:45] : LED_7
+[2024-10-20] [10:36:06] : LED_2
+[2024-10-20] [10:36:28] : LED_6
+[2024-10-20] [10:36:50] : LED_4
+[2024-10-20] [10:36:57] : LED_3
+[2024-10-20] [10:37:01] : LED_4
+[2024-10-20] [10:37:07] : LED_3
+[2024-10-20] [10:37:10] : LED_4
+[2024-10-20] [10:43:38] : LED_3
+[2024-10-20] [10:43:43] : LED_4
+[2024-10-20] [10:43:57] : LED_3
+[2024-10-20] [10:44:42] : LED_5
+[2024-10-20] [10:47:45] : LED_10
+[2024-10-20] [10:48:03] : LED_9
+[2024-10-20] [10:48:08] : LED_10
+[2024-10-20] [10:48:44] : LED_9
+[2024-10-20] [10:48:52] : LED_10
+[2024-10-20] [10:49:10] : LED_9
+[2024-10-20] [10:49:24] : LED_10
+[2024-10-20] [10:49:42] : LED_9
+[2024-10-20] [10:49:49] : LED_6
+[2024-10-20] [10:50:05] : LED_4
+[2024-10-20] [10:50:06] : LED_4
+[2024-10-20] [10:50:07] : LED_4
+[2024-10-20] [10:50:10] : LED_4
+[2024-10-20] [10:51:07] : LED_4
+[2024-10-20] [10:51:15] : LED_10
+[2024-10-20] [10:54:42] : LED_9
+[2024-10-20] [10:54:45] : LED_3
+[2024-10-20] [10:54:51] : LED_5
+[2024-10-20] [10:56:01] : LED_10
+[2024-10-20] [10:57:28] : Program End
+[2024-10-20] [10:57:28] : DB Disconnect Success
+[2024-10-20] [10:59:17] : Comport Setup Load
+[2024-10-20] [10:59:17] : Load Model : 5G200
+[2024-10-20] [10:59:17] : Program Start
+[2024-10-20] [10:59:17] : Thread Initialized success
+[2024-10-20] [10:59:17] : Calibration Initialized success
+[2024-10-20] [10:59:17] : Plc Initialized success
+[2024-10-20] [10:59:17] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [10:59:21] : LED_9
+[2024-10-20] [10:59:25] : LED_6
+[2024-10-20] [10:59:35] : LED_4
+[2024-10-20] [11:00:25] : LED_10
+[2024-10-20] [11:00:45] : Program End
+[2024-10-20] [11:00:45] : DB Disconnect Success
+[2024-10-20] [11:01:46] : Comport Setup Load
+[2024-10-20] [11:01:46] : Load Model : 5G200
+[2024-10-20] [11:01:46] : Program Start
+[2024-10-20] [11:01:46] : Thread Initialized success
+[2024-10-20] [11:01:46] : Calibration Initialized success
+[2024-10-20] [11:01:46] : Plc Initialized success
+[2024-10-20] [11:01:46] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:02:51] : LED_9
+[2024-10-20] [11:02:57] : LED_8
+[2024-10-20] [11:03:26] : Program End
+[2024-10-20] [11:03:26] : DB Disconnect Success
+[2024-10-20] [11:14:47] : Comport Setup Load
+[2024-10-20] [11:14:47] : Load Model : 5G200
+[2024-10-20] [11:14:47] : Program Start
+[2024-10-20] [11:14:47] : Thread Initialized success
+[2024-10-20] [11:14:47] : Calibration Initialized success
+[2024-10-20] [11:14:47] : Plc Initialized success
+[2024-10-20] [11:14:47] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:14:53] : LED_7
+[2024-10-20] [11:15:06] : LED_3
+[2024-10-20] [11:15:23] : LED_7
+[2024-10-20] [11:15:28] : LED_5
+[2024-10-20] [11:15:34] : LED_6
+[2024-10-20] [11:15:42] : LED_4
+[2024-10-20] [11:15:48] : LED_8
+[2024-10-20] [11:15:50] : LED_10
+[2024-10-20] [11:16:14] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:15] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:16:17] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:18] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:16:20] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:21] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:16:23] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:24] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:16:25] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:26] : Zeroset Sig:1, Sensing Count:60
+[2024-10-20] [11:16:28] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:29] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:16:32] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:33] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:16:34] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:35] : Zeroset Sig:1, Sensing Count:60
+[2024-10-20] [11:16:41] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:42] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:16:43] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:44] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:16:47] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:48] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:16:53] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:16:54] : Zeroset Sig:1, Sensing Count:64
+[2024-10-20] [11:17:09] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:10] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:17:13] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:14] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:17:16] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:17] : Zeroset Sig:1, Sensing Count:60
+[2024-10-20] [11:17:19] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:20] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:17:21] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:22] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:17:23] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:24] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:17:28] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:29] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:17:37] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:38] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:17:41] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:42] : Zeroset Sig:1, Sensing Count:64
+[2024-10-20] [11:17:44] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:45] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:17:47] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:48] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:17:50] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:51] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:17:56] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:17:57] : Zeroset Sig:1, Sensing Count:59
+[2024-10-20] [11:18:06] : Program End
+[2024-10-20] [11:18:06] : DB Disconnect Success
+[2024-10-20] [11:19:54] : Comport Setup Load
+[2024-10-20] [11:19:54] : Load Model : 5G200
+[2024-10-20] [11:19:54] : Program Start
+[2024-10-20] [11:19:54] : Thread Initialized success
+[2024-10-20] [11:19:54] : Calibration Initialized success
+[2024-10-20] [11:19:54] : Plc Initialized success
+[2024-10-20] [11:19:54] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:20:04] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:05] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:20:06] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:07] : Zeroset Sig:1, Sensing Count:64
+[2024-10-20] [11:20:08] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:09] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:20:11] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:12] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:20:13] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:15] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:20:16] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:17] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:20:18] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:19] : Zeroset Sig:1, Sensing Count:59
+[2024-10-20] [11:20:21] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:22] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:20:23] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:24] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:20:25] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:26] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:20:27] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:28] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:20:29] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:30] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:20:31] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:32] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:20:33] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:20:34] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:21:11] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:21:12] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:21:13] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:21:14] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:21:15] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:21:16] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:21:19] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:21:20] : Zeroset Sig:1, Sensing Count:61
+[2024-10-20] [11:21:21] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:21:22] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:21:23] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:21:24] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:21:25] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:21:26] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:21:27] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:21:28] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:21:31] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:21:32] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:21:34] : Program End
+[2024-10-20] [11:21:34] : DB Disconnect Success
+[2024-10-20] [11:23:46] : Comport Setup Load
+[2024-10-20] [11:23:46] : Load Model : 5G200
+[2024-10-20] [11:23:46] : Program Start
+[2024-10-20] [11:23:46] : Thread Initialized success
+[2024-10-20] [11:23:46] : Calibration Initialized success
+[2024-10-20] [11:23:46] : Plc Initialized success
+[2024-10-20] [11:23:46] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:23:50] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:23:51] : Zeroset Sig:1, Sensing Count:58
+[2024-10-20] [11:23:53] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:23:54] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:23:56] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:23:57] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:23:59] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:24:00] : Zeroset Sig:1, Sensing Count:61
+[2024-10-20] [11:24:08] : Program End
+[2024-10-20] [11:24:08] : DB Disconnect Success
+[2024-10-20] [11:25:40] : Comport Setup Load
+[2024-10-20] [11:25:40] : Load Model : 5G200
+[2024-10-20] [11:25:40] : Program Start
+[2024-10-20] [11:25:40] : Thread Initialized success
+[2024-10-20] [11:25:40] : Calibration Initialized success
+[2024-10-20] [11:25:40] : Plc Initialized success
+[2024-10-20] [11:25:40] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:25:56] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:25:57] : Auto Sig:1, Sensing Count:61
+[2024-10-20] [11:26:08] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:26:09] : Auto Sig:1, Sensing Count:59
+[2024-10-20] [11:26:52] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:26:53] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [11:26:56] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:26:57] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [11:27:00] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:27:01] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [11:27:04] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:27:05] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [11:27:09] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:27:11] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [11:27:14] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:27:15] : Manual Sig:1, Sensing Count:57
+[2024-10-20] [11:27:19] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:27:20] : Manual Sig:1, Sensing Count:56
+[2024-10-20] [11:27:40] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:27:41] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [11:27:55] : Program End
+[2024-10-20] [11:27:55] : DB Disconnect Success
+[2024-10-20] [11:28:51] : Comport Setup Load
+[2024-10-20] [11:28:51] : Load Model : 5G200
+[2024-10-20] [11:28:51] : Program Start
+[2024-10-20] [11:28:51] : Thread Initialized success
+[2024-10-20] [11:28:51] : Calibration Initialized success
+[2024-10-20] [11:28:51] : Plc Initialized success
+[2024-10-20] [11:28:51] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:29:16] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:29:17] : Auto Sig:1, Sensing Count:57
+[2024-10-20] [11:29:18] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:29:19] : Auto Sig:1, Sensing Count:58
+[2024-10-20] [11:29:25] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:29:26] : Auto Sig:1, Sensing Count:59
+[2024-10-20] [11:29:28] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:29:29] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [11:29:30] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:29:31] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [11:29:32] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:29:33] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [11:29:35] : Program End
+[2024-10-20] [11:29:35] : DB Disconnect Success
+[2024-10-20] [11:31:17] : Comport Setup Load
+[2024-10-20] [11:31:17] : Load Model : 5G200
+[2024-10-20] [11:31:17] : Program Start
+[2024-10-20] [11:31:17] : Thread Initialized success
+[2024-10-20] [11:31:17] : Calibration Initialized success
+[2024-10-20] [11:31:17] : Plc Initialized success
+[2024-10-20] [11:31:17] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:31:20] : Program End
+[2024-10-20] [11:31:20] : DB Disconnect Success
+[2024-10-20] [11:31:50] : Comport Setup Load
+[2024-10-20] [11:31:50] : Load Model : 5G200
+[2024-10-20] [11:31:50] : Program Start
+[2024-10-20] [11:31:50] : Thread Initialized success
+[2024-10-20] [11:31:50] : Calibration Initialized success
+[2024-10-20] [11:31:50] : Plc Initialized success
+[2024-10-20] [11:31:50] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:31:54] : Program End
+[2024-10-20] [11:31:54] : DB Disconnect Success
+[2024-10-20] [11:35:00] : Comport Setup Load
+[2024-10-20] [11:35:00] : Load Model : 5G200
+[2024-10-20] [11:35:00] : Program Start
+[2024-10-20] [11:35:00] : Thread Initialized success
+[2024-10-20] [11:35:00] : Calibration Initialized success
+[2024-10-20] [11:35:00] : Plc Initialized success
+[2024-10-20] [11:35:00] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:35:20] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:35:21] : Zeroset Sig:1, Sensing Count:60
+[2024-10-20] [11:35:24] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:35:25] : Zeroset Sig:1, Sensing Count:61
+[2024-10-20] [11:35:27] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:35:28] : Zeroset Sig:1, Sensing Count:60
+[2024-10-20] [11:36:00] : Program End
+[2024-10-20] [11:36:00] : DB Disconnect Success
+[2024-10-20] [11:37:03] : Comport Setup Load
+[2024-10-20] [11:37:03] : Load Model : 5G200
+[2024-10-20] [11:37:03] : Program Start
+[2024-10-20] [11:37:03] : Thread Initialized success
+[2024-10-20] [11:37:03] : Calibration Initialized success
+[2024-10-20] [11:37:03] : Plc Initialized success
+[2024-10-20] [11:37:03] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:37:24] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:37:25] : Auto Sig:1, Sensing Count:54
+[2024-10-20] [11:37:27] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:37:28] : Manual Sig:1, Sensing Count:56
+[2024-10-20] [11:37:29] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:37:30] : Manual Sig:1, Sensing Count:55
+[2024-10-20] [11:37:32] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:37:33] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [11:37:34] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:37:35] : Manual Sig:1, Sensing Count:57
+[2024-10-20] [11:37:37] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:37:38] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [11:37:53] : Program End
+[2024-10-20] [11:37:53] : DB Disconnect Success
+[2024-10-20] [11:38:26] : Comport Setup Load
+[2024-10-20] [11:38:26] : Load Model : 5G200
+[2024-10-20] [11:38:26] : Program Start
+[2024-10-20] [11:38:26] : Thread Initialized success
+[2024-10-20] [11:38:26] : Calibration Initialized success
+[2024-10-20] [11:38:26] : Plc Initialized success
+[2024-10-20] [11:43:28] : Comport Setup Load
+[2024-10-20] [11:43:28] : Load Model : 5G200
+[2024-10-20] [11:43:28] : Program Start
+[2024-10-20] [11:43:28] : Thread Initialized success
+[2024-10-20] [11:43:28] : Calibration Initialized success
+[2024-10-20] [11:43:28] : Plc Initialized success
+[2024-10-20] [11:43:28] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:43:45] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:43:46] : Auto Sig:1, Sensing Count:57
+[2024-10-20] [11:43:48] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:43:49] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [11:43:51] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:43:53] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [11:43:54] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:43:56] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [11:44:08] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:44:09] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:44:10] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:44:11] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [11:44:13] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:44:14] : Zeroset Sig:1, Sensing Count:61
+[2024-10-20] [11:44:15] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:44:16] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:44:17] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:44:18] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:44:19] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:44:20] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:44:28] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:44:29] : Auto Sig:1, Sensing Count:59
+[2024-10-20] [11:44:30] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:44:32] : Auto Sig:1, Sensing Count:61
+[2024-10-20] [11:44:36] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:44:37] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:44:44] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:44:45] : Auto Sig:1, Sensing Count:59
+[2024-10-20] [11:44:46] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:44:47] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [11:44:48] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:44:49] : Manual Sig:1, Sensing Count:56
+[2024-10-20] [11:44:50] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:44:51] : Manual Sig:1, Sensing Count:62
+[2024-10-20] [11:44:56] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:44:57] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [11:45:00] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:45:01] : Manual Sig:1, Sensing Count:57
+[2024-10-20] [11:45:09] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:45:10] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [11:45:28] : Program End
+[2024-10-20] [11:45:28] : DB Disconnect Success
+[2024-10-20] [11:45:57] : Comport Setup Load
+[2024-10-20] [11:45:57] : Load Model : 5G200
+[2024-10-20] [11:45:57] : Program Start
+[2024-10-20] [11:45:57] : Thread Initialized success
+[2024-10-20] [11:45:57] : Calibration Initialized success
+[2024-10-20] [11:45:57] : Plc Initialized success
+[2024-10-20] [11:45:57] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:47:54] : Program End
+[2024-10-20] [11:47:54] : DB Disconnect Success
+[2024-10-20] [11:49:36] : Comport Setup Load
+[2024-10-20] [11:49:36] : Load Model : 5G200
+[2024-10-20] [11:49:36] : Program Start
+[2024-10-20] [11:49:36] : Thread Initialized success
+[2024-10-20] [11:49:36] : Calibration Initialized success
+[2024-10-20] [11:49:36] : Plc Initialized success
+[2024-10-20] [11:49:36] : Error 02,셔틀상/하 알람 ON
+[2024-10-20] [11:49:46] : Display : Program Setup
+[2024-10-20] [11:50:23] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:50:25] : Zeroset Sig:1, Sensing Count:64
+[2024-10-20] [11:50:31] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:50:32] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:50:43] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [11:50:44] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [11:50:53] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:50:54] : Auto Sig:1, Sensing Count:59
+[2024-10-20] [11:51:24] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:51:25] : Auto Sig:1, Sensing Count:59
+[2024-10-20] [11:51:26] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:51:27] : Auto Sig:1, Sensing Count:59
+[2024-10-20] [11:51:38] : Error 02,셔틀상/하 알람 OFF
+[2024-10-20] [11:51:44] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:51:45] : Auto Sig:1, Sensing Count:60
+[2024-10-20] [11:51:48] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:51:49] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [11:51:50] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:51:51] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [11:52:02] : Program End
+[2024-10-20] [11:52:02] : DB Disconnect Success
+[2024-10-20] [11:57:11] : Comport Setup Load
+[2024-10-20] [11:57:11] : Load Model : 5G200
+[2024-10-20] [11:57:11] : Program Start
+[2024-10-20] [11:57:11] : Thread Initialized success
+[2024-10-20] [11:57:11] : Calibration Initialized success
+[2024-10-20] [11:57:11] : Plc Initialized success
+[2024-10-20] [11:57:25] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:57:26] : Auto Sig:1, Sensing Count:57
+[2024-10-20] [11:57:28] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:57:29] : Auto Sig:1, Sensing Count:58
+[2024-10-20] [11:57:30] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:57:32] : Manual Sig:1, Sensing Count:57
+[2024-10-20] [11:57:34] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:57:35] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [11:57:36] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:57:37] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [11:57:39] : Program End
+[2024-10-20] [11:57:39] : DB Disconnect Success
+[2024-10-20] [11:59:09] : Comport Setup Load
+[2024-10-20] [11:59:09] : Load Model : 5G200
+[2024-10-20] [11:59:09] : Program Start
+[2024-10-20] [11:59:09] : Thread Initialized success
+[2024-10-20] [11:59:09] : Calibration Initialized success
+[2024-10-20] [11:59:09] : Plc Initialized success
+[2024-10-20] [11:59:22] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [11:59:23] : Auto Sig:1, Sensing Count:60
+[2024-10-20] [11:59:25] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:59:26] : Manual Sig:1, Sensing Count:57
+[2024-10-20] [11:59:28] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:59:29] : Manual Sig:1, Sensing Count:57
+[2024-10-20] [11:59:32] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [11:59:33] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [11:59:38] : Program End
+[2024-10-20] [11:59:38] : DB Disconnect Success
+[2024-10-20] [12:00:20] : Comport Setup Load
+[2024-10-20] [12:00:20] : Load Model : 5G200
+[2024-10-20] [12:00:20] : Program Start
+[2024-10-20] [12:00:20] : Thread Initialized success
+[2024-10-20] [12:00:20] : Calibration Initialized success
+[2024-10-20] [12:00:20] : Plc Initialized success
+[2024-10-20] [12:00:58] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:00:59] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [12:01:03] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:01:04] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [12:01:08] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:01:09] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [12:01:14] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [12:01:15] : Auto Sig:1, Sensing Count:57
+[2024-10-20] [12:01:16] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:01:17] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [12:01:19] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:01:20] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [12:01:22] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:01:23] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [12:01:24] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:01:25] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [12:01:38] : Program End
+[2024-10-20] [12:01:38] : DB Disconnect Success
+[2024-10-20] [12:05:49] : Comport Setup Load
+[2024-10-20] [12:05:49] : Load Model : 5G200
+[2024-10-20] [12:05:49] : Program Start
+[2024-10-20] [12:05:49] : Thread Initialized success
+[2024-10-20] [12:05:49] : Calibration Initialized success
+[2024-10-20] [12:05:49] : Plc Initialized success
+[2024-10-20] [12:06:02] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [12:06:03] : Auto Sig:1, Sensing Count:61
+[2024-10-20] [12:06:05] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:06:06] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [12:06:07] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:06:08] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [12:06:09] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:06:10] : Manual Sig:1, Sensing Count:57
+[2024-10-20] [12:06:14] : Program End
+[2024-10-20] [12:06:14] : DB Disconnect Success
+[2024-10-20] [12:06:41] : Comport Setup Load
+[2024-10-20] [12:06:41] : Load Model : 5G200
+[2024-10-20] [12:06:41] : Program Start
+[2024-10-20] [12:06:41] : Thread Initialized success
+[2024-10-20] [12:06:41] : Calibration Initialized success
+[2024-10-20] [12:06:41] : Plc Initialized success
+[2024-10-20] [12:06:50] : Program End
+[2024-10-20] [12:06:50] : DB Disconnect Success
+[2024-10-20] [12:07:14] : Comport Setup Load
+[2024-10-20] [12:07:14] : Load Model : 5G200
+[2024-10-20] [12:07:14] : Program Start
+[2024-10-20] [12:07:14] : Thread Initialized success
+[2024-10-20] [12:07:14] : Calibration Initialized success
+[2024-10-20] [12:07:14] : Plc Initialized success
+[2024-10-20] [12:07:29] : Program End
+[2024-10-20] [12:07:29] : DB Disconnect Success
+[2024-10-20] [12:07:47] : Comport Setup Load
+[2024-10-20] [12:07:47] : Load Model : 5G200
+[2024-10-20] [12:07:47] : Program Start
+[2024-10-20] [12:07:47] : Thread Initialized success
+[2024-10-20] [12:07:47] : Calibration Initialized success
+[2024-10-20] [12:10:42] : Comport Setup Load
+[2024-10-20] [12:10:42] : Load Model : 5G200
+[2024-10-20] [12:10:42] : Program Start
+[2024-10-20] [12:10:42] : Thread Initialized success
+[2024-10-20] [12:10:42] : Calibration Initialized success
+[2024-10-20] [12:10:42] : Plc Initialized success
+[2024-10-20] [12:11:01] : Program End
+[2024-10-20] [12:11:01] : DB Disconnect Success
+[2024-10-20] [12:11:22] : Comport Setup Load
+[2024-10-20] [12:11:22] : Load Model : 5G200
+[2024-10-20] [12:11:22] : Program Start
+[2024-10-20] [12:11:22] : Thread Initialized success
+[2024-10-20] [12:11:22] : Calibration Initialized success
+[2024-10-20] [12:11:22] : Plc Initialized success
+[2024-10-20] [12:11:51] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:11:52] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [12:11:55] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:11:56] : Zeroset Sig:1, Sensing Count:64
+[2024-10-20] [12:12:03] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [12:12:04] : Auto Sig:1, Sensing Count:63
+[2024-10-20] [12:12:06] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:12:08] : Manual Sig:1, Sensing Count:62
+[2024-10-20] [12:12:11] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:12:12] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [12:12:20] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:12:21] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [12:12:37] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:12:38] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [12:12:42] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:12:43] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [12:12:51] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [12:12:52] : Auto Sig:1, Sensing Count:61
+[2024-10-20] [12:12:57] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:12:58] : Manual Sig:1, Sensing Count:62
+[2024-10-20] [12:12:59] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:13:00] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [12:13:03] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:13:04] : Manual Sig:1, Sensing Count:62
+[2024-10-20] [12:13:38] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:13:39] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [12:13:41] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:13:42] : Manual Sig:1, Sensing Count:56
+[2024-10-20] [12:13:52] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:13:53] : Manual Sig:1, Sensing Count:62
+[2024-10-20] [12:14:12] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:14:13] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [12:14:19] : Program End
+[2024-10-20] [12:14:19] : DB Disconnect Success
+[2024-10-20] [12:15:50] : Comport Setup Load
+[2024-10-20] [12:15:50] : Load Model : 5G200
+[2024-10-20] [12:15:50] : Program Start
+[2024-10-20] [12:15:50] : Thread Initialized success
+[2024-10-20] [12:15:50] : Calibration Initialized success
+[2024-10-20] [12:15:50] : Plc Initialized success
+[2024-10-20] [12:16:03] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:16:04] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [12:16:08] : Program End
+[2024-10-20] [12:16:08] : DB Disconnect Success
+[2024-10-20] [12:18:14] : Comport Setup Load
+[2024-10-20] [12:18:14] : Load Model : 5G200
+[2024-10-20] [12:18:14] : Program Start
+[2024-10-20] [12:18:14] : Thread Initialized success
+[2024-10-20] [12:18:14] : Calibration Initialized success
+[2024-10-20] [12:18:14] : Plc Initialized success
+[2024-10-20] [12:18:25] : Program End
+[2024-10-20] [12:18:25] : DB Disconnect Success
+[2024-10-20] [12:18:47] : Comport Setup Load
+[2024-10-20] [12:18:47] : Load Model : 5G200
+[2024-10-20] [12:18:47] : Program Start
+[2024-10-20] [12:18:47] : Thread Initialized success
+[2024-10-20] [12:18:47] : Calibration Initialized success
+[2024-10-20] [12:18:47] : Plc Initialized success
+[2024-10-20] [12:19:11] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:19:12] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [12:19:14] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:19:15] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [12:19:18] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:19:19] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [12:19:22] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:19:23] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [12:19:27] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [12:19:28] : Zeroset Sig:1, Sensing Count:64
+[2024-10-20] [12:19:32] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [12:19:34] : Auto Sig:1, Sensing Count:60
+[2024-10-20] [12:19:34] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:19:35] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [12:19:38] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:19:39] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [12:19:42] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [12:19:43] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [12:19:46] : Program End
+[2024-10-20] [12:19:46] : DB Disconnect Success
+[2024-10-20] [12:21:02] : Comport Setup Load
+[2024-10-20] [12:21:02] : Load Model : 5G200
+[2024-10-20] [12:21:02] : Program Start
+[2024-10-20] [12:21:02] : Thread Initialized success
+[2024-10-20] [12:21:02] : Calibration Initialized success
+[2024-10-20] [12:21:02] : Plc Initialized success
+[2024-10-20] [12:21:23] : Program End
+[2024-10-20] [12:21:23] : DB Disconnect Success
+[2024-10-20] [12:21:51] : Comport Setup Load
+[2024-10-20] [12:21:51] : Load Model : 5G200
+[2024-10-20] [12:21:51] : Program Start
+[2024-10-20] [12:21:51] : Thread Initialized success
+[2024-10-20] [12:21:51] : Calibration Initialized success
+[2024-10-20] [12:21:51] : Plc Initialized success
+[2024-10-20] [12:22:09] : Program End
+[2024-10-20] [12:22:09] : DB Disconnect Success
+[2024-10-20] [12:22:35] : Comport Setup Load
+[2024-10-20] [12:22:35] : Load Model : 5G200
+[2024-10-20] [12:22:35] : Program Start
+[2024-10-20] [12:22:35] : Thread Initialized success
+[2024-10-20] [12:22:35] : Calibration Initialized success
+[2024-10-20] [12:22:35] : Plc Initialized success
+[2024-10-20] [12:22:43] : Program End
+[2024-10-20] [12:22:43] : DB Disconnect Success
+[2024-10-20] [12:23:08] : Comport Setup Load
+[2024-10-20] [12:23:08] : Load Model : 5G200
+[2024-10-20] [12:23:08] : Program Start
+[2024-10-20] [12:23:08] : Thread Initialized success
+[2024-10-20] [12:23:08] : Calibration Initialized success
+[2024-10-20] [12:23:08] : Plc Initialized success
+[2024-10-20] [12:23:15] : Program End
+[2024-10-20] [12:23:15] : DB Disconnect Success
+[2024-10-20] [12:24:00] : Comport Setup Load
+[2024-10-20] [12:24:00] : Load Model : 5G200
+[2024-10-20] [12:24:00] : Program Start
+[2024-10-20] [12:24:00] : Thread Initialized success
+[2024-10-20] [12:24:00] : Calibration Initialized success
+[2024-10-20] [12:24:00] : Plc Initialized success
+[2024-10-20] [12:24:11] : Program End
+[2024-10-20] [12:24:11] : DB Disconnect Success
+[2024-10-20] [12:24:40] : Comport Setup Load
+[2024-10-20] [12:24:40] : Load Model : 5G200
+[2024-10-20] [12:24:40] : Program Start
+[2024-10-20] [12:24:40] : Thread Initialized success
+[2024-10-20] [12:24:40] : Calibration Initialized success
+[2024-10-20] [12:24:40] : Plc Initialized success
+[2024-10-20] [12:24:50] : Program End
+[2024-10-20] [12:24:50] : DB Disconnect Success
+[2024-10-20] [12:25:18] : Comport Setup Load
+[2024-10-20] [12:25:18] : Load Model : 5G200
+[2024-10-20] [12:25:18] : Program Start
+[2024-10-20] [12:25:18] : Thread Initialized success
+[2024-10-20] [12:25:18] : Calibration Initialized success
+[2024-10-20] [12:25:18] : Plc Initialized success
+[2024-10-20] [12:25:26] : Program End
+[2024-10-20] [12:25:26] : DB Disconnect Success
+[2024-10-20] [12:25:47] : Comport Setup Load
+[2024-10-20] [12:25:47] : Load Model : 5G200
+[2024-10-20] [12:25:47] : Program Start
+[2024-10-20] [12:25:47] : Thread Initialized success
+[2024-10-20] [12:25:47] : Calibration Initialized success
+[2024-10-20] [12:25:47] : Plc Initialized success
+[2024-10-20] [12:25:57] : Program End
+[2024-10-20] [12:25:57] : DB Disconnect Success
+[2024-10-20] [12:26:35] : Comport Setup Load
+[2024-10-20] [12:26:35] : Load Model : 5G200
+[2024-10-20] [12:26:35] : Program Start
+[2024-10-20] [12:26:35] : Thread Initialized success
+[2024-10-20] [12:26:35] : Calibration Initialized success
+[2024-10-20] [12:26:35] : Plc Initialized success
+[2024-10-20] [12:26:57] : Program End
+[2024-10-20] [12:26:57] : DB Disconnect Success
+[2024-10-20] [12:29:52] : Comport Setup Load
+[2024-10-20] [12:29:52] : Load Model : 5G200
+[2024-10-20] [12:29:52] : Program Start
+[2024-10-20] [12:29:52] : Thread Initialized success
+[2024-10-20] [12:29:52] : Calibration Initialized success
+[2024-10-20] [12:29:52] : Plc Initialized success
+[2024-10-20] [12:29:59] : Program End
+[2024-10-20] [12:29:59] : DB Disconnect Success
+[2024-10-20] [12:36:49] : Comport Setup Load
+[2024-10-20] [12:36:49] : Load Model : 5G200
+[2024-10-20] [12:36:49] : Program Start
+[2024-10-20] [12:36:49] : Thread Initialized success
+[2024-10-20] [12:36:49] : Calibration Initialized success
+[2024-10-20] [12:36:49] : Plc Initialized success
+[2024-10-20] [12:37:00] : Program End
+[2024-10-20] [12:37:00] : DB Disconnect Success
+[2024-10-20] [12:37:20] : Comport Setup Load
+[2024-10-20] [12:37:20] : Load Model : 5G200
+[2024-10-20] [12:37:20] : Program Start
+[2024-10-20] [12:37:20] : Thread Initialized success
+[2024-10-20] [12:37:20] : Calibration Initialized success
+[2024-10-20] [12:37:20] : Plc Initialized success
+[2024-10-20] [12:37:37] : Program End
+[2024-10-20] [12:37:37] : DB Disconnect Success
+[2024-10-20] [12:38:06] : Comport Setup Load
+[2024-10-20] [12:38:06] : Load Model : 5G200
+[2024-10-20] [12:38:06] : Program Start
+[2024-10-20] [12:38:06] : Thread Initialized success
+[2024-10-20] [12:38:06] : Calibration Initialized success
+[2024-10-20] [12:38:06] : Plc Initialized success
+[2024-10-20] [12:38:14] : Program End
+[2024-10-20] [12:38:14] : DB Disconnect Success
+[2024-10-20] [12:39:51] : Comport Setup Load
+[2024-10-20] [12:39:51] : Load Model : 5G200
+[2024-10-20] [12:39:51] : Program Start
+[2024-10-20] [12:39:51] : Thread Initialized success
+[2024-10-20] [12:39:51] : Calibration Initialized success
+[2024-10-20] [12:39:51] : Plc Initialized success
+[2024-10-20] [12:40:18] : Program End
+[2024-10-20] [12:40:18] : DB Disconnect Success
+[2024-10-20] [12:40:55] : Comport Setup Load
+[2024-10-20] [12:40:55] : Load Model : 5G200
+[2024-10-20] [12:40:55] : Program Start
+[2024-10-20] [12:40:55] : Thread Initialized success
+[2024-10-20] [12:40:55] : Calibration Initialized success
+[2024-10-20] [12:40:55] : Plc Initialized success
+[2024-10-20] [12:41:02] : Program End
+[2024-10-20] [12:41:02] : DB Disconnect Success
+[2024-10-20] [12:45:47] : Comport Setup Load
+[2024-10-20] [12:45:47] : Load Model : 5G200
+[2024-10-20] [12:45:47] : Program Start
+[2024-10-20] [12:45:47] : Thread Initialized success
+[2024-10-20] [12:45:47] : Calibration Initialized success
+[2024-10-20] [12:45:47] : Plc Initialized success
+[2024-10-20] [12:45:56] : Program End
+[2024-10-20] [12:45:56] : DB Disconnect Success
+[2024-10-20] [12:46:23] : Comport Setup Load
+[2024-10-20] [12:46:23] : Load Model : 5G200
+[2024-10-20] [12:46:23] : Program Start
+[2024-10-20] [12:46:23] : Thread Initialized success
+[2024-10-20] [12:46:23] : Calibration Initialized success
+[2024-10-20] [12:46:23] : Plc Initialized success
+[2024-10-20] [12:46:32] : Program End
+[2024-10-20] [12:46:32] : DB Disconnect Success
+[2024-10-20] [12:47:13] : Comport Setup Load
+[2024-10-20] [12:47:13] : Load Model : 5G200
+[2024-10-20] [12:47:13] : Program Start
+[2024-10-20] [12:47:13] : Thread Initialized success
+[2024-10-20] [12:47:13] : Calibration Initialized success
+[2024-10-20] [12:47:42] : Comport Setup Load
+[2024-10-20] [12:47:42] : Load Model : 5G200
+[2024-10-20] [12:47:42] : Program Start
+[2024-10-20] [12:47:42] : Thread Initialized success
+[2024-10-20] [12:47:42] : Calibration Initialized success
+[2024-10-20] [12:52:59] : Comport Setup Load
+[2024-10-20] [12:52:59] : Load Model : 5G200
+[2024-10-20] [12:52:59] : Program Start
+[2024-10-20] [12:52:59] : Thread Initialized success
+[2024-10-20] [12:52:59] : Calibration Initialized success
+[2024-10-20] [12:52:59] : Plc Initialized success
+[2024-10-20] [13:06:05] : Comport Setup Load
+[2024-10-20] [13:06:05] : Load Model : 5G200
+[2024-10-20] [13:06:05] : Program Start
+[2024-10-20] [13:06:05] : Thread Initialized success
+[2024-10-20] [13:06:05] : Calibration Initialized success
+[2024-10-20] [13:07:35] : Comport Setup Load
+[2024-10-20] [13:07:35] : Load Model : 5G200
+[2024-10-20] [13:07:35] : Program Start
+[2024-10-20] [13:07:35] : Thread Initialized success
+[2024-10-20] [13:07:35] : Calibration Initialized success
+[2024-10-20] [13:07:35] : Plc Initialized success
+[2024-10-20] [13:08:09] : Program End
+[2024-10-20] [13:08:09] : DB Disconnect Success
+[2024-10-20] [13:09:10] : Comport Setup Load
+[2024-10-20] [13:09:10] : Load Model : 5G200
+[2024-10-20] [13:09:10] : Program Start
+[2024-10-20] [13:09:10] : Thread Initialized success
+[2024-10-20] [13:09:10] : Calibration Initialized success
+[2024-10-20] [13:09:10] : Plc Initialized success
+[2024-10-20] [13:09:10] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [13:09:15] : Auto Sig:1, Sensing Count:61
+[2024-10-20] [13:09:39] : Program End
+[2024-10-20] [13:09:39] : DB Disconnect Success
+[2024-10-20] [13:12:27] : Comport Setup Load
+[2024-10-20] [13:12:27] : Load Model : 5G200
+[2024-10-20] [13:12:27] : Program Start
+[2024-10-20] [13:12:27] : Thread Initialized success
+[2024-10-20] [13:12:27] : Calibration Initialized success
+[2024-10-20] [13:12:27] : Plc Initialized success
+[2024-10-20] [13:13:01] : Program End
+[2024-10-20] [13:13:01] : DB Disconnect Success
+[2024-10-20] [13:25:39] : Comport Setup Load
+[2024-10-20] [13:25:39] : Load Model : 5G200
+[2024-10-20] [13:25:39] : Program Start
+[2024-10-20] [13:25:39] : Thread Initialized success
+[2024-10-20] [13:25:39] : Calibration Initialized success
+[2024-10-20] [13:26:17] : Comport Setup Load
+[2024-10-20] [13:26:17] : Load Model : 5G200
+[2024-10-20] [13:26:17] : Program Start
+[2024-10-20] [13:26:17] : Thread Initialized success
+[2024-10-20] [13:26:17] : Calibration Initialized success
+[2024-10-20] [13:27:05] : Comport Setup Load
+[2024-10-20] [13:27:05] : Load Model : 5G200
+[2024-10-20] [13:27:05] : Program Start
+[2024-10-20] [13:27:05] : Thread Initialized success
+[2024-10-20] [13:27:05] : Calibration Initialized success
+[2024-10-20] [13:27:05] : Plc Initialized success
+[2024-10-20] [13:27:14] : Program End
+[2024-10-20] [13:27:14] : DB Disconnect Success
+[2024-10-20] [13:28:18] : Comport Setup Load
+[2024-10-20] [13:28:18] : Load Model : 5G200
+[2024-10-20] [13:28:18] : Program Start
+[2024-10-20] [13:28:18] : Thread Initialized success
+[2024-10-20] [13:28:18] : Calibration Initialized success
+[2024-10-20] [13:31:23] : Comport Setup Load
+[2024-10-20] [13:31:23] : Load Model : 5G200
+[2024-10-20] [13:31:23] : Program Start
+[2024-10-20] [13:31:23] : Thread Initialized success
+[2024-10-20] [13:31:23] : Calibration Initialized success
+[2024-10-20] [13:32:52] : Comport Setup Load
+[2024-10-20] [13:32:52] : Load Model : 5G200
+[2024-10-20] [13:32:52] : Program Start
+[2024-10-20] [13:32:52] : Thread Initialized success
+[2024-10-20] [13:32:52] : Calibration Initialized success
+[2024-10-20] [13:32:52] : Plc Initialized success
+[2024-10-20] [13:35:00] : Comport Setup Load
+[2024-10-20] [13:35:00] : Load Model : 5G200
+[2024-10-20] [13:35:00] : Program Start
+[2024-10-20] [13:35:00] : Thread Initialized success
+[2024-10-20] [13:35:00] : Calibration Initialized success
+[2024-10-20] [13:35:00] : Plc Initialized success
+[2024-10-20] [13:39:24] : Comport Setup Load
+[2024-10-20] [13:39:24] : Load Model : 5G200
+[2024-10-20] [13:39:24] : Program Start
+[2024-10-20] [13:39:24] : Thread Initialized success
+[2024-10-20] [13:39:24] : Calibration Initialized success
+[2024-10-20] [13:41:19] : Comport Setup Load
+[2024-10-20] [13:41:19] : Load Model : 5G200
+[2024-10-20] [13:41:19] : Program Start
+[2024-10-20] [13:41:19] : Thread Initialized success
+[2024-10-20] [13:41:19] : Calibration Initialized success
+[2024-10-20] [13:43:37] : Comport Setup Load
+[2024-10-20] [13:43:37] : Load Model : 5G200
+[2024-10-20] [13:43:37] : Program Start
+[2024-10-20] [13:43:37] : Thread Initialized success
+[2024-10-20] [13:43:37] : Calibration Initialized success
+[2024-10-20] [13:45:46] : Comport Setup Load
+[2024-10-20] [13:45:46] : Load Model : 5G200
+[2024-10-20] [13:45:46] : Program Start
+[2024-10-20] [13:45:46] : Thread Initialized success
+[2024-10-20] [13:45:46] : Calibration Initialized success
+[2024-10-20] [13:45:46] : Plc Initialized success
+[2024-10-20] [13:46:37] : Program End
+[2024-10-20] [13:46:37] : DB Disconnect Success
+[2024-10-20] [13:48:07] : Comport Setup Load
+[2024-10-20] [13:48:07] : Load Model : 5G200
+[2024-10-20] [13:48:07] : Program Start
+[2024-10-20] [13:48:07] : Thread Initialized success
+[2024-10-20] [13:48:07] : Calibration Initialized success
+[2024-10-20] [14:09:59] : Comport Setup Load
+[2024-10-20] [14:09:59] : Load Model : 5G200
+[2024-10-20] [14:09:59] : Program Start
+[2024-10-20] [14:09:59] : Thread Initialized success
+[2024-10-20] [14:09:59] : Calibration Initialized success
+[2024-10-20] [14:09:59] : Plc Initialized success
+[2024-10-20] [14:10:29] : Program End
+[2024-10-20] [14:10:29] : DB Disconnect Success
+[2024-10-20] [14:14:41] : Comport Setup Load
+[2024-10-20] [14:14:41] : Load Model : 5G200
+[2024-10-20] [14:14:41] : Program Start
+[2024-10-20] [14:14:41] : Thread Initialized success
+[2024-10-20] [14:14:41] : Calibration Initialized success
+[2024-10-20] [14:14:41] : Plc Initialized success
+[2024-10-20] [14:14:51] : Program End
+[2024-10-20] [14:14:51] : DB Disconnect Success
+[2024-10-20] [14:15:18] : Comport Setup Load
+[2024-10-20] [14:15:18] : Load Model : 5G200
+[2024-10-20] [14:15:18] : Program Start
+[2024-10-20] [14:15:18] : Thread Initialized success
+[2024-10-20] [14:15:18] : Calibration Initialized success
+[2024-10-20] [14:15:18] : Plc Initialized success
+[2024-10-20] [14:15:28] : Program End
+[2024-10-20] [14:15:28] : DB Disconnect Success
+[2024-10-20] [14:18:10] : Comport Setup Load
+[2024-10-20] [14:18:10] : Load Model : 5G200
+[2024-10-20] [14:18:10] : Program Start
+[2024-10-20] [14:18:10] : Thread Initialized success
+[2024-10-20] [14:18:10] : Calibration Initialized success
+[2024-10-20] [14:18:10] : Plc Initialized success
+[2024-10-20] [14:18:22] : Program End
+[2024-10-20] [14:18:22] : DB Disconnect Success
+[2024-10-20] [14:19:25] : Comport Setup Load
+[2024-10-20] [14:19:25] : Load Model : 5G200
+[2024-10-20] [14:19:25] : Program Start
+[2024-10-20] [14:19:25] : Thread Initialized success
+[2024-10-20] [14:19:25] : Calibration Initialized success
+[2024-10-20] [14:19:25] : Plc Initialized success
+[2024-10-20] [14:19:36] : Program End
+[2024-10-20] [14:19:36] : DB Disconnect Success
+[2024-10-20] [14:20:53] : Comport Setup Load
+[2024-10-20] [14:20:53] : Load Model : 5G200
+[2024-10-20] [14:20:53] : Program Start
+[2024-10-20] [14:20:53] : Thread Initialized success
+[2024-10-20] [14:20:53] : Calibration Initialized success
+[2024-10-20] [14:20:53] : Plc Initialized success
+[2024-10-20] [14:22:05] : Program End
+[2024-10-20] [14:22:05] : DB Disconnect Success
+[2024-10-20] [14:23:05] : Comport Setup Load
+[2024-10-20] [14:23:05] : Load Model : 5G200
+[2024-10-20] [14:23:05] : Program Start
+[2024-10-20] [14:23:05] : Thread Initialized success
+[2024-10-20] [14:23:05] : Calibration Initialized success
+[2024-10-20] [14:23:05] : Plc Initialized success
+[2024-10-20] [14:26:25] : Program End
+[2024-10-20] [14:26:25] : DB Disconnect Success
+[2024-10-20] [14:27:45] : Comport Setup Load
+[2024-10-20] [14:27:45] : Load Model : 5G200
+[2024-10-20] [14:27:45] : Program Start
+[2024-10-20] [14:27:45] : Thread Initialized success
+[2024-10-20] [14:27:45] : Calibration Initialized success
+[2024-10-20] [14:27:45] : Plc Initialized success
+[2024-10-20] [14:28:15] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [14:28:16] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [14:28:19] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [14:28:20] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [14:28:20] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [14:28:21] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [14:28:23] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [14:28:24] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [14:28:33] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [14:28:34] : Auto Sig:1, Sensing Count:61
+[2024-10-20] [14:28:36] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:28:37] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:28:39] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:28:40] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:28:46] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:28:47] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [14:28:49] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:28:50] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [14:28:53] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:28:54] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:28:59] : Program End
+[2024-10-20] [14:28:59] : DB Disconnect Success
+[2024-10-20] [14:29:32] : Comport Setup Load
+[2024-10-20] [14:29:32] : Load Model : 5G200
+[2024-10-20] [14:29:32] : Program Start
+[2024-10-20] [14:29:32] : Thread Initialized success
+[2024-10-20] [14:29:32] : Calibration Initialized success
+[2024-10-20] [14:29:32] : Plc Initialized success
+[2024-10-20] [14:30:02] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:03] : Manual Sig:1, Sensing Count:62
+[2024-10-20] [14:30:05] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:06] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [14:30:08] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:09] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:30:11] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:12] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:30:14] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:15] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [14:30:16] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:17] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [14:30:48] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:49] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:30:50] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:51] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [14:30:52] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:53] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:30:54] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:55] : Manual Sig:1, Sensing Count:55
+[2024-10-20] [14:30:56] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:57] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:30:58] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:30:59] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:30:59] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:31:00] : Manual Sig:1, Sensing Count:56
+[2024-10-20] [14:31:01] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:31:02] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [14:31:03] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:31:04] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:31:05] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:31:06] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:31:06] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:31:07] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:31:10] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:31:11] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:31:12] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:31:13] : Manual Sig:1, Sensing Count:56
+[2024-10-20] [14:31:14] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:31:16] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [14:31:22] : Program End
+[2024-10-20] [14:31:22] : DB Disconnect Success
+[2024-10-20] [14:31:54] : Comport Setup Load
+[2024-10-20] [14:31:54] : Load Model : 5G200
+[2024-10-20] [14:31:54] : Program Start
+[2024-10-20] [14:31:54] : Thread Initialized success
+[2024-10-20] [14:31:54] : Calibration Initialized success
+[2024-10-20] [14:31:54] : Plc Initialized success
+[2024-10-20] [14:32:10] : Program End
+[2024-10-20] [14:32:10] : DB Disconnect Success
+[2024-10-20] [14:32:40] : Comport Setup Load
+[2024-10-20] [14:32:40] : Load Model : 5G200
+[2024-10-20] [14:32:40] : Program Start
+[2024-10-20] [14:32:40] : Thread Initialized success
+[2024-10-20] [14:32:40] : Calibration Initialized success
+[2024-10-20] [14:32:40] : Plc Initialized success
+[2024-10-20] [14:32:57] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:32:58] : Manual Sig:1, Sensing Count:62
+[2024-10-20] [14:32:59] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:33:00] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:33:02] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:33:03] : Manual Sig:1, Sensing Count:62
+[2024-10-20] [14:33:05] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:33:06] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [14:33:09] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:33:09] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [14:33:11] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:33:12] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [14:33:13] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:33:14] : Manual Sig:1, Sensing Count:62
+[2024-10-20] [14:33:16] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:33:16] : Manual Sig:1, Sensing Count:57
+[2024-10-20] [14:33:22] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:33:23] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:33:39] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [14:33:39] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [14:33:41] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [14:33:42] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [14:33:44] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [14:33:45] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [14:33:49] : Auto Measuring Request Sig 1 ON
+[2024-10-20] [14:33:50] : Auto Sig:1, Sensing Count:63
+[2024-10-20] [14:33:55] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:33:56] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [14:34:04] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:34:05] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:34:07] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:34:08] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:34:14] : Program End
+[2024-10-20] [14:34:14] : DB Disconnect Success
+[2024-10-20] [14:34:36] : Comport Setup Load
+[2024-10-20] [14:34:36] : Load Model : 5G200
+[2024-10-20] [14:34:36] : Program Start
+[2024-10-20] [14:34:36] : Thread Initialized success
+[2024-10-20] [14:34:36] : Calibration Initialized success
+[2024-10-20] [14:34:36] : Plc Initialized success
+[2024-10-20] [14:34:53] : Program End
+[2024-10-20] [14:34:53] : DB Disconnect Success
+[2024-10-20] [14:35:33] : Comport Setup Load
+[2024-10-20] [14:35:33] : Load Model : 5G200
+[2024-10-20] [14:35:33] : Program Start
+[2024-10-20] [14:35:33] : Thread Initialized success
+[2024-10-20] [14:35:33] : Calibration Initialized success
+[2024-10-20] [14:35:33] : Plc Initialized success
+[2024-10-20] [14:36:08] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:36:09] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [14:36:11] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:36:12] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:36:13] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:36:14] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:36:15] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:36:16] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:36:17] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:36:18] : Manual Sig:1, Sensing Count:63
+[2024-10-20] [14:36:19] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:36:20] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:36:21] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:36:22] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:36:23] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:36:25] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:36:34] : Program End
+[2024-10-20] [14:36:34] : DB Disconnect Success
+[2024-10-20] [14:37:58] : Comport Setup Load
+[2024-10-20] [14:37:58] : Load Model : 5G200
+[2024-10-20] [14:37:58] : Program Start
+[2024-10-20] [14:37:58] : Thread Initialized success
+[2024-10-20] [14:37:58] : Calibration Initialized success
+[2024-10-20] [14:37:58] : Plc Initialized success
+[2024-10-20] [14:38:32] : Comport Setup Load
+[2024-10-20] [14:38:32] : Load Model : 5G200
+[2024-10-20] [14:38:32] : Program Start
+[2024-10-20] [14:38:32] : Thread Initialized success
+[2024-10-20] [14:38:32] : Calibration Initialized success
+[2024-10-20] [14:38:32] : Plc Initialized success
+[2024-10-20] [14:39:04] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:39:05] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:39:07] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:39:08] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [14:39:09] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:39:10] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:39:11] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:39:12] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [14:39:13] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [14:39:14] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [14:39:17] : Program End
+[2024-10-20] [14:39:17] : DB Disconnect Success
+[2024-10-20] [14:44:19] : Comport Setup Load
+[2024-10-20] [14:44:19] : Load Model : 5G200
+[2024-10-20] [14:44:19] : Program Start
+[2024-10-20] [14:44:19] : Thread Initialized success
+[2024-10-20] [14:44:19] : Calibration Initialized success
+[2024-10-20] [14:44:19] : Plc Initialized success
+[2024-10-20] [14:54:13] : Comport Setup Load
+[2024-10-20] [14:54:13] : Load Model : 5G200
+[2024-10-20] [14:54:13] : Program Start
+[2024-10-20] [14:54:13] : Thread Initialized success
+[2024-10-20] [14:54:13] : Calibration Initialized success
+[2024-10-20] [14:54:13] : Plc Initialized success
+[2024-10-20] [14:54:27] : Program End
+[2024-10-20] [14:54:27] : DB Disconnect Success
+[2024-10-20] [14:56:24] : Comport Setup Load
+[2024-10-20] [14:56:24] : Load Model : 5G200
+[2024-10-20] [14:56:24] : Program Start
+[2024-10-20] [14:56:24] : Thread Initialized success
+[2024-10-20] [14:56:24] : Calibration Initialized success
+[2024-10-20] [14:56:24] : Plc Initialized success
+[2024-10-20] [14:57:20] : Comport Setup Load
+[2024-10-20] [14:57:20] : Load Model : 5G200
+[2024-10-20] [14:57:20] : Program Start
+[2024-10-20] [14:57:20] : Thread Initialized success
+[2024-10-20] [14:57:20] : Calibration Initialized success
+[2024-10-20] [14:57:20] : Plc Initialized success
+[2024-10-20] [14:57:30] : Program End
+[2024-10-20] [14:57:30] : DB Disconnect Success
+[2024-10-20] [14:58:37] : Comport Setup Load
+[2024-10-20] [14:58:37] : Load Model : 5G200
+[2024-10-20] [14:58:37] : Program Start
+[2024-10-20] [14:58:37] : Thread Initialized success
+[2024-10-20] [14:58:37] : Calibration Initialized success
+[2024-10-20] [14:58:37] : Plc Initialized success
+[2024-10-20] [14:58:47] : Program End
+[2024-10-20] [14:58:47] : DB Disconnect Success
+[2024-10-20] [14:59:14] : Comport Setup Load
+[2024-10-20] [14:59:14] : Load Model : 5G200
+[2024-10-20] [14:59:14] : Program Start
+[2024-10-20] [14:59:14] : Thread Initialized success
+[2024-10-20] [14:59:14] : Calibration Initialized success
+[2024-10-20] [14:59:14] : Plc Initialized success
+[2024-10-20] [14:59:34] : Program End
+[2024-10-20] [14:59:34] : DB Disconnect Success
+[2024-10-20] [15:01:35] : Comport Setup Load
+[2024-10-20] [15:01:35] : Load Model : 5G200
+[2024-10-20] [15:01:35] : Program Start
+[2024-10-20] [15:01:35] : Thread Initialized success
+[2024-10-20] [15:01:35] : Calibration Initialized success
+[2024-10-20] [15:01:35] : Plc Initialized success
+[2024-10-20] [15:05:34] : Comport Setup Load
+[2024-10-20] [15:05:34] : Load Model : 5G200
+[2024-10-20] [15:05:34] : Program Start
+[2024-10-20] [15:05:34] : Thread Initialized success
+[2024-10-20] [15:05:34] : Calibration Initialized success
+[2024-10-20] [15:05:34] : Plc Initialized success
+[2024-10-20] [15:06:12] : Comport Setup Load
+[2024-10-20] [15:06:12] : Load Model : 5G200
+[2024-10-20] [15:06:12] : Program Start
+[2024-10-20] [15:06:12] : Thread Initialized success
+[2024-10-20] [15:06:12] : Calibration Initialized success
+[2024-10-20] [15:06:12] : Plc Initialized success
+[2024-10-20] [15:06:39] : Comport Setup Load
+[2024-10-20] [15:06:39] : Load Model : 5G200
+[2024-10-20] [15:06:39] : Program Start
+[2024-10-20] [15:06:39] : Thread Initialized success
+[2024-10-20] [15:06:39] : Calibration Initialized success
+[2024-10-20] [15:06:39] : Plc Initialized success
+[2024-10-20] [15:06:46] : Program End
+[2024-10-20] [15:06:46] : DB Disconnect Success
+[2024-10-20] [15:06:59] : Comport Setup Load
+[2024-10-20] [15:06:59] : Load Model : 5G200
+[2024-10-20] [15:06:59] : Program Start
+[2024-10-20] [15:06:59] : Thread Initialized success
+[2024-10-20] [15:06:59] : Calibration Initialized success
+[2024-10-20] [15:06:59] : Plc Initialized success
+[2024-10-20] [15:11:24] : Comport Setup Load
+[2024-10-20] [15:11:24] : Load Model : 5G200
+[2024-10-20] [15:11:24] : Program Start
+[2024-10-20] [15:11:24] : Thread Initialized success
+[2024-10-20] [15:11:24] : Calibration Initialized success
+[2024-10-20] [15:11:24] : Plc Initialized success
+[2024-10-20] [15:11:32] : Program End
+[2024-10-20] [15:11:32] : DB Disconnect Success
+[2024-10-20] [15:14:28] : Comport Setup Load
+[2024-10-20] [15:14:28] : Load Model : 5G200
+[2024-10-20] [15:14:28] : Program Start
+[2024-10-20] [15:14:28] : Thread Initialized success
+[2024-10-20] [15:14:28] : Calibration Initialized success
+[2024-10-20] [15:14:28] : Plc Initialized success
+[2024-10-20] [15:14:42] : LED_2
+[2024-10-20] [15:14:47] : LED_8
+[2024-10-20] [15:14:48] : LED_7
+[2024-10-20] [15:14:49] : LED_10
+[2024-10-20] [15:14:50] : LED_9
+[2024-10-20] [15:14:55] : LED_8
+[2024-10-20] [15:14:56] : LED_10
+[2024-10-20] [15:14:59] : Program End
+[2024-10-20] [15:14:59] : DB Disconnect Success
+[2024-10-20] [15:15:24] : Comport Setup Load
+[2024-10-20] [15:15:24] : Load Model : 5G200
+[2024-10-20] [15:15:24] : Program Start
+[2024-10-20] [15:15:24] : Thread Initialized success
+[2024-10-20] [15:15:24] : Calibration Initialized success
+[2024-10-20] [15:15:41] : Comport Setup Load
+[2024-10-20] [15:15:41] : Load Model : 5G200
+[2024-10-20] [15:15:41] : Program Start
+[2024-10-20] [15:15:41] : Thread Initialized success
+[2024-10-20] [15:15:41] : Calibration Initialized success
+[2024-10-20] [15:15:41] : Plc Initialized success
+[2024-10-20] [15:15:52] : Program End
+[2024-10-20] [15:15:52] : DB Disconnect Success
+[2024-10-20] [15:16:17] : Comport Setup Load
+[2024-10-20] [15:16:17] : Load Model : 5G200
+[2024-10-20] [15:16:17] : Program Start
+[2024-10-20] [15:16:17] : Thread Initialized success
+[2024-10-20] [15:16:17] : Calibration Initialized success
+[2024-10-20] [15:16:17] : Plc Initialized success
+[2024-10-20] [15:16:25] : LED_9
+[2024-10-20] [15:16:27] : LED_10
+[2024-10-20] [15:16:30] : LED_9
+[2024-10-20] [15:16:31] : LED_7
+[2024-10-20] [15:16:33] : LED_8
+[2024-10-20] [15:16:34] : LED_10
+[2024-10-20] [15:16:38] : LED_7
+[2024-10-20] [15:16:40] : LED_9
+[2024-10-20] [15:16:48] : LED_10
+[2024-10-20] [15:16:49] : LED_8
+[2024-10-20] [15:16:53] : Program End
+[2024-10-20] [15:16:53] : DB Disconnect Success
+[2024-10-20] [15:31:21] : Comport Setup Load
+[2024-10-20] [15:31:21] : Load Model : 5G200
+[2024-10-20] [15:31:21] : Program Start
+[2024-10-20] [15:31:21] : Thread Initialized success
+[2024-10-20] [15:31:21] : Calibration Initialized success
+[2024-10-20] [15:31:21] : Plc Initialized success
+[2024-10-20] [15:31:34] : LED_9
+[2024-10-20] [15:31:34] : LED_7
+[2024-10-20] [15:32:27] : LED_3
+[2024-10-20] [15:32:32] : LED_5
+[2024-10-20] [15:32:41] : LED_6
+[2024-10-20] [15:32:49] : LED_4
+[2024-10-20] [15:33:19] : LED_8
+[2024-10-20] [15:33:21] : LED_10
+[2024-10-20] [15:33:31] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [15:33:33] : Zeroset Sig:1, Sensing Count:59
+[2024-10-20] [15:33:36] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [15:33:37] : Zeroset Sig:1, Sensing Count:62
+[2024-10-20] [15:33:46] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:33:47] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [15:33:50] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:33:51] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [15:33:53] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:33:54] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [15:33:55] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:33:56] : Manual Sig:1, Sensing Count:57
+[2024-10-20] [15:34:00] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:34:01] : Manual Sig:1, Sensing Count:61
+[2024-10-20] [15:34:25] : Display : Model Setup
+[2024-10-20] [15:34:37] : Load Model : 5G200
+[2024-10-20] [15:34:40] : Load Model : 5G200
+[2024-10-20] [15:34:48] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:34:49] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [15:34:55] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:34:56] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [15:35:04] : Display : Model Setup
+[2024-10-20] [15:36:15] : Load Model : 5G200
+[2024-10-20] [15:36:17] : Load Model : 5G200
+[2024-10-20] [15:36:23] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:36:24] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [15:36:53] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [15:36:54] : Zeroset Sig:1, Sensing Count:63
+[2024-10-20] [15:36:56] : Zeroset Measuring Request Sig 1 ON
+[2024-10-20] [15:36:57] : Zeroset Sig:1, Sensing Count:64
+[2024-10-20] [15:37:04] : Display : Model Setup
+[2024-10-20] [15:38:14] : Load Model : 5G200
+[2024-10-20] [15:38:15] : Load Model : 5G200
+[2024-10-20] [15:38:22] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:38:23] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [15:38:39] : LED_10
+[2024-10-20] [15:38:39] : LED_9
+[2024-10-20] [15:38:40] : LED_7
+[2024-10-20] [15:38:43] : LED_8
+[2024-10-20] [15:38:44] : LED_10
+[2024-10-20] [15:38:47] : LED_9
+[2024-10-20] [15:38:48] : LED_7
+[2024-10-20] [15:38:54] : LED_8
+[2024-10-20] [15:38:56] : LED_10
+[2024-10-20] [15:39:01] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:39:02] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [15:39:07] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:39:08] : Manual Sig:1, Sensing Count:54
+[2024-10-20] [15:39:09] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:39:11] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [15:39:11] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:39:12] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [15:39:16] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:39:17] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [15:39:18] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:39:19] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [15:39:25] : Display : Model Setup
+[2024-10-20] [15:39:34] : Load Model : 5G200
+[2024-10-20] [15:39:35] : Load Model : 5G200
+[2024-10-20] [15:39:41] : Display : Program Setup
+[2024-10-20] [15:40:27] : LED_9
+[2024-10-20] [15:40:28] : LED_7
+[2024-10-20] [15:40:33] : LED_3
+[2024-10-20] [15:40:35] : LED_5
+[2024-10-20] [15:40:39] : LED_1
+[2024-10-20] [15:40:45] : Program End
+[2024-10-20] [15:40:45] : DB Disconnect Success
+[2024-10-20] [15:45:25] : Comport Setup Load
+[2024-10-20] [15:45:25] : Load Model : 5G200
+[2024-10-20] [15:45:25] : Program Start
+[2024-10-20] [15:45:25] : Thread Initialized success
+[2024-10-20] [15:45:25] : Calibration Initialized success
+[2024-10-20] [15:45:25] : Plc Initialized success
+[2024-10-20] [15:45:37] : LED_1
+[2024-10-20] [15:45:39] : LED_2
+[2024-10-20] [15:45:44] : LED_6
+[2024-10-20] [15:45:54] : LED_4
+[2024-10-20] [15:45:58] : LED_8
+[2024-10-20] [15:46:01] : LED_10
+[2024-10-20] [15:46:13] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:46:14] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [15:46:21] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:46:22] : Manual Sig:1, Sensing Count:58
+[2024-10-20] [15:46:23] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:46:24] : Manual Sig:1, Sensing Count:56
+[2024-10-20] [15:46:25] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:46:26] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [15:46:28] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:46:29] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [15:46:34] : LED_9
+[2024-10-20] [15:46:35] : LED_7
+[2024-10-20] [15:46:37] : LED_7
+[2024-10-20] [15:46:38] : LED_8
+[2024-10-20] [15:46:39] : LED_10
+[2024-10-20] [15:46:43] : LED_9
+[2024-10-20] [15:46:44] : LED_7
+[2024-10-20] [15:46:53] : LED_3
+[2024-10-20] [15:46:55] : LED_5
+[2024-10-20] [15:47:01] : LED_1
+[2024-10-20] [15:47:12] : Program End
+[2024-10-20] [15:47:12] : DB Disconnect Success
+[2024-10-20] [15:51:06] : Comport Setup Load
+[2024-10-20] [15:51:06] : Load Model : 5G200
+[2024-10-20] [15:51:06] : Program Start
+[2024-10-20] [15:51:06] : Thread Initialized success
+[2024-10-20] [15:51:06] : Calibration Initialized success
+[2024-10-20] [15:51:06] : Plc Initialized success
+[2024-10-20] [15:51:12] : LED_2
+[2024-10-20] [15:51:15] : LED_2
+[2024-10-20] [15:51:48] : LED_6
+[2024-10-20] [15:51:57] : LED_4
+[2024-10-20] [15:52:01] : LED_8
+[2024-10-20] [15:52:03] : LED_10
+[2024-10-20] [15:52:06] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:52:07] : Manual Sig:1, Sensing Count:57
+[2024-10-20] [15:52:20] : Display : Model Setup
+[2024-10-20] [15:52:27] : Load Model : 5G200
+[2024-10-20] [15:52:28] : Load Model : 5G200
+[2024-10-20] [15:52:34] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:52:35] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [15:52:37] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:52:39] : Manual Sig:1, Sensing Count:54
+[2024-10-20] [15:54:07] : Display : Model Setup
+[2024-10-20] [15:54:21] : Load Model : 5G200
+[2024-10-20] [15:54:24] : Load Model : 5G200
+[2024-10-20] [15:54:31] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:54:32] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [15:54:43] : Display : Model Setup
+[2024-10-20] [15:57:30] : Load Model : 5G200
+[2024-10-20] [15:57:31] : Load Model : 5G200
+[2024-10-20] [15:57:42] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:57:43] : Manual Sig:1, Sensing Count:56
+[2024-10-20] [15:58:32] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:58:33] : Manual Sig:1, Sensing Count:59
+[2024-10-20] [15:59:54] : Manual Measuring Request Sig 1 ON
+[2024-10-20] [15:59:55] : Manual Sig:1, Sensing Count:60
+[2024-10-20] [15:59:59] : Program End
+[2024-10-20] [15:59:59] : DB Disconnect Success
+[2024-10-20] [16:04:14] : Comport Setup Load
+[2024-10-20] [16:04:14] : Load Model : 5G200
+[2024-10-20] [16:04:14] : Program Start
+[2024-10-20] [16:04:14] : Thread Initialized success
+[2024-10-20] [16:04:14] : Calibration Initialized success
+[2024-10-20] [16:04:14] : Plc Initialized success
+[2024-10-20] [16:04:25] : LED_9
+[2024-10-20] [16:04:26] : LED_7
+[2024-10-20] [16:04:32] : LED_3
+[2024-10-20] [16:04:35] : LED_5
+[2024-10-20] [16:04:38] : LED_1
+[2024-10-20] [16:04:45] : Manual Sig:1, Sensing Count:10
+[2024-10-20] [16:04:47] : Program End
+[2024-10-20] [16:04:47] : DB Disconnect Success
+[2024-10-20] [16:05:11] : Comport Setup Load
+[2024-10-20] [16:05:11] : Load Model : 5G200
+[2024-10-20] [16:05:11] : Program Start
+[2024-10-20] [16:05:11] : Thread Initialized success
+[2024-10-20] [16:05:11] : Calibration Initialized success
+[2024-10-20] [16:05:11] : Plc Initialized success
+[2024-10-20] [16:05:21] : LED_2
+[2024-10-20] [16:05:22] : LED_2
+[2024-10-20] [16:05:28] : LED_1
+[2024-10-20] [16:05:55] : LED_7
+[2024-10-20] [16:05:58] : LED_7
+[2024-10-20] [16:06:00] : LED_7
+[2024-10-20] [16:06:01] : LED_8
+[2024-10-20] [16:06:04] : LED_7
+[2024-10-20] [16:06:07] : LED_10
+[2024-10-20] [16:06:08] : LED_9
+[2024-10-20] [16:06:14] : LED_2
+[2024-10-20] [16:06:20] : LED_6
+[2024-10-20] [16:06:29] : LED_4
+[2024-10-20] [16:06:34] : LED_8
+[2024-10-20] [16:06:37] : LED_10
+[2024-10-20] [16:06:41] : LED_9
+[2024-10-20] [16:06:42] : LED_7
+[2024-10-20] [16:06:44] : LED_8
+[2024-10-20] [16:06:45] : LED_10
+[2024-10-20] [16:06:46] : LED_9
+[2024-10-20] [16:06:47] : LED_7
+[2024-10-20] [16:06:52] : LED_8
+[2024-10-20] [16:06:54] : LED_8
+[2024-10-20] [16:06:55] : LED_7
+[2024-10-20] [16:07:00] : LED_3
+[2024-10-20] [16:07:04] : LED_5
+[2024-10-20] [16:07:10] : LED_1
+[2024-10-20] [16:10:28] : Program End
+[2024-10-20] [16:10:28] : DB Disconnect Success
+[2024-10-20] [16:12:14] : Comport Setup Load
+[2024-10-20] [16:12:14] : Load Model : 5G200
+[2024-10-20] [16:12:14] : Program Start
+[2024-10-20] [16:12:14] : Thread Initialized success
+[2024-10-20] [16:12:14] : Calibration Initialized success
+[2024-10-20] [16:12:45] : Comport Setup Load
+[2024-10-20] [16:12:45] : Load Model : 5G200
+[2024-10-20] [16:12:45] : Program Start
+[2024-10-20] [16:12:45] : Thread Initialized success
+[2024-10-20] [16:12:45] : Calibration Initialized success
+[2024-10-20] [16:12:45] : Plc Initialized success
+[2024-10-20] [16:12:58] : Manual Sig:1, Sensing Count:10
+[2024-10-20] [16:21:14] : Program End
+[2024-10-20] [16:21:14] : DB Disconnect Success
+[2024-10-20] [16:21:38] : Comport Setup Load
+[2024-10-20] [16:21:38] : Load Model : 5G200
+[2024-10-20] [16:21:38] : Program Start
+[2024-10-20] [16:21:38] : Thread Initialized success
+[2024-10-20] [16:21:38] : Calibration Initialized success
+[2024-10-20] [16:21:38] : Plc Initialized success
+[2024-10-20] [16:21:53] : LED_7
+[2024-10-20] [16:21:55] : LED_8
+[2024-10-20] [16:21:57] : LED_7
+[2024-10-20] [16:21:59] : LED_10
+[2024-10-20] [16:22:02] : LED_9
+[2024-10-20] [16:22:05] : LED_10
+[2024-10-20] [16:22:06] : LED_9
+[2024-10-20] [16:22:09] : Program End
+[2024-10-20] [16:22:09] : DB Disconnect Success
+[2024-10-20] [16:23:49] : Comport Setup Load
+[2024-10-20] [16:23:49] : Load Model : 5G200
+[2024-10-20] [16:23:49] : Program Start
+[2024-10-20] [16:23:49] : Thread Initialized success
+[2024-10-20] [16:23:49] : Calibration Initialized success
+[2024-10-20] [16:23:49] : Plc Initialized success
+[2024-10-20] [16:23:55] : LED_10
+[2024-10-20] [16:24:01] : LED_9
+[2024-10-20] [16:24:04] : LED_8
+[2024-10-20] [16:24:08] : LED_7
+[2024-10-20] [16:24:12] : Program End
+[2024-10-20] [16:24:12] : DB Disconnect Success
+[2024-10-20] [16:27:45] : Comport Setup Load
+[2024-10-20] [16:27:45] : Load Model : 5G200
+[2024-10-20] [16:27:45] : Program Start
+[2024-10-20] [16:27:45] : Thread Initialized success
+[2024-10-20] [16:27:45] : Calibration Initialized success
+[2024-10-20] [16:27:45] : Plc Initialized success
+[2024-10-20] [16:28:30] : Auto Sig:1, Sensing Count:10
+[2024-10-20] [16:31:20] : Program End
+[2024-10-20] [16:31:20] : DB Disconnect Success
+[2024-10-20] [17:23:55] : Comport Setup Load
+[2024-10-20] [17:23:55] : Load Model : 5G200
+[2024-10-20] [17:30:57] : Comport Setup Load
+[2024-10-20] [17:30:57] : Load Model : 5G200
+[2024-10-20] [17:30:57] : Program Start
+[2024-10-20] [17:30:57] : Thread Initialized success
+[2024-10-20] [17:30:57] : Calibration Initialized success
+[2024-10-20] [17:30:57] : Plc Initialized success
+[2024-10-20] [17:31:34] : LED_8
+[2024-10-20] [17:31:35] : LED_10
+[2024-10-20] [17:31:41] : LED_9
+[2024-10-20] [17:31:44] : LED_7
+[2024-10-20] [17:32:26] : Program End
+[2024-10-20] [17:32:26] : DB Disconnect Success
+[2024-10-20] [17:33:30] : Comport Setup Load
+[2024-10-20] [17:33:30] : Load Model : 5G200
+[2024-10-20] [17:33:30] : Program Start
+[2024-10-20] [17:33:30] : Thread Initialized success
+[2024-10-20] [17:33:30] : Calibration Initialized success
+[2024-10-20] [17:33:30] : Plc Initialized success
+[2024-10-20] [17:35:02] : Program End
+[2024-10-20] [17:35:02] : DB Disconnect Success
+[2024-10-20] [18:24:06] : Comport Setup Load
+[2024-10-20] [18:24:06] : Load Model : 5G200
+[2024-10-20] [18:24:06] : Program Start
+[2024-10-20] [18:24:06] : Thread Initialized success
+[2024-10-20] [18:24:06] : Calibration Initialized success
+[2024-10-20] [18:24:06] : Plc Initialized success
+[2024-10-20] [18:24:15] : LED_10
+[2024-10-20] [18:24:20] : LED_9
+[2024-10-20] [18:24:23] : LED_8
+[2024-10-20] [18:24:28] : LED_7
+[2024-10-20] [18:24:33] : Program End
+[2024-10-20] [18:24:33] : DB Disconnect Success
+[2024-10-20] [18:27:43] : Comport Setup Load
+[2024-10-20] [18:27:43] : Load Model : 5G200
+[2024-10-20] [18:27:43] : Program Start
+[2024-10-20] [18:27:43] : Thread Initialized success
+[2024-10-20] [18:27:43] : Calibration Initialized success
+[2024-10-20] [18:27:43] : Plc Initialized success
+[2024-10-20] [18:28:10] : Program End
+[2024-10-20] [18:28:10] : DB Disconnect Success

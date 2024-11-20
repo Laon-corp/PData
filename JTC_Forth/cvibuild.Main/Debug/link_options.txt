@@ -1,0 +1,72 @@
+-nologo
+-out:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\Main.exe
+-arch:x86
+-timestamp
+-debug:2
+-project:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\Main.prj
+-res:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\resources.res
+-entry:_CVIWinMainStartupCodeForDebugging@0
+-base:0x400000
+-linked:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\linkersummary.txt
+-dlldeps:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\dlldependencies.txt
+-licensing:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\linkerlicensing.txt
+-browsedeps:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\moduledependencies.txt
+-stackreserve:1048576
+-stackcommit:4096
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\0_Main.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\0_Main_Cb.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\0_Main_Cb_Tab.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\0_Main_Cb_Tab_0_Auto.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\0_Main_Cb_Tab_1_Manual.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\0_Main_Cb_Tab_2_Zeroset.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\0_Main_Cb_Tab_4_Graph.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\0_Main_Cb_Tab_5_History.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\1_Model.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\1_Model_Cb_List.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\1_Model_Cb_Point.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\2_Result.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\2_Result_DB.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\2_Result_File.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\3_Setup.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\3_Setup_Comm_Amp.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\3_Setup_Comm_Mark.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\3_Setup_Comm_Plc.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\3_Setup_Comport.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\4_Calibration.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\5_KeyPad.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\6_Password.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\7_Windows.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\8_Thread.obj
+-in:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\A_Measure.obj
+-more:c:\program files (x86)\national instruments\cvi2020\bin\msvc\cvistart.lib
+-more:c:\program files (x86)\national instruments\cvi2020\bin\msvc\cvi.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\bin\msvc\advanlys.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\advapi32.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\toolslib\toolbox\msvc\asynctmr.obj
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\bufferoverflowu.lib
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\cvi_db.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\bin\msvc\cviauto.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\bin\msvc\cvidotnet.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\bin\msvc\cvinetstreams.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\bin\msvc\cvinetv.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\bin\msvc\cvintwrk.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\bin\msvc\cvitdms.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\gdi32.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\bin\msvc\gpib.lib
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\toolslib\custctrl\msvc\ImageControl.obj
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\ivi.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\kernel32.lib
+-more:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\MSCOMCT2.obj
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\NIDAQmx.lib
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\niimaq.lib
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\nisyscfg.lib
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\nivision.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\bin\msvc\nivxi.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2020\bin\msvc\omp.lib
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\pid.lib
+-more:e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\cvibuild.Main\Debug\pwctrl.obj
+-more:c:\Program Files (x86)\National Instruments\CVI2020\toolslib\toolbox\msvc\toolbox.obj
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\user32.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\uuid.lib
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\visa.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\winmm.lib

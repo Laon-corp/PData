@@ -1,0 +1,120 @@
+[SendModelBit]
+Class="Function"
+Prototype="void SendModelBit();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:3:6"
+
+[LoadModel]
+Class="Function"
+Prototype="void LoadModel();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:17:6"
+
+[SaveModel]
+Class="Function"
+Prototype="void SaveModel();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:75:6"
+
+[DeleteSaveModel]
+Class="Function"
+Prototype="void DeleteSaveModel();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:114:6"
+
+[SetModel_BoxPos]
+Class="Function"
+Prototype="void SetModel_BoxPos();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:153:6"
+
+[SetModel_MeasPoints]
+Class="Function"
+Prototype="void SetModel_MeasPoints();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:212:6"
+
+[SetModel_Calculation]
+Class="Function"
+Prototype="void SetModel_Calculation();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:260:6"
+
+[SetModel_Mark]
+Class="Function"
+Prototype="void SetModel_Mark();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:317:6"
+
+[LoadModel_MeasPoints]
+Class="Function"
+Prototype="void LoadModel_MeasPoints();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:336:6"
+
+[LoadModel_Calculation]
+Class="Function"
+Prototype="void LoadModel_Calculation();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:373:6"
+
+[LoadModel_Mark]
+Class="Function"
+Prototype="void LoadModel_Mark();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:453:6"
+
+[LoadModel_BoxPos]
+Class="Function"
+Prototype="void LoadModel_BoxPos();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:540:7"
+
+[LoadModel_Img]
+Class="Function"
+Prototype="void LoadModel_Img();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:569:7"
+
+[InitTabTableData]
+Class="Function"
+Prototype="void InitTabTableData();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:583:6"
+
+[LoadModelData]
+Class="Function"
+Prototype="void LoadModelData();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:663:6"
+
+[SaveModel_MeasPoints]
+Class="Function"
+Prototype="void SaveModel_MeasPoints();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:715:7"
+
+[SaveModel_Calculation]
+Class="Function"
+Prototype="void SaveModel_Calculation();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:761:7"
+
+[SaveModel_Mark]
+Class="Function"
+Prototype="void SaveModel_Mark();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:833:7"
+
+[SaveModel_BoxPos]
+Class="Function"
+Prototype="void SaveModel_BoxPos();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:947:7"
+
+[SaveModelData]
+Class="Function"
+Prototype="void SaveModelData();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:976:6"
+
+[FileRename]
+Class="Function"
+Prototype="void FileRename(char *oldName, char *newName);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:984:7"
+
+[FileAdd]
+Class="Function"
+Prototype="void FileAdd(char *oldName, char *newName);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:1039:7"
+
+[FileDelete]
+Class="Function"
+Prototype="void FileDelete(char *oldName);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:1091:7"
+
+[Cb_ModelPanel]
+Class="Function"
+Prototype="int Cb_ModelPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\1_Model.c:1124:17"
+

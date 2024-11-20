@@ -1,0 +1,1019 @@
+[Project Header]
+Version = 2000
+Encoding = "ANSI"
+Pathname = "/c/JTC_23/Main.prj"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2020"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2020"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Files = 42
+Target Type = "Executable"
+Flags = 2064
+Copied From Locked InstrDrv Directory = False
+Copied from VXIPNP Directory = False
+Locked InstrDrv Name = ""
+Don't Display Deploy InstrDrv Dialog = False
+
+[Folders]
+Library Files Folder Not Added Yet = True
+Folder 0 = "User Interface Files"
+FolderEx 0 = "User Interface Files"
+Folder 1 = "Source Files"
+FolderEx 1 = "Source Files"
+Folder 2 = "Include Files"
+FolderEx 2 = "Include Files"
+Folder 3 = "Instrument Files"
+FolderEx 3 = "Instrument Files"
+
+[File 0001]
+File Type = "User Interface Resource"
+Res Id = 1
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "0_Main.uir"
+Path = "/c/JTC_23/0_Main.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+Folder Id = 0
+
+[File 0002]
+File Type = "User Interface Resource"
+Res Id = 2
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "1_Model.uir"
+Path = "/c/JTC_23/1_Model.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+Folder Id = 0
+
+[File 0003]
+File Type = "User Interface Resource"
+Res Id = 3
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "2_Result.uir"
+Path = "/c/JTC_23/2_Result.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+Folder Id = 0
+
+[File 0004]
+File Type = "User Interface Resource"
+Res Id = 4
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "3_Setup.uir"
+Path = "/c/JTC_23/3_Setup.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+Folder Id = 0
+
+[File 0005]
+File Type = "User Interface Resource"
+Res Id = 5
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "4_Calibration.uir"
+Path = "/c/JTC_23/4_Calibration.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+Folder Id = 0
+
+[File 0006]
+File Type = "User Interface Resource"
+Res Id = 6
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "5_Keypad.uir"
+Path = "/c/JTC_23/5_Keypad.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+Folder Id = 0
+
+[File 0007]
+File Type = "User Interface Resource"
+Res Id = 7
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "6_Password.uir"
+Path = "/c/JTC_23/6_Password.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+Folder Id = 0
+
+[File 0008]
+File Type = "CSource"
+Res Id = 8
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "0_Main.c"
+Path = "/c/JTC_23/0_Main.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0009]
+File Type = "CSource"
+Res Id = 9
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "0_Main_Cb.c"
+Path = "/c/JTC_23/0_Main_Cb.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0010]
+File Type = "CSource"
+Res Id = 10
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "0_Main_Cb_Tab.c"
+Path = "/c/JTC_23/0_Main_Cb_Tab.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0011]
+File Type = "CSource"
+Res Id = 11
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "0_Main_Cb_Tab_0_Auto.c"
+Path = "/c/JTC_23/0_Main_Cb_Tab_0_Auto.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0012]
+File Type = "CSource"
+Res Id = 12
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "0_Main_Cb_Tab_1_Manual.c"
+Path = "/c/JTC_23/0_Main_Cb_Tab_1_Manual.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0013]
+File Type = "CSource"
+Res Id = 13
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "0_Main_Cb_Tab_2_Zeroset.c"
+Path = "/c/JTC_23/0_Main_Cb_Tab_2_Zeroset.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0014]
+File Type = "CSource"
+Res Id = 14
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "0_Main_Cb_Tab_4_Graph.c"
+Path = "/c/JTC_23/0_Main_Cb_Tab_4_Graph.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0015]
+File Type = "CSource"
+Res Id = 15
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "0_Main_Cb_Tab_5_History.c"
+Path = "/c/JTC_23/0_Main_Cb_Tab_5_History.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0016]
+File Type = "CSource"
+Res Id = 16
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "1_Model.c"
+Path = "/c/JTC_23/1_Model.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0017]
+File Type = "CSource"
+Res Id = 17
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "1_Model_Cb_List.c"
+Path = "/c/JTC_23/1_Model_Cb_List.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0018]
+File Type = "CSource"
+Res Id = 18
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "1_Model_Cb_Point.c"
+Path = "/c/JTC_23/1_Model_Cb_Point.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0019]
+File Type = "CSource"
+Res Id = 19
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "2_Result.c"
+Path = "/c/JTC_23/2_Result.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0020]
+File Type = "CSource"
+Res Id = 20
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "2_Result_DB.c"
+Path = "/c/JTC_23/2_Result_DB.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0021]
+File Type = "CSource"
+Res Id = 21
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "2_Result_File.c"
+Path = "/c/JTC_23/2_Result_File.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0022]
+File Type = "CSource"
+Res Id = 22
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "3_Setup.c"
+Path = "/c/JTC_23/3_Setup.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0023]
+File Type = "CSource"
+Res Id = 23
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "3_Setup_Comm_Amp.c"
+Path = "/c/JTC_23/3_Setup_Comm_Amp.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0024]
+File Type = "CSource"
+Res Id = 24
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "3_Setup_Comm_Mark.c"
+Path = "/c/JTC_23/3_Setup_Comm_Mark.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0025]
+File Type = "CSource"
+Res Id = 25
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "3_Setup_Comm_Plc.c"
+Path = "/c/JTC_23/3_Setup_Comm_Plc.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0026]
+File Type = "CSource"
+Res Id = 26
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "3_Setup_Comport.c"
+Path = "/c/JTC_23/3_Setup_Comport.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0027]
+File Type = "CSource"
+Res Id = 27
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "4_Calibration.c"
+Path = "/c/JTC_23/4_Calibration.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0028]
+File Type = "CSource"
+Res Id = 28
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "5_KeyPad.c"
+Path = "/c/JTC_23/5_KeyPad.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0029]
+File Type = "CSource"
+Res Id = 29
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "6_Password.c"
+Path = "/c/JTC_23/6_Password.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0030]
+File Type = "CSource"
+Res Id = 30
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "7_Windows.c"
+Path = "/c/JTC_23/7_Windows.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0031]
+File Type = "CSource"
+Res Id = 31
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "8_Thread.c"
+Path = "/c/JTC_23/8_Thread.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0032]
+File Type = "CSource"
+Res Id = 32
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "A_Measure.c"
+Path = "/c/JTC_23/A_Measure.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+Folder Id = 1
+
+[File 0033]
+File Type = "Include"
+Res Id = 33
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "0_Main.h"
+Path = "/c/JTC_23/0_Main.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+Folder Id = 2
+
+[File 0034]
+File Type = "Include"
+Res Id = 34
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "1_Model.h"
+Path = "/c/JTC_23/1_Model.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+Folder Id = 2
+
+[File 0035]
+File Type = "Include"
+Res Id = 35
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "2_Result.h"
+Path = "/c/JTC_23/2_Result.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+Folder Id = 2
+
+[File 0036]
+File Type = "Include"
+Res Id = 36
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "3_Setup.h"
+Path = "/c/JTC_23/3_Setup.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+Folder Id = 2
+
+[File 0037]
+File Type = "Include"
+Res Id = 37
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "4_Calibration.h"
+Path = "/c/JTC_23/4_Calibration.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+Folder Id = 2
+
+[File 0038]
+File Type = "Include"
+Res Id = 38
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "5_Keypad.h"
+Path = "/c/JTC_23/5_Keypad.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+Folder Id = 2
+
+[File 0039]
+File Type = "Include"
+Res Id = 39
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "6_Password.h"
+Path = "/c/JTC_23/6_Password.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+Folder Id = 2
+
+[File 0040]
+File Type = "Include"
+Res Id = 40
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "A_Global.h"
+Path = "/c/JTC_23/A_Global.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+Folder Id = 2
+
+[File 0041]
+File Type = "Function Panel"
+Res Id = 41
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "MSCOMCT2.fp"
+Path = "/c/JTC_23/MSCOMCT2.fp"
+Exclude = False
+Project Flags = 0
+Folder = "Instrument Files"
+Folder Id = 3
+
+[File 0042]
+File Type = "Function Panel"
+Res Id = 42
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "pwctrl.fp"
+Path = "/c/JTC_23/pwctrl.fp"
+Exclude = False
+Project Flags = 0
+Folder = "Instrument Files"
+Folder Id = 3
+
+[Custom Build Configs]
+Num Custom Build Configs = 0
+
+[Default Build Config Debug]
+Config Name = "Debug"
+Is 64-Bit = False
+Is Release = False
+Default Calling Convention = "cdecl"
+Optimization Level = "Optimize for speed (level 2)"
+Require Prototypes = True
+Show Warning IDs in Build Output = False
+Selected Warning Level = "Common"
+Warning List None = "41"
+Error List None = "41"
+Warning List Common = ""
+Error List Common = ""
+Warning List Extended = ""
+Error List Extended = ""
+Warning List All = ""
+Error List All = ""
+Warning Mode = 0
+Enable Unreferenced Identifiers Warning = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Assignment In Conditional Warning = True
+Uninitialized Locals Compile Warning = "Aggressive"
+Require Return Values = True
+Enable C99 Extensions = True
+Enable OpenMP Extensions = False
+Stack Size = 250000
+Stack Reserve = 1048576
+Stack Commit = 4096
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Runtime Binding = "Shared"
+Embed Project .UIRs = True
+Generate Map File = False
+Embed Timestamp = True
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "laonllp"
+Company Name Ex = "%company"
+File Description = "Main (Debug x86)"
+File Description Ex = "%application (%rel_dbg %arch)"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Internal Name = "Main"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright  laonllp 2024"
+Legal Copyright Ex = "Copyright  %company %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "Main.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "laonllp Main"
+Product Name Ex = "%company %application"
+Product Version = "1.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Add NI Type Info To DLL = False
+Use Single Header for NI Type Info = False
+Single Header NI Type Info File Is Rel = False
+Single Header NI Type Info File = ""
+
+[Default Build Config Release]
+Config Name = "Release"
+Is 64-Bit = False
+Is Release = True
+Default Calling Convention = "cdecl"
+Optimization Level = "Optimize for speed (level 2)"
+Require Prototypes = True
+Show Warning IDs in Build Output = False
+Selected Warning Level = "Common"
+Warning List None = "41"
+Error List None = "41"
+Warning List Common = ""
+Error List Common = ""
+Warning List Extended = ""
+Error List Extended = ""
+Warning List All = ""
+Error List All = ""
+Warning Mode = 0
+Enable Unreferenced Identifiers Warning = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Assignment In Conditional Warning = True
+Uninitialized Locals Compile Warning = "Aggressive"
+Require Return Values = True
+Enable C99 Extensions = True
+Enable OpenMP Extensions = False
+Stack Size = 250000
+Stack Reserve = 1048576
+Stack Commit = 4096
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = True
+Icon File Rel To = "Project"
+Icon File Rel Path = "Work/아이콘.ico"
+Icon File = "/c/JTC_23/Work/아이콘.ico"
+Application Title = ""
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Runtime Binding = "Shared"
+Embed Project .UIRs = True
+Generate Map File = False
+Embed Timestamp = True
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "laonllp"
+Company Name Ex = "%company"
+File Description = "Main (Release x86)"
+File Description Ex = "%application (%rel_dbg %arch)"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Internal Name = "Main"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright  laonllp 2024"
+Legal Copyright Ex = "Copyright  %company %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "Main.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "laonllp Main"
+Product Name Ex = "%company %application"
+Product Version = "1.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Add NI Type Info To DLL = False
+Use Single Header for NI Type Info = False
+Single Header NI Type Info File Is Rel = False
+Single Header NI Type Info File = ""
+
+[Default Build Config Debug64]
+Config Name = "Debug64"
+Is 64-Bit = True
+Is Release = False
+Default Calling Convention = "cdecl"
+Optimization Level = "Optimize for speed (level 2)"
+Require Prototypes = True
+Show Warning IDs in Build Output = False
+Selected Warning Level = "Common"
+Warning List None = "41"
+Error List None = "41"
+Warning List Common = ""
+Error List Common = ""
+Warning List Extended = ""
+Error List Extended = ""
+Warning List All = ""
+Error List All = ""
+Warning Mode = 0
+Enable Unreferenced Identifiers Warning = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Assignment In Conditional Warning = True
+Uninitialized Locals Compile Warning = "Aggressive"
+Require Return Values = True
+Enable C99 Extensions = True
+Enable OpenMP Extensions = False
+Stack Size = 250000
+Stack Reserve = 1048576
+Stack Commit = 4096
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Runtime Binding = "Shared"
+Embed Project .UIRs = False
+Generate Map File = False
+Embed Timestamp = True
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Add NI Type Info To DLL = False
+Use Single Header for NI Type Info = False
+Single Header NI Type Info File Is Rel = False
+Single Header NI Type Info File = ""
+
+[Default Build Config Release64]
+Config Name = "Release64"
+Is 64-Bit = True
+Is Release = True
+Default Calling Convention = "cdecl"
+Optimization Level = "Optimize for speed (level 2)"
+Require Prototypes = True
+Show Warning IDs in Build Output = False
+Selected Warning Level = "Common"
+Warning List None = "41"
+Error List None = "41"
+Warning List Common = ""
+Error List Common = ""
+Warning List Extended = ""
+Error List Extended = ""
+Warning List All = ""
+Error List All = ""
+Warning Mode = 0
+Enable Unreferenced Identifiers Warning = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Assignment In Conditional Warning = True
+Uninitialized Locals Compile Warning = "Aggressive"
+Require Return Values = True
+Enable C99 Extensions = True
+Enable OpenMP Extensions = False
+Stack Size = 250000
+Stack Reserve = 1048576
+Stack Commit = 4096
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Runtime Binding = "Shared"
+Embed Project .UIRs = False
+Generate Map File = False
+Embed Timestamp = True
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Add NI Type Info To DLL = False
+Use Single Header for NI Type Info = False
+Single Header NI Type Info File Is Rel = False
+Single Header NI Type Info File = ""
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Unreferenced Identifiers Warning = True
+Enable Assignment In Conditional Warning = True
+Enable C99 Extensions = True
+Uninitialized Locals Compile Warning = "Aggressive"
+Precompile Prefix Header = False
+Prefix Header File = ""
+
+[Run Options]
+Stack Size = 250000
+Stack Commit = 4096
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+
+[Compiler Defines]
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+
+[Include Paths]
+Include Path 1 Is Rel = True
+Include Path 1 Rel To = "Project"
+Include Path 1 Rel Path = ""
+Include Path 1 = "/c/JTC_23"
+
+[Create Executable]
+Executable File_Debug Is Rel = True
+Executable File_Debug Rel To = "Project"
+Executable File_Debug Rel Path = "Main.exe"
+Executable File_Debug = "/c/JTC_23/Main.exe"
+Executable File_Release Is Rel = True
+Executable File_Release Rel To = "Project"
+Executable File_Release Rel Path = "Main.exe"
+Executable File_Release = "/c/JTC_23/Main.exe"
+Executable File_Debug64 Is Rel = True
+Executable File_Debug64 Rel To = "Project"
+Executable File_Debug64 Rel Path = "Main.exe"
+Executable File_Debug64 = "/c/JTC_23/Main.exe"
+Executable File_Release64 Is Rel = True
+Executable File_Release64 Rel To = "Project"
+Executable File_Release64 Rel Path = "Main.exe"
+Executable File_Release64 = "/c/JTC_23/Main.exe"
+Icon File Is Rel = True
+Icon File Rel To = "Project"
+Icon File Rel Path = "Work/아이콘.ico"
+Icon File = "/c/JTC_23/Work/아이콘.ico"
+Application Title = ""
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "laonllp"
+Company Name Ex = "%company"
+File Description = "Main (Release x86)"
+File Description Ex = "%application (%rel_dbg %arch)"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Internal Name = "Main"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright  laonllp 2024"
+Legal Copyright Ex = "Copyright  %company %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "Main.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "laonllp Main"
+Product Name Ex = "%company %application"
+Product Version = "1.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+DLL Exports = "Include File Symbols"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Type Lib Guid = ""
+Runtime Support = "Full Runtime Support"
+Instrument Driver Support Only = False
+Embed Project .UIRs = True
+Generate Map File = False
+
+[External Compiler Support]
+UIR Callbacks File Option = 0
+Using LoadExternalModule = False
+Create Project Symbols File = True
+UIR Callbacks Obj File Is Rel = False
+UIR Callbacks Obj File = ""
+Project Symbols H File Is Rel = False
+Project Symbols H File = ""
+Project Symbols Obj File Is Rel = False
+Project Symbols Obj File = ""
+
+[ActiveX Server Options]
+Specification File Is Rel = False
+Specification File = ""
+Source File Is Rel = False
+Source File = ""
+Include File Is Rel = False
+Include File = ""
+IDL File Is Rel = False
+IDL File = ""
+Register ActiveX Server = False
+
+[Signing Info]
+Sign = False
+Sign Debug Build = False
+Store = ""
+Certificate = ""
+Timestamp URL = ""
+URL = ""
+
+[Manifest Info]
+Embed = False
+
+[tpcSection]
+tpcEnabled = 0
+tpcOverrideEnvironment = 0
+tpcEnabled x64 = 0
+tpcOverrideEnvironment x64 = 0
+

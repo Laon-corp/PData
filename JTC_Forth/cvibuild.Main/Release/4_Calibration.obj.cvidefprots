@@ -1,0 +1,40 @@
+[Cb_CalPanel]
+Class="Function"
+Prototype="int Cb_CalPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\4_Calibration.c:7:17"
+
+[Amp_No]
+Class="Function"
+Prototype="int Amp_No(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\4_Calibration.c:32:17"
+
+[Calibration_Master1]
+Class="Function"
+Prototype="int Calibration_Master1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\4_Calibration.c:68:17"
+
+[Calibration_Master2]
+Class="Function"
+Prototype="int Calibration_Master2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\4_Calibration.c:191:17"
+
+[Update1]
+Class="Function"
+Prototype="int Update1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\4_Calibration.c:320:17"
+
+[Cb_Panel_Cali]
+Class="Function"
+Prototype="int Cb_Panel_Cali(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\4_Calibration.c:367:17"
+
+[SaveCali]
+Class="Function"
+Prototype="void SaveCali();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\4_Calibration.c:399:6"
+
+[LoadCali]
+Class="Function"
+Prototype="void LoadCali();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\4_Calibration.c:425:6"
+

@@ -1,0 +1,15 @@
+[Cb_GraphChButton]
+Class="Function"
+Prototype="int Cb_GraphChButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_4_Graph.c:5:17"
+
+[Cb_Refresh]
+Class="Function"
+Prototype="int Cb_Refresh(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_4_Graph.c:21:17"
+
+[Cb_Graph_Ring_MeasPoint]
+Class="Function"
+Prototype="int Cb_Graph_Ring_MeasPoint(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_4_Graph.c:76:17"
+

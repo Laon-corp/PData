@@ -1,0 +1,35 @@
+[2024-11-06] [10:29:24] : Comport Setup Load
+[2024-11-06] [10:29:25] : Load Model : 5G200
+[2024-11-06] [10:29:25] : Program Start
+[2024-11-06] [10:29:25] : Thread Initialized success
+[2024-11-06] [10:29:25] : No Orbit net
+[2024-11-06] [10:29:25] : Plc Initialized success
+[2024-11-06] [10:29:25] : Plc Connect Fail
+[2024-11-06] [10:29:29] : DB Connect Failed
+[2024-11-06] [10:29:32] : Plc Timer On
+[2024-11-06] [10:29:32] : Plc Connect Fail
+[2024-11-06] [10:29:35] : Display : Program Setup
+[2024-11-06] [10:29:35] : Orbit Re-connection timer on
+[2024-11-06] [10:29:35] : No Orbit net
+[2024-11-06] [10:29:39] : Plc Timer On
+[2024-11-06] [10:29:39] : Plc Connect Fail
+[2024-11-06] [10:29:45] : Orbit Re-connection timer on
+[2024-11-06] [10:29:45] : No Orbit net
+[2024-11-06] [10:29:47] : Plc Timer On
+[2024-11-06] [10:29:47] : Plc Connect Fail
+[2024-11-06] [10:29:54] : Plc Timer On
+[2024-11-06] [10:29:54] : Plc Connect Fail
+[2024-11-06] [10:29:56] : Orbit Re-connection timer on
+[2024-11-06] [10:29:56] : No Orbit net
+[2024-11-06] [10:30:01] : Plc Timer On
+[2024-11-06] [10:30:01] : Plc Connect Fail
+[2024-11-06] [10:30:06] : Orbit Re-connection timer on
+[2024-11-06] [10:30:06] : No Orbit net
+[2024-11-06] [10:30:06] : Comport Setup Save
+[2024-11-06] [10:30:08] : Plc Timer On
+[2024-11-06] [10:30:08] : Plc Connect Success
+[2024-11-06] [10:30:10] : Display : Program Setup
+[2024-11-06] [10:30:16] : Orbit Re-connection timer on
+[2024-11-06] [10:30:16] : No Orbit net
+[2024-11-06] [10:30:18] : Comport Setup Save
+[2024-11-06] [10:30:23] : Program End

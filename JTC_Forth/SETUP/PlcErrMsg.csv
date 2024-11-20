@@ -1,0 +1,80 @@
+Error 01,비상정지에러
+Error 02,메인에어압력이상에러
+Error 03,원점복귀이상에러
+Error 04,PC통신이상에러
+Error 05,측정 AMP통신에러
+Error 06,마킹 CONTROLLER통신에러
+Error 07,측정 검사지연에러
+Error 08,마킹 지연에러
+Error 09,마킹 컨트롤러READY지연에러
+Error 10,마킹 컨트롤러에러
+Error 11,정면-좌측DOOR열림에러
+Error 12,정면-우측DOOR열림에러
+Error 13,
+Error 14,
+Error 15,
+Error 16,
+Error 17,
+Error 18,
+Error 19,
+Error 20,측정리프트 상하에러
+Error 21,측정부상하 상하에러
+Error 22,측정부전후 전후에러
+Error 23,
+Error 24,
+Error 25,
+Error 26,
+Error 27,
+Error 28,
+Error 29,
+Error 30,
+Error 31,측정 연속NG알람
+Error 32,불량배출 제품FULL감지알람
+Error 33,1번항목 보정신호이상알람
+Error 34,2번항목 보정신호이상알람
+Error 35,3번항목 보정신호이상알람
+Error 36,4번항목 보정신호이상알람
+Error 37,5번항목 보정신호이상알람
+Error 38,
+Error 39,
+Error 40,
+Error 41,
+Error 42,
+Error 43,
+Error 44,
+Error 45,
+Error 46,
+Error 47,
+Error 48,
+Error 49,
+Error 50,
+Error 51,
+Error 52,
+Error 53,
+Error 54,
+Error 55,
+Error 56,
+Error 57,
+Error 58,
+Error 59,
+Error 60,
+Error 61,
+Error 62,
+Error 63,
+Error 64,
+Error 65,
+Error 66,
+Error 67,
+Error 68,
+Error 69,
+Error 70,
+Error 71,
+Error 72,
+Error 73,
+Error 74,
+Error 75,
+Error 76,
+Error 77,
+Error 78,
+Error 79,
+Error 80,

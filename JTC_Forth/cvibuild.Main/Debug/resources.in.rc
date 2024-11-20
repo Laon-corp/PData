@@ -1,0 +1,48 @@
+#pragma code_page(65001)
+#include "C:\Program Files (x86)\National Instruments\Shared\MSDTRedistributables\SDKHeaderFiles\8.1\winver.h"
+
+2 ICON "c:\\program files (x86)\\national instruments\\cvi2020\\bin\\default.ico"
+1 24 "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\manifest.xml"
+
+
+STRINGTABLE DISCARDABLE
+BEGIN
+  65535  "Main"
+END
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK VS_FFI_FILEFLAGSMASK
+ FILEFLAGS 0x1L
+ FILEOS VOS__WINDOWS32
+ FILETYPE VFT_APP
+ FILESUBTYPE VFT_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "laonllp\0"
+            VALUE "FileDescription", "Main (Debug x86)\0"
+            VALUE "FileVersion", "1.0\0"
+            VALUE "InternalName", "Main\0"
+            VALUE "LegalCopyright", "Copyright  laonllp 2024\0"
+            VALUE "OriginalFilename", "Main.exe\0"
+            VALUE "ProductName", "laonllp Main\0"
+            VALUE "ProductVersion", "1.0\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 0x4b0
+    END
+END
+
+0:Main.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main.uir"
+1:Model.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\1_Model.uir"
+2:Result.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\2_Result.uir"
+3:Setup.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\3_Setup.uir"
+4:Calibration.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\4_Calibration.uir"
+5:Keypad.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\5_Keypad.uir"
+6:Password.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\6_Password.uir"

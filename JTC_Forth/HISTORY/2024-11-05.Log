@@ -1,0 +1,421 @@
+[2024-11-05] [12:31:56] : Comport Setup Load
+[2024-11-05] [12:31:57] : Load Model : 5G200
+[2024-11-05] [12:31:57] : Program Start
+[2024-11-05] [12:31:57] : Day Time Start
+[2024-11-05] [12:31:57] : Thread Initialized success
+[2024-11-05] [12:31:57] : No Orbit net
+[2024-11-05] [12:31:57] : Orbit Closed
+[2024-11-05] [12:31:57] : Orbit Opened
+[2024-11-05] [12:31:57] : Plc Initialized success
+[2024-11-05] [12:31:57] : Plc Connect Fail
+[2024-11-05] [12:32:00] : Orbit Re-connection timer on
+[2024-11-05] [12:32:00] : No Orbit net
+[2024-11-05] [12:32:00] : Orbit Closed
+[2024-11-05] [12:32:00] : Orbit Opened
+[2024-11-05] [12:32:00] : DB Connect Failed
+[2024-11-05] [12:32:03] : Orbit Re-connection timer on
+[2024-11-05] [12:32:03] : No Orbit net
+[2024-11-05] [12:32:03] : Orbit Closed
+[2024-11-05] [12:32:03] : Orbit Opened
+[2024-11-05] [12:32:04] : Plc Timer On
+[2024-11-05] [12:32:04] : Plc Connect Fail
+[2024-11-05] [12:32:07] : Orbit Re-connection timer on
+[2024-11-05] [12:32:07] : No Orbit net
+[2024-11-05] [12:32:07] : Orbit Closed
+[2024-11-05] [12:32:07] : Orbit Opened
+[2024-11-05] [12:32:09] : Orbit Re-connection timer on
+[2024-11-05] [12:32:09] : No Orbit net
+[2024-11-05] [12:32:09] : Orbit Closed
+[2024-11-05] [12:32:09] : Orbit Opened
+[2024-11-05] [12:32:11] : Plc Timer On
+[2024-11-05] [12:32:11] : Plc Connect Fail
+[2024-11-05] [12:32:14] : Orbit Re-connection timer on
+[2024-11-05] [12:32:14] : No Orbit net
+[2024-11-05] [12:32:14] : Orbit Closed
+[2024-11-05] [12:32:14] : Orbit Opened
+[2024-11-05] [12:32:16] : Orbit Re-connection timer on
+[2024-11-05] [12:32:16] : No Orbit net
+[2024-11-05] [12:32:16] : Orbit Closed
+[2024-11-05] [12:32:16] : Orbit Opened
+[2024-11-05] [12:32:18] : Plc Timer On
+[2024-11-05] [12:32:18] : Plc Connect Fail
+[2024-11-05] [12:32:21] : Orbit Re-connection timer on
+[2024-11-05] [12:32:21] : No Orbit net
+[2024-11-05] [12:32:21] : Orbit Closed
+[2024-11-05] [12:32:21] : Orbit Opened
+[2024-11-05] [12:32:23] : Orbit Re-connection timer on
+[2024-11-05] [12:32:23] : No Orbit net
+[2024-11-05] [12:32:23] : Orbit Closed
+[2024-11-05] [12:32:23] : Orbit Opened
+[2024-11-05] [12:32:25] : Plc Timer On
+[2024-11-05] [12:32:25] : Plc Connect Fail
+[2024-11-05] [12:32:28] : Orbit Re-connection timer on
+[2024-11-05] [12:32:28] : No Orbit net
+[2024-11-05] [12:32:28] : Orbit Closed
+[2024-11-05] [12:32:28] : Orbit Opened
+[2024-11-05] [12:32:31] : Orbit Re-connection timer on
+[2024-11-05] [12:32:31] : No Orbit net
+[2024-11-05] [12:32:31] : Orbit Closed
+[2024-11-05] [12:32:31] : Orbit Opened
+[2024-11-05] [12:32:32] : Plc Timer On
+[2024-11-05] [12:32:32] : Plc Connect Fail
+[2024-11-05] [12:32:35] : Orbit Re-connection timer on
+[2024-11-05] [12:32:35] : No Orbit net
+[2024-11-05] [12:32:35] : Orbit Closed
+[2024-11-05] [12:32:35] : Orbit Opened
+[2024-11-05] [12:32:38] : Orbit Re-connection timer on
+[2024-11-05] [12:32:38] : No Orbit net
+[2024-11-05] [12:32:38] : Orbit Closed
+[2024-11-05] [12:32:38] : Orbit Opened
+[2024-11-05] [12:32:40] : Plc Timer On
+[2024-11-05] [12:32:40] : Plc Connect Fail
+[2024-11-05] [12:32:42] : Orbit Re-connection timer on
+[2024-11-05] [12:32:42] : No Orbit net
+[2024-11-05] [12:32:42] : Orbit Closed
+[2024-11-05] [12:32:42] : Orbit Opened
+[2024-11-05] [12:32:45] : Orbit Re-connection timer on
+[2024-11-05] [12:32:45] : No Orbit net
+[2024-11-05] [12:32:45] : Orbit Closed
+[2024-11-05] [12:32:45] : Orbit Opened
+[2024-11-05] [12:32:47] : Plc Timer On
+[2024-11-05] [12:32:47] : Plc Connect Fail
+[2024-11-05] [12:32:49] : Orbit Re-connection timer on
+[2024-11-05] [12:32:49] : No Orbit net
+[2024-11-05] [12:32:49] : Orbit Closed
+[2024-11-05] [12:32:49] : Orbit Opened
+[2024-11-05] [12:32:52] : Orbit Re-connection timer on
+[2024-11-05] [12:32:52] : No Orbit net
+[2024-11-05] [12:32:52] : Orbit Closed
+[2024-11-05] [12:32:52] : Orbit Opened
+[2024-11-05] [12:32:54] : Plc Timer On
+[2024-11-05] [12:32:54] : Plc Connect Fail
+[2024-11-05] [12:32:56] : Orbit Re-connection timer on
+[2024-11-05] [12:32:56] : No Orbit net
+[2024-11-05] [12:32:56] : Orbit Closed
+[2024-11-05] [12:32:56] : Orbit Opened
+[2024-11-05] [12:32:59] : Orbit Re-connection timer on
+[2024-11-05] [12:32:59] : No Orbit net
+[2024-11-05] [12:32:59] : Orbit Closed
+[2024-11-05] [12:32:59] : Orbit Opened
+[2024-11-05] [12:33:01] : Plc Timer On
+[2024-11-05] [12:33:01] : Plc Connect Fail
+[2024-11-05] [12:33:03] : Orbit Re-connection timer on
+[2024-11-05] [12:33:03] : No Orbit net
+[2024-11-05] [12:33:03] : Orbit Closed
+[2024-11-05] [12:33:03] : Orbit Opened
+[2024-11-05] [12:33:06] : Orbit Re-connection timer on
+[2024-11-05] [12:33:06] : No Orbit net
+[2024-11-05] [12:33:06] : Orbit Closed
+[2024-11-05] [12:33:06] : Orbit Opened
+[2024-11-05] [12:33:08] : Plc Timer On
+[2024-11-05] [12:33:08] : Plc Connect Fail
+[2024-11-05] [12:33:10] : Orbit Re-connection timer on
+[2024-11-05] [12:33:10] : No Orbit net
+[2024-11-05] [12:33:10] : Orbit Closed
+[2024-11-05] [12:33:10] : Orbit Opened
+[2024-11-05] [12:33:13] : Orbit Re-connection timer on
+[2024-11-05] [12:33:13] : No Orbit net
+[2024-11-05] [12:33:13] : Orbit Closed
+[2024-11-05] [12:33:13] : Orbit Opened
+[2024-11-05] [12:33:15] : Plc Timer On
+[2024-11-05] [12:33:15] : Plc Connect Fail
+[2024-11-05] [12:33:17] : Orbit Re-connection timer on
+[2024-11-05] [12:33:17] : No Orbit net
+[2024-11-05] [12:33:17] : Orbit Closed
+[2024-11-05] [12:33:17] : Orbit Opened
+[2024-11-05] [12:33:20] : Orbit Re-connection timer on
+[2024-11-05] [12:33:20] : No Orbit net
+[2024-11-05] [12:33:20] : Orbit Closed
+[2024-11-05] [12:33:20] : Orbit Opened
+[2024-11-05] [12:33:22] : Plc Timer On
+[2024-11-05] [12:33:22] : Plc Connect Fail
+[2024-11-05] [12:33:24] : Orbit Re-connection timer on
+[2024-11-05] [12:33:24] : No Orbit net
+[2024-11-05] [12:33:24] : Orbit Closed
+[2024-11-05] [12:33:24] : Orbit Opened
+[2024-11-05] [12:33:27] : Orbit Re-connection timer on
+[2024-11-05] [12:33:27] : No Orbit net
+[2024-11-05] [12:33:27] : Orbit Closed
+[2024-11-05] [12:33:27] : Orbit Opened
+[2024-11-05] [12:33:29] : Plc Timer On
+[2024-11-05] [12:33:29] : Plc Connect Fail
+[2024-11-05] [12:33:31] : Orbit Re-connection timer on
+[2024-11-05] [12:33:31] : No Orbit net
+[2024-11-05] [12:33:31] : Orbit Closed
+[2024-11-05] [12:33:31] : Orbit Opened
+[2024-11-05] [12:33:34] : Orbit Re-connection timer on
+[2024-11-05] [12:33:34] : No Orbit net
+[2024-11-05] [12:33:34] : Orbit Closed
+[2024-11-05] [12:33:34] : Orbit Opened
+[2024-11-05] [12:33:36] : Plc Timer On
+[2024-11-05] [12:33:36] : Plc Connect Fail
+[2024-11-05] [12:33:38] : Orbit Re-connection timer on
+[2024-11-05] [12:33:38] : No Orbit net
+[2024-11-05] [12:33:38] : Orbit Closed
+[2024-11-05] [12:33:38] : Orbit Opened
+[2024-11-05] [12:33:41] : Orbit Re-connection timer on
+[2024-11-05] [12:33:41] : No Orbit net
+[2024-11-05] [12:33:41] : Orbit Closed
+[2024-11-05] [12:33:41] : Orbit Opened
+[2024-11-05] [12:33:43] : Plc Timer On
+[2024-11-05] [12:33:43] : Plc Connect Fail
+[2024-11-05] [12:33:45] : Orbit Re-connection timer on
+[2024-11-05] [12:33:45] : No Orbit net
+[2024-11-05] [12:33:45] : Orbit Closed
+[2024-11-05] [12:33:45] : Orbit Opened
+[2024-11-05] [12:33:48] : Orbit Re-connection timer on
+[2024-11-05] [12:33:48] : No Orbit net
+[2024-11-05] [12:33:48] : Orbit Closed
+[2024-11-05] [12:33:48] : Orbit Opened
+[2024-11-05] [12:33:50] : Plc Timer On
+[2024-11-05] [12:33:50] : Plc Connect Fail
+[2024-11-05] [12:33:52] : Orbit Re-connection timer on
+[2024-11-05] [12:33:52] : No Orbit net
+[2024-11-05] [12:33:52] : Orbit Closed
+[2024-11-05] [12:33:52] : Orbit Opened
+[2024-11-05] [12:33:55] : Orbit Re-connection timer on
+[2024-11-05] [12:33:55] : No Orbit net
+[2024-11-05] [12:33:55] : Orbit Closed
+[2024-11-05] [12:33:55] : Orbit Opened
+[2024-11-05] [12:33:57] : Plc Timer On
+[2024-11-05] [12:33:57] : Plc Connect Fail
+[2024-11-05] [12:33:59] : Orbit Re-connection timer on
+[2024-11-05] [12:33:59] : No Orbit net
+[2024-11-05] [12:33:59] : Orbit Closed
+[2024-11-05] [12:33:59] : Orbit Opened
+[2024-11-05] [12:34:02] : Orbit Re-connection timer on
+[2024-11-05] [12:34:02] : No Orbit net
+[2024-11-05] [12:34:02] : Orbit Closed
+[2024-11-05] [12:34:02] : Orbit Opened
+[2024-11-05] [12:34:04] : Plc Timer On
+[2024-11-05] [12:34:04] : Plc Connect Fail
+[2024-11-05] [12:34:06] : Orbit Re-connection timer on
+[2024-11-05] [12:34:06] : No Orbit net
+[2024-11-05] [12:34:06] : Orbit Closed
+[2024-11-05] [12:34:06] : Orbit Opened
+[2024-11-05] [12:34:09] : Orbit Re-connection timer on
+[2024-11-05] [12:34:09] : No Orbit net
+[2024-11-05] [12:34:09] : Orbit Closed
+[2024-11-05] [12:34:09] : Orbit Opened
+[2024-11-05] [12:34:11] : Plc Timer On
+[2024-11-05] [12:34:11] : Plc Connect Fail
+[2024-11-05] [12:34:13] : Orbit Re-connection timer on
+[2024-11-05] [12:34:13] : No Orbit net
+[2024-11-05] [12:34:13] : Orbit Closed
+[2024-11-05] [12:34:13] : Orbit Opened
+[2024-11-05] [12:34:16] : Orbit Re-connection timer on
+[2024-11-05] [12:34:16] : No Orbit net
+[2024-11-05] [12:34:16] : Orbit Closed
+[2024-11-05] [12:34:16] : Orbit Opened
+[2024-11-05] [12:34:18] : Plc Timer On
+[2024-11-05] [12:34:18] : Plc Connect Fail
+[2024-11-05] [12:34:20] : Orbit Re-connection timer on
+[2024-11-05] [12:34:20] : No Orbit net
+[2024-11-05] [12:34:20] : Orbit Closed
+[2024-11-05] [12:34:20] : Orbit Opened
+[2024-11-05] [12:34:23] : Orbit Re-connection timer on
+[2024-11-05] [12:34:23] : No Orbit net
+[2024-11-05] [12:34:23] : Orbit Closed
+[2024-11-05] [12:34:23] : Orbit Opened
+[2024-11-05] [12:34:25] : Plc Timer On
+[2024-11-05] [12:34:25] : Plc Connect Fail
+[2024-11-05] [12:34:27] : Orbit Re-connection timer on
+[2024-11-05] [12:34:27] : No Orbit net
+[2024-11-05] [12:34:27] : Orbit Closed
+[2024-11-05] [12:34:27] : Orbit Opened
+[2024-11-05] [12:34:30] : Orbit Re-connection timer on
+[2024-11-05] [12:34:30] : No Orbit net
+[2024-11-05] [12:34:30] : Orbit Closed
+[2024-11-05] [12:34:30] : Orbit Opened
+[2024-11-05] [12:34:32] : Plc Timer On
+[2024-11-05] [12:34:32] : Plc Connect Fail
+[2024-11-05] [12:34:34] : Orbit Re-connection timer on
+[2024-11-05] [12:34:34] : No Orbit net
+[2024-11-05] [12:34:34] : Orbit Closed
+[2024-11-05] [12:34:34] : Orbit Opened
+[2024-11-05] [12:34:37] : Orbit Re-connection timer on
+[2024-11-05] [12:34:37] : No Orbit net
+[2024-11-05] [12:34:37] : Orbit Closed
+[2024-11-05] [12:34:37] : Orbit Opened
+[2024-11-05] [12:34:39] : Plc Timer On
+[2024-11-05] [12:34:39] : Plc Connect Fail
+[2024-11-05] [12:34:41] : Orbit Re-connection timer on
+[2024-11-05] [12:34:41] : No Orbit net
+[2024-11-05] [12:34:41] : Orbit Closed
+[2024-11-05] [12:34:41] : Orbit Opened
+[2024-11-05] [12:34:44] : Orbit Re-connection timer on
+[2024-11-05] [12:34:44] : No Orbit net
+[2024-11-05] [12:34:44] : Orbit Closed
+[2024-11-05] [12:34:44] : Orbit Opened
+[2024-11-05] [12:34:46] : Plc Timer On
+[2024-11-05] [12:34:46] : Plc Connect Fail
+[2024-11-05] [12:34:48] : Orbit Re-connection timer on
+[2024-11-05] [12:34:48] : No Orbit net
+[2024-11-05] [12:34:48] : Orbit Closed
+[2024-11-05] [12:34:48] : Orbit Opened
+[2024-11-05] [12:34:51] : Orbit Re-connection timer on
+[2024-11-05] [12:34:51] : No Orbit net
+[2024-11-05] [12:34:51] : Orbit Closed
+[2024-11-05] [12:34:51] : Orbit Opened
+[2024-11-05] [12:34:53] : Plc Timer On
+[2024-11-05] [12:34:53] : Plc Connect Fail
+[2024-11-05] [12:34:55] : Orbit Re-connection timer on
+[2024-11-05] [12:34:55] : No Orbit net
+[2024-11-05] [12:34:55] : Orbit Closed
+[2024-11-05] [12:34:55] : Orbit Opened
+[2024-11-05] [12:34:58] : Orbit Re-connection timer on
+[2024-11-05] [12:34:58] : No Orbit net
+[2024-11-05] [12:34:58] : Orbit Closed
+[2024-11-05] [12:34:58] : Orbit Opened
+[2024-11-05] [12:35:00] : Plc Timer On
+[2024-11-05] [12:35:00] : Plc Connect Fail
+[2024-11-05] [12:35:02] : Orbit Re-connection timer on
+[2024-11-05] [12:35:02] : No Orbit net
+[2024-11-05] [12:35:02] : Orbit Closed
+[2024-11-05] [12:35:02] : Orbit Opened
+[2024-11-05] [12:35:05] : Orbit Re-connection timer on
+[2024-11-05] [12:35:05] : No Orbit net
+[2024-11-05] [12:35:05] : Orbit Closed
+[2024-11-05] [12:35:05] : Orbit Opened
+[2024-11-05] [12:35:07] : Plc Timer On
+[2024-11-05] [12:35:07] : Plc Connect Fail
+[2024-11-05] [12:35:09] : Orbit Re-connection timer on
+[2024-11-05] [12:35:09] : No Orbit net
+[2024-11-05] [12:35:09] : Orbit Closed
+[2024-11-05] [12:35:09] : Orbit Opened
+[2024-11-05] [12:35:12] : Orbit Re-connection timer on
+[2024-11-05] [12:35:12] : No Orbit net
+[2024-11-05] [12:35:12] : Orbit Closed
+[2024-11-05] [12:35:12] : Orbit Opened
+[2024-11-05] [12:35:14] : Plc Timer On
+[2024-11-05] [12:35:14] : Plc Connect Fail
+[2024-11-05] [12:35:16] : Orbit Re-connection timer on
+[2024-11-05] [12:35:16] : No Orbit net
+[2024-11-05] [12:35:16] : Orbit Closed
+[2024-11-05] [12:35:16] : Orbit Opened
+[2024-11-05] [12:35:19] : Orbit Re-connection timer on
+[2024-11-05] [12:35:19] : No Orbit net
+[2024-11-05] [12:35:19] : Orbit Closed
+[2024-11-05] [12:35:19] : Orbit Opened
+[2024-11-05] [12:35:21] : Plc Timer On
+[2024-11-05] [12:35:21] : Plc Connect Fail
+[2024-11-05] [12:35:23] : Orbit Re-connection timer on
+[2024-11-05] [12:35:23] : No Orbit net
+[2024-11-05] [12:35:23] : Orbit Closed
+[2024-11-05] [12:35:23] : Orbit Opened
+[2024-11-05] [12:35:26] : Orbit Re-connection timer on
+[2024-11-05] [12:35:26] : No Orbit net
+[2024-11-05] [12:35:26] : Orbit Closed
+[2024-11-05] [12:35:26] : Orbit Opened
+[2024-11-05] [12:35:28] : Plc Timer On
+[2024-11-05] [12:35:28] : Plc Connect Fail
+[2024-11-05] [12:35:31] : Orbit Re-connection timer on
+[2024-11-05] [12:35:31] : No Orbit net
+[2024-11-05] [12:35:31] : Orbit Closed
+[2024-11-05] [12:35:31] : Orbit Opened
+[2024-11-05] [12:35:33] : Orbit Re-connection timer on
+[2024-11-05] [12:35:33] : No Orbit net
+[2024-11-05] [12:35:33] : Orbit Closed
+[2024-11-05] [12:35:33] : Orbit Opened
+[2024-11-05] [12:35:35] : Plc Timer On
+[2024-11-05] [12:35:35] : Plc Connect Fail
+[2024-11-05] [12:35:38] : Orbit Re-connection timer on
+[2024-11-05] [12:35:38] : No Orbit net
+[2024-11-05] [12:35:38] : Orbit Closed
+[2024-11-05] [12:35:38] : Orbit Opened
+[2024-11-05] [12:35:40] : Orbit Re-connection timer on
+[2024-11-05] [12:35:40] : No Orbit net
+[2024-11-05] [12:35:40] : Orbit Closed
+[2024-11-05] [12:35:40] : Orbit Opened
+[2024-11-05] [12:35:42] : Plc Timer On
+[2024-11-05] [12:35:42] : Plc Connect Fail
+[2024-11-05] [12:35:45] : Orbit Re-connection timer on
+[2024-11-05] [12:35:45] : No Orbit net
+[2024-11-05] [12:35:45] : Orbit Closed
+[2024-11-05] [12:35:45] : Orbit Opened
+[2024-11-05] [12:35:47] : Orbit Re-connection timer on
+[2024-11-05] [12:35:47] : No Orbit net
+[2024-11-05] [12:35:47] : Orbit Closed
+[2024-11-05] [12:35:47] : Orbit Opened
+[2024-11-05] [12:35:49] : Plc Timer On
+[2024-11-05] [12:35:49] : Plc Connect Fail
+[2024-11-05] [12:35:52] : Orbit Re-connection timer on
+[2024-11-05] [12:35:52] : No Orbit net
+[2024-11-05] [12:35:52] : Orbit Closed
+[2024-11-05] [12:35:52] : Orbit Opened
+[2024-11-05] [12:35:54] : Orbit Re-connection timer on
+[2024-11-05] [12:35:54] : No Orbit net
+[2024-11-05] [12:35:54] : Orbit Closed
+[2024-11-05] [12:35:54] : Orbit Opened
+[2024-11-05] [12:35:56] : Plc Timer On
+[2024-11-05] [12:35:56] : Plc Connect Fail
+[2024-11-05] [12:35:59] : Orbit Re-connection timer on
+[2024-11-05] [12:35:59] : No Orbit net
+[2024-11-05] [12:35:59] : Orbit Closed
+[2024-11-05] [12:35:59] : Orbit Opened
+[2024-11-05] [12:36:01] : Orbit Re-connection timer on
+[2024-11-05] [12:36:01] : No Orbit net
+[2024-11-05] [12:36:01] : Orbit Closed
+[2024-11-05] [12:36:01] : Orbit Opened
+[2024-11-05] [12:36:03] : Plc Timer On
+[2024-11-05] [12:36:03] : Plc Connect Fail
+[2024-11-05] [12:36:06] : Orbit Re-connection timer on
+[2024-11-05] [12:36:06] : No Orbit net
+[2024-11-05] [12:36:06] : Orbit Closed
+[2024-11-05] [12:36:06] : Orbit Opened
+[2024-11-05] [12:36:08] : Program End
+[2024-11-05] [12:36:09] : Invalid connection handle.
+[2024-11-05] [12:36:15] : Comport Setup Load
+[2024-11-05] [12:36:16] : Load Model : 5G200
+[2024-11-05] [12:36:16] : Program Start
+[2024-11-05] [12:36:16] : Thread Initialized success
+[2024-11-05] [12:36:16] : No Orbit net
+[2024-11-05] [12:36:16] : Plc Initialized success
+[2024-11-05] [12:36:16] : Plc Connect Fail
+[2024-11-05] [12:36:20] : DB Connect Failed
+[2024-11-05] [12:36:24] : Plc Timer On
+[2024-11-05] [12:36:24] : Plc Connect Fail
+[2024-11-05] [12:36:27] : Orbit Re-connection timer on
+[2024-11-05] [12:36:27] : No Orbit net
+[2024-11-05] [12:36:31] : Plc Timer On
+[2024-11-05] [12:36:31] : Plc Connect Fail
+[2024-11-05] [12:36:37] : Orbit Re-connection timer on
+[2024-11-05] [12:36:37] : No Orbit net
+[2024-11-05] [12:36:38] : Plc Timer On
+[2024-11-05] [12:36:38] : Plc Connect Fail
+[2024-11-05] [12:36:45] : Plc Timer On
+[2024-11-05] [12:36:45] : Plc Connect Fail
+[2024-11-05] [12:36:47] : Orbit Re-connection timer on
+[2024-11-05] [12:36:47] : No Orbit net
+[2024-11-05] [12:36:52] : Plc Timer On
+[2024-11-05] [12:36:52] : Plc Connect Fail
+[2024-11-05] [12:36:57] : Orbit Re-connection timer on
+[2024-11-05] [12:36:57] : No Orbit net
+[2024-11-05] [12:36:59] : Plc Timer On
+[2024-11-05] [12:36:59] : Plc Connect Fail
+[2024-11-05] [12:37:06] : Plc Timer On
+[2024-11-05] [12:37:06] : Plc Connect Fail
+[2024-11-05] [12:37:09] : Orbit Re-connection timer on
+[2024-11-05] [12:37:09] : No Orbit net
+[2024-11-05] [12:37:13] : Plc Timer On
+[2024-11-05] [12:37:13] : Plc Connect Fail
+[2024-11-05] [12:37:18] : Orbit Re-connection timer on
+[2024-11-05] [12:37:18] : No Orbit net
+[2024-11-05] [12:37:20] : Plc Timer On
+[2024-11-05] [12:37:20] : Plc Connect Fail
+[2024-11-05] [12:37:27] : Plc Timer On
+[2024-11-05] [12:37:27] : Plc Connect Fail
+[2024-11-05] [12:37:30] : Orbit Re-connection timer on
+[2024-11-05] [12:37:30] : No Orbit net
+[2024-11-05] [12:37:34] : Plc Timer On
+[2024-11-05] [12:37:34] : Plc Connect Fail
+[2024-11-05] [12:37:39] : Orbit Re-connection timer on
+[2024-11-05] [12:37:39] : No Orbit net
+[2024-11-05] [12:37:41] : Plc Timer On
+[2024-11-05] [12:37:41] : Plc Connect Fail
+[2024-11-05] [12:37:48] : Plc Timer On
+[2024-11-05] [12:37:48] : Plc Connect Fail
+[2024-11-05] [12:37:51] : Orbit Re-connection timer on
+[2024-11-05] [12:37:51] : No Orbit net
+[2024-11-05] [12:37:55] : Program End
+[2024-11-05] [12:38:29] : Display : Program Setup

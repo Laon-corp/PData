@@ -1,0 +1,52 @@
+[2024-10-25] [12:27:51] : Comport Setup Load
+[2024-10-25] [12:27:51] : Load Model : 5G200
+[2024-10-25] [12:27:51] : Program Start
+[2024-10-25] [12:27:51] : Thread Initialized success
+[2024-10-25] [12:27:51] : Calibration Initialized success
+[2024-10-25] [12:27:53] : Plc Initialized success
+[2024-10-25] [12:28:01] : Program End
+[2024-10-25] [12:28:01] : DB Disconnect Success
+[2024-10-25] [12:28:43] : Comport Setup Load
+[2024-10-25] [12:28:43] : Load Model : 5G200
+[2024-10-25] [12:28:43] : Program Start
+[2024-10-25] [12:28:43] : Thread Initialized success
+[2024-10-25] [12:28:43] : Calibration Initialized success
+[2024-10-25] [12:28:44] : Plc Initialized success
+[2024-10-25] [12:28:49] : Display : Program Setup
+[2024-10-25] [12:28:57] : Program End
+[2024-10-25] [12:28:57] : DB Disconnect Success
+[2024-10-25] [12:29:52] : Comport Setup Load
+[2024-10-25] [12:29:52] : Load Model : 5G200
+[2024-10-25] [12:29:52] : Program Start
+[2024-10-25] [12:29:52] : Thread Initialized success
+[2024-10-25] [12:29:52] : Calibration Initialized success
+[2024-10-25] [12:29:52] : Plc Initialized success
+[2024-10-25] [12:30:01] : Program End
+[2024-10-25] [12:30:01] : DB Disconnect Success
+[2024-10-25] [12:41:18] : Comport Setup Load
+[2024-10-25] [12:41:18] : Load Model : 5G200
+[2024-10-25] [12:41:18] : Program Start
+[2024-10-25] [12:41:18] : Thread Initialized success
+[2024-10-25] [12:41:18] : Calibration Initialized success
+[2024-10-25] [12:41:19] : Plc Initialized success
+[2024-10-25] [12:41:27] : Auto Sig:1, Sensing Count:10
+[2024-10-25] [12:41:33] : Program End
+[2024-10-25] [12:41:33] : DB Disconnect Success
+[2024-10-25] [12:42:26] : Comport Setup Load
+[2024-10-25] [12:42:26] : Load Model : 5G200
+[2024-10-25] [12:42:26] : Program Start
+[2024-10-25] [12:42:26] : Thread Initialized success
+[2024-10-25] [12:42:26] : Calibration Initialized success
+[2024-10-25] [12:42:27] : Plc Initialized success
+[2024-10-25] [12:42:38] : Auto Sig:1, Sensing Count:10
+[2024-10-25] [12:42:50] : Program End
+[2024-10-25] [12:42:50] : DB Disconnect Success
+[2024-10-25] [12:43:12] : Comport Setup Load
+[2024-10-25] [12:43:12] : Load Model : 5G200
+[2024-10-25] [12:43:12] : Program Start
+[2024-10-25] [12:43:12] : Thread Initialized success
+[2024-10-25] [12:43:12] : Calibration Initialized success
+[2024-10-25] [12:43:13] : Plc Initialized success
+[2024-10-25] [12:43:21] : Auto Sig:1, Sensing Count:10
+[2024-10-25] [12:43:39] : Program End
+[2024-10-25] [12:43:39] : DB Disconnect Success

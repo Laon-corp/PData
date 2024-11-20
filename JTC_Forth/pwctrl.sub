@@ -1,0 +1,16 @@
+FPAttributeValueFile
+
+0 PasswordCtrl_SetAttribute 3 4 false s
+0 PasswordCtrl_GetAttribute 3 4 false g
+
+1 all "Maximum Password Length" ATTR_PASSWORD_MAX_LENGTH i gs
+ "The maximum number of characters that can be entered into a password control."
+
+
+1 all "Current Password Value" ATTR_PASSWORD_VAL s gs
+ "The value of the password in the control."
+
+
+1 all "Mask Character" ATTR_PASSWORD_MASK_CHARACTER i gs
+ "The ASCII value of the masking character that will be displayed in the control in place of the actual password"
+ " characters."

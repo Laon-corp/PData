@@ -1,0 +1,202 @@
+CCFLAGS = -g ;
+HDRS = 	"e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\activex\\word"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\activex\\excel"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\custctrl"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\custctrl\\custsupp"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\cvirtsup"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\datasock"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\daqUtil"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\printing"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\toolbox"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\reportgen"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\localui"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\instr"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\toolslib\\custctrl"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\toolslib\\custctrl\\custsupp"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\instr"
+	"C:\\ProgramData\\National Instruments\\CVI2020\\instr"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\include"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\include"
+	"C:\\ProgramData\\National Instruments\\CVI2020\\include"
+	"C:\\ProgramData\\National Instruments\\CVI\\include"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\include\\ansi"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\include\\clang\\3.3"
+	"C:\\Program Files (x86)\\IVI Foundation\\IVI\\Include"
+	"C:\\Program Files (x86)\\IVI Foundation\\VISA\\winnt\\include"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\MSDTRedistributables\\SDKHeaderFiles\\8.1"
+	"c:\\Program Files (x86)\\National Instruments\\CVI2020\\bin"
+	"c:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\Bin"
+	;
+include Jamfile_instr ;
+LOCATE on "0_Main.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab_0_Auto.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab_1_Manual.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab_2_Zeroset.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab_4_Graph.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab_5_History.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "1_Model.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "1_Model.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "1_Model_Cb_List.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "1_Model_Cb_Point.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "2_Result.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "2_Result.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "2_Result_DB.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "2_Result_File.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup_Comm_Amp.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup_Comm_Mark.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup_Comm_Plc.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup_Comport.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "4_Calibration.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "4_Calibration.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "5_KeyPad.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "5_Keypad.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "6_Password.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "6_Password.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "7_Windows.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "8_Thread.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "A_Global.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "A_Measure.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main.obj" = 1 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main_Cb.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb.obj" = 2 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main_Cb_Tab.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab.obj" = 3 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_0_Auto.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main_Cb_Tab_0_Auto.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_0_Auto.obj" = 4 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_0_Auto.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_0_Auto.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_0_Auto.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_0_Auto.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_0_Auto.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_1_Manual.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main_Cb_Tab_1_Manual.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_1_Manual.obj" = 5 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_1_Manual.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_1_Manual.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_1_Manual.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_1_Manual.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_1_Manual.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_2_Zeroset.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main_Cb_Tab_2_Zeroset.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_2_Zeroset.obj" = 6 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_2_Zeroset.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_2_Zeroset.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_2_Zeroset.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_2_Zeroset.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_2_Zeroset.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_4_Graph.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main_Cb_Tab_4_Graph.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_4_Graph.obj" = 7 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_4_Graph.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_4_Graph.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_4_Graph.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_4_Graph.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_4_Graph.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_5_History.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main_Cb_Tab_5_History.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_5_History.obj" = 8 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_5_History.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_5_History.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_5_History.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_5_History.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\0_Main_Cb_Tab_5_History.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\1_Model.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model.obj" = 9 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_List.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\1_Model_Cb_List.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_List.obj" = 10 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_List.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_List.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_List.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_List.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_List.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_Point.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\1_Model_Cb_Point.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_Point.obj" = 11 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_Point.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_Point.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_Point.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_Point.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\1_Model_Cb_Point.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\2_Result.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result.obj" = 12 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_DB.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\2_Result_DB.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_DB.obj" = 13 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_DB.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_DB.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_DB.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_DB.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_DB.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_File.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\2_Result_File.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_File.obj" = 14 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_File.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_File.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_File.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_File.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\2_Result_File.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\3_Setup.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup.obj" = 15 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Amp.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\3_Setup_Comm_Amp.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Amp.obj" = 16 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Amp.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Amp.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Amp.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Amp.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Amp.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Mark.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\3_Setup_Comm_Mark.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Mark.obj" = 17 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Mark.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Mark.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Mark.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Mark.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Mark.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Plc.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\3_Setup_Comm_Plc.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Plc.obj" = 18 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Plc.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Plc.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Plc.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Plc.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comm_Plc.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comport.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\3_Setup_Comport.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comport.obj" = 19 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comport.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comport.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comport.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comport.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\3_Setup_Comport.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\4_Calibration.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\4_Calibration.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\4_Calibration.obj" = 20 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\4_Calibration.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\4_Calibration.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\4_Calibration.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\4_Calibration.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\4_Calibration.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\5_KeyPad.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\5_KeyPad.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\5_KeyPad.obj" = 21 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\5_KeyPad.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\5_KeyPad.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\5_KeyPad.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\5_KeyPad.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\5_KeyPad.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\6_Password.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\6_Password.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\6_Password.obj" = 22 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\6_Password.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\6_Password.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\6_Password.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\6_Password.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\6_Password.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\7_Windows.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\7_Windows.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\7_Windows.obj" = 23 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\7_Windows.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\7_Windows.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\7_Windows.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\7_Windows.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\7_Windows.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\8_Thread.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\8_Thread.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\8_Thread.obj" = 24 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\8_Thread.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\8_Thread.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\8_Thread.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\8_Thread.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\8_Thread.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\A_Measure.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\A_Measure.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\A_Measure.obj" = 25 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\A_Measure.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\A_Measure.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\A_Measure.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\A_Measure.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\A_Measure.obj" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.res" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.in.rc" ;
+Depends "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.res" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\manifest.xml" ;
+MainFromObjects "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\Main.exe" : $(PrjObjects) $(InstrObjects) ;
+Depends "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\Main.exe" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\link_options.txt" ;
+Depends "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\Main.exe" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.res" ;
+Depends "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.res" :  "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main.uir" ;
+Depends "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.res" :  "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\1_Model.uir" ;
+Depends "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.res" :  "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\2_Result.uir" ;
+Depends "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.res" :  "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\3_Setup.uir" ;
+Depends "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.res" :  "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\4_Calibration.uir" ;
+Depends "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.res" :  "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\5_Keypad.uir" ;
+Depends "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\resources.res" :  "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\6_Password.uir" ;
+Depends all : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Debug\\Main.exe" ;

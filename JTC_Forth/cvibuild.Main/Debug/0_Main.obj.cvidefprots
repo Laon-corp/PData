@@ -1,0 +1,35 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main.c:7:5"
+
+[Close_MainPanel]
+Class="Function"
+Prototype="int Close_MainPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main.c:176:17"
+
+[Cb_Logo]
+Class="Function"
+Prototype="int Cb_Logo(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main.c:189:17"
+
+[GetCurrShift]
+Class="Function"
+Prototype="void GetCurrShift();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main.c:196:6"
+
+[GetDateTime]
+Class="Function"
+Prototype="void GetDateTime();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main.c:203:7"
+
+[Cb_Timer_Time]
+Class="Function"
+Prototype="int Cb_Timer_Time(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main.c:246:17"
+
+[Cb_Timer_Alarm]
+Class="Function"
+Prototype="int Cb_Timer_Alarm(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main.c:258:17"
+

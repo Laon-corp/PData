@@ -1,0 +1,628 @@
+[2024-10-19] [14:37:33] : Comport Setup Load
+[2024-10-19] [14:37:33] : Load Model : 5G200
+[2024-10-19] [14:37:33] : Program Start
+[2024-10-19] [14:37:33] : Thread Initialized success
+[2024-10-19] [14:37:33] : Calibration Initialized success
+[2024-10-19] [14:37:34] : Plc Initialized success
+[2024-10-19] [14:37:38] : Display : Program Setup
+[2024-10-19] [14:37:49] : Program End
+[2024-10-19] [14:37:49] : DB Disconnect Success
+[2024-10-19] [14:38:06] : Comport Setup Load
+[2024-10-19] [14:38:06] : Load Model : 5G200
+[2024-10-19] [14:38:06] : Program Start
+[2024-10-19] [14:38:06] : Thread Initialized success
+[2024-10-19] [14:38:06] : Calibration Initialized success
+[2024-10-19] [14:38:07] : Plc Initialized success
+[2024-10-19] [14:39:13] : Display : Program Setup
+[2024-10-19] [14:39:54] : Comport Setup Save
+[2024-10-19] [14:39:57] : Program Setup Save
+[2024-10-19] [14:40:00] : Program End
+[2024-10-19] [14:40:00] : DB Disconnect Success
+[2024-10-19] [14:40:10] : Comport Setup Load
+[2024-10-19] [14:40:10] : Load Model : 5G200
+[2024-10-19] [14:40:10] : Program Start
+[2024-10-19] [14:40:10] : Thread Initialized success
+[2024-10-19] [14:40:10] : Calibration Initialized success
+[2024-10-19] [14:40:11] : Plc Initialized success
+[2024-10-19] [14:40:20] : Program End
+[2024-10-19] [14:40:20] : DB Disconnect Success
+[2024-10-19] [14:41:34] : Comport Setup Load
+[2024-10-19] [14:41:34] : Load Model : 5G200
+[2024-10-19] [14:41:34] : Program Start
+[2024-10-19] [14:41:34] : Thread Initialized success
+[2024-10-19] [14:41:34] : Calibration Initialized success
+[2024-10-19] [14:41:34] : Plc Initialized success
+[2024-10-19] [14:41:49] : Display : Program Setup
+[2024-10-19] [14:42:25] : Comport Setup Save
+[2024-10-19] [14:42:34] : Program End
+[2024-10-19] [14:42:34] : DB Disconnect Success
+[2024-10-19] [14:45:00] : Comport Setup Load
+[2024-10-19] [14:45:00] : Load Model : 5G200
+[2024-10-19] [14:45:00] : Program Start
+[2024-10-19] [14:45:00] : Thread Initialized success
+[2024-10-19] [14:45:00] : Calibration Initialized success
+[2024-10-19] [14:46:49] : Comport Setup Load
+[2024-10-19] [14:46:49] : Load Model : 5G200
+[2024-10-19] [14:46:49] : Program Start
+[2024-10-19] [14:46:49] : Thread Initialized success
+[2024-10-19] [14:46:49] : Calibration Initialized success
+[2024-10-19] [14:46:49] : Plc Initialized success
+[2024-10-19] [14:47:50] : Display : Program Setup
+[2024-10-19] [14:48:00] : Comport Setup Save
+[2024-10-19] [14:48:05] : Program End
+[2024-10-19] [14:48:05] : DB Disconnect Success
+[2024-10-19] [14:51:27] : Comport Setup Load
+[2024-10-19] [14:51:27] : Load Model : 5G200
+[2024-10-19] [14:51:27] : Program Start
+[2024-10-19] [14:51:27] : Thread Initialized success
+[2024-10-19] [14:51:27] : Calibration Initialized success
+[2024-10-19] [14:51:27] : Plc Initialized success
+[2024-10-19] [14:53:45] : Program End
+[2024-10-19] [14:53:45] : DB Disconnect Success
+[2024-10-19] [15:01:14] : Comport Setup Load
+[2024-10-19] [15:01:14] : Load Model : 5G200
+[2024-10-19] [15:01:14] : Program Start
+[2024-10-19] [15:01:14] : Thread Initialized success
+[2024-10-19] [15:01:14] : Calibration Initialized success
+[2024-10-19] [15:01:16] : Plc Initialized success
+[2024-10-19] [15:01:17] : Amp Error Timer
+[2024-10-19] [15:01:21] : Amp Error Timer
+[2024-10-19] [15:01:24] : Amp Error Timer
+[2024-10-19] [15:01:27] : Amp Error Timer
+[2024-10-19] [15:01:27] : Program End
+[2024-10-19] [15:03:49] : Comport Setup Load
+[2024-10-19] [15:03:49] : Load Model : 5G200
+[2024-10-19] [15:03:49] : Program Start
+[2024-10-19] [15:03:49] : Thread Initialized success
+[2024-10-19] [15:03:49] : Calibration Initialized success
+[2024-10-19] [15:04:10] : Comport Setup Load
+[2024-10-19] [15:04:10] : Load Model : 5G200
+[2024-10-19] [15:04:10] : Program Start
+[2024-10-19] [15:04:10] : Thread Initialized success
+[2024-10-19] [15:04:10] : Calibration Initialized success
+[2024-10-19] [15:04:10] : Plc Initialized success
+[2024-10-19] [15:06:22] : Display : Model Setup
+[2024-10-19] [15:06:42] : Load Model : 5G200
+[2024-10-19] [15:06:45] : Display : Program Setup
+[2024-10-19] [15:07:24] : Program End
+[2024-10-19] [15:07:24] : DB Disconnect Success
+[2024-10-19] [15:13:54] : Comport Setup Load
+[2024-10-19] [15:13:54] : Load Model : 5G200
+[2024-10-19] [15:13:54] : Program Start
+[2024-10-19] [15:13:54] : Thread Initialized success
+[2024-10-19] [15:30:54] : Comport Setup Load
+[2024-10-19] [15:30:54] : Load Model : 5G200
+[2024-10-19] [15:30:54] : Program Start
+[2024-10-19] [15:30:54] : Thread Initialized success
+[2024-10-19] [15:30:54] : Calibration Initialized success
+[2024-10-19] [15:30:54] : Plc Initialized success
+[2024-10-19] [15:31:51] : Display : Program Setup
+[2024-10-19] [15:31:59] : Comport Setup Save
+[2024-10-19] [15:32:02] : Program End
+[2024-10-19] [15:32:02] : DB Disconnect Success
+[2024-10-19] [15:32:15] : Comport Setup Load
+[2024-10-19] [15:32:15] : Load Model : 5G200
+[2024-10-19] [15:32:15] : Program Start
+[2024-10-19] [15:32:15] : Thread Initialized success
+[2024-10-19] [15:32:15] : Calibration Initialized success
+[2024-10-19] [15:34:44] : Plc Initialized success
+[2024-10-19] [15:35:00] : Program End
+[2024-10-19] [15:35:00] : DB Disconnect Success
+[2024-10-19] [15:35:21] : Comport Setup Load
+[2024-10-19] [15:35:21] : Load Model : 5G200
+[2024-10-19] [15:35:21] : Program Start
+[2024-10-19] [15:35:21] : Thread Initialized success
+[2024-10-19] [15:35:21] : Calibration Initialized success
+[2024-10-19] [15:35:24] : Plc Initialized success
+[2024-10-19] [15:35:24] : Amp Error Timer
+[2024-10-19] [15:35:28] : Amp Error Timer
+[2024-10-19] [15:35:31] : Amp Error Timer
+[2024-10-19] [15:35:32] : Display : Program Setup
+[2024-10-19] [15:35:34] : Amp Error Timer
+[2024-10-19] [15:35:37] : Amp Error Timer
+[2024-10-19] [15:35:39] : Comport Setup Save
+[2024-10-19] [15:35:40] : Amp Error Timer
+[2024-10-19] [15:35:43] : Amp Error Timer
+[2024-10-19] [15:35:46] : Amp Error Timer
+[2024-10-19] [15:35:48] : Display : Calibration
+[2024-10-19] [15:35:49] : Amp Error Timer
+[2024-10-19] [15:35:53] : Amp Error Timer
+[2024-10-19] [15:35:56] : Amp Error Timer
+[2024-10-19] [15:35:59] : Amp Error Timer
+[2024-10-19] [15:36:02] : Amp Error Timer
+[2024-10-19] [15:36:05] : Amp Error Timer
+[2024-10-19] [15:36:08] : Amp Error Timer
+[2024-10-19] [15:36:11] : Amp Error Timer
+[2024-10-19] [15:36:14] : Amp Error Timer
+[2024-10-19] [15:36:18] : Amp Error Timer
+[2024-10-19] [15:36:21] : Amp Error Timer
+[2024-10-19] [15:36:24] : Amp Error Timer
+[2024-10-19] [15:36:27] : Amp Error Timer
+[2024-10-19] [15:36:30] : Amp Error Timer
+[2024-10-19] [15:36:33] : Amp Error Timer
+[2024-10-19] [15:36:36] : Amp Error Timer
+[2024-10-19] [15:36:39] : Amp Error Timer
+[2024-10-19] [15:36:43] : Amp Error Timer
+[2024-10-19] [15:36:46] : Amp Error Timer
+[2024-10-19] [15:36:49] : Amp Error Timer
+[2024-10-19] [15:36:50] : Program End
+[2024-10-19] [15:37:52] : Comport Setup Load
+[2024-10-19] [15:37:52] : Load Model : 5G200
+[2024-10-19] [15:37:52] : Program Start
+[2024-10-19] [15:37:52] : Thread Initialized success
+[2024-10-19] [15:37:52] : Calibration Initialized success
+[2024-10-19] [15:37:52] : Plc Initialized success
+[2024-10-19] [15:38:35] : Display : Program Setup
+[2024-10-19] [15:38:47] : Program End
+[2024-10-19] [15:38:47] : DB Disconnect Success
+[2024-10-19] [15:39:31] : Comport Setup Load
+[2024-10-19] [15:39:31] : Load Model : 5G200
+[2024-10-19] [15:39:31] : Program Start
+[2024-10-19] [15:39:31] : Thread Initialized success
+[2024-10-19] [15:39:31] : Calibration Initialized success
+[2024-10-19] [15:40:18] : Plc Initialized success
+[2024-10-19] [15:40:21] : Display : Program Setup
+[2024-10-19] [15:40:28] : Comport Setup Save
+[2024-10-19] [15:40:37] : Program End
+[2024-10-19] [15:40:37] : DB Disconnect Success
+[2024-10-19] [15:53:08] : Comport Setup Load
+[2024-10-19] [15:53:08] : Load Model : 5G200
+[2024-10-19] [15:53:08] : Program Start
+[2024-10-19] [15:53:08] : Thread Initialized success
+[2024-10-19] [15:53:08] : Calibration Initialized success
+[2024-10-19] [15:53:08] : Plc Initialized success
+[2024-10-19] [15:54:43] : Display : Program Setup
+[2024-10-19] [15:54:49] : Comport Setup Save
+[2024-10-19] [15:54:51] : Program Setup Save
+[2024-10-19] [15:54:55] : Program End
+[2024-10-19] [15:54:55] : DB Disconnect Success
+[2024-10-19] [15:55:04] : Comport Setup Load
+[2024-10-19] [15:55:04] : Load Model : 5G200
+[2024-10-19] [15:55:04] : Program Start
+[2024-10-19] [15:55:04] : Thread Initialized success
+[2024-10-19] [15:55:04] : Calibration Initialized success
+[2024-10-19] [15:55:04] : Plc Initialized success
+[2024-10-19] [15:55:05] : DB Connect Fail
+[2024-10-19] [15:55:09] : Display : Program Setup
+[2024-10-19] [15:55:20] : Program End
+[2024-10-19] [15:55:21] : DB Disconnect Fail
+[2024-10-19] [15:55:28] : Comport Setup Load
+[2024-10-19] [15:55:28] : Load Model : 5G200
+[2024-10-19] [15:55:28] : Program Start
+[2024-10-19] [15:55:28] : Thread Initialized success
+[2024-10-19] [15:55:28] : Calibration Initialized success
+[2024-10-19] [15:55:28] : Plc Initialized success
+[2024-10-19] [15:55:29] : DB Connect Fail
+[2024-10-19] [15:55:32] : Display : Program Setup
+[2024-10-19] [15:55:45] : Program End
+[2024-10-19] [15:55:47] : DB Disconnect Fail
+[2024-10-19] [16:05:00] : Comport Setup Load
+[2024-10-19] [16:05:00] : Load Model : 5G200
+[2024-10-19] [16:05:00] : Program Start
+[2024-10-19] [16:05:00] : Thread Initialized success
+[2024-10-19] [16:05:00] : Calibration Initialized success
+[2024-10-19] [16:05:00] : Plc Initialized success
+[2024-10-19] [16:05:22] : Display : Program Setup
+[2024-10-19] [16:05:31] : Comport Setup Save
+[2024-10-19] [16:05:36] : Comport Setup Save
+[2024-10-19] [16:05:39] : Program Setup Save
+[2024-10-19] [16:05:40] : Program End
+[2024-10-19] [16:05:40] : DB Disconnect Success
+[2024-10-19] [16:06:47] : Comport Setup Load
+[2024-10-19] [16:06:47] : Load Model : 5G200
+[2024-10-19] [16:06:47] : Program Start
+[2024-10-19] [16:06:47] : Thread Initialized success
+[2024-10-19] [16:06:47] : Calibration Initialized success
+[2024-10-19] [16:06:47] : Plc Initialized success
+[2024-10-19] [16:07:06] : Display : Program Setup
+[2024-10-19] [16:07:13] : Comport Setup Save
+[2024-10-19] [16:08:21] : Program End
+[2024-10-19] [16:08:21] : DB Disconnect Success
+[2024-10-19] [16:08:36] : Comport Setup Load
+[2024-10-19] [16:08:36] : Load Model : 5G200
+[2024-10-19] [16:08:36] : Program Start
+[2024-10-19] [16:08:36] : Thread Initialized success
+[2024-10-19] [16:08:36] : Calibration Initialized success
+[2024-10-19] [16:08:36] : Plc Initialized success
+[2024-10-19] [16:11:41] : Display : Program Setup
+[2024-10-19] [16:11:46] : Comport Setup Save
+[2024-10-19] [16:11:48] : Program End
+[2024-10-19] [16:11:48] : DB Disconnect Success
+[2024-10-19] [16:13:54] : Comport Setup Load
+[2024-10-19] [16:13:54] : Load Model : 5G200
+[2024-10-19] [16:13:54] : Program Start
+[2024-10-19] [16:13:54] : Thread Initialized success
+[2024-10-19] [16:13:54] : Calibration Initialized success
+[2024-10-19] [16:13:54] : Plc Initialized success
+[2024-10-19] [16:14:55] : Display : Program Setup
+[2024-10-19] [16:15:01] : Comport Setup Save
+[2024-10-19] [16:15:04] : Program End
+[2024-10-19] [16:15:04] : DB Disconnect Success
+[2024-10-19] [16:24:27] : Comport Setup Load
+[2024-10-19] [16:24:27] : Load Model : 5G200
+[2024-10-19] [16:24:27] : Program Start
+[2024-10-19] [16:24:27] : Thread Initialized success
+[2024-10-19] [16:24:27] : Calibration Initialized success
+[2024-10-19] [16:24:27] : Plc Initialized success
+[2024-10-19] [16:24:34] : Program End
+[2024-10-19] [16:24:34] : DB Disconnect Success
+[2024-10-19] [16:40:49] : Comport Setup Load
+[2024-10-19] [16:40:49] : Load Model : 5G200
+[2024-10-19] [16:40:49] : Program Start
+[2024-10-19] [16:40:49] : Thread Initialized success
+[2024-10-19] [16:40:49] : Calibration Initialized success
+[2024-10-19] [16:40:49] : Plc Initialized success
+[2024-10-19] [16:41:01] : Display : Program Setup
+[2024-10-19] [16:41:06] : Comport Setup Save
+[2024-10-19] [16:41:09] : Program End
+[2024-10-19] [16:41:09] : DB Disconnect Success
+[2024-10-19] [16:41:32] : Comport Setup Load
+[2024-10-19] [16:41:32] : Load Model : 5G200
+[2024-10-19] [16:41:32] : Program Start
+[2024-10-19] [16:41:32] : Thread Initialized success
+[2024-10-19] [16:41:32] : Calibration Initialized success
+[2024-10-19] [16:41:32] : Plc Initialized success
+[2024-10-19] [16:41:45] : Program End
+[2024-10-19] [16:41:45] : DB Disconnect Success
+[2024-10-19] [16:55:17] : Comport Setup Load
+[2024-10-19] [16:55:17] : Load Model : 5G200
+[2024-10-19] [16:55:17] : Program Start
+[2024-10-19] [16:55:17] : Thread Initialized success
+[2024-10-19] [16:55:17] : Calibration Initialized success
+[2024-10-19] [16:55:22] : Plc Initialized success
+[2024-10-19] [16:55:25] : Display : Program Setup
+[2024-10-19] [16:55:31] : Comport Setup Save
+[2024-10-19] [16:55:35] : Program End
+[2024-10-19] [16:55:35] : DB Disconnect Success
+[2024-10-19] [16:55:46] : Comport Setup Load
+[2024-10-19] [16:55:46] : Load Model : 5G200
+[2024-10-19] [16:55:46] : Program Start
+[2024-10-19] [16:55:46] : Thread Initialized success
+[2024-10-19] [16:55:46] : Calibration Initialized success
+[2024-10-19] [16:55:46] : Plc Initialized success
+[2024-10-19] [16:56:02] : Display : Program Setup
+[2024-10-19] [16:56:17] : Comport Setup Save
+[2024-10-19] [16:56:27] : Program Setup Save
+[2024-10-19] [16:56:31] : Program End
+[2024-10-19] [16:56:31] : DB Disconnect Success
+[2024-10-19] [16:56:42] : Comport Setup Load
+[2024-10-19] [16:56:42] : Load Model : 5G200
+[2024-10-19] [16:56:42] : Program Start
+[2024-10-19] [16:56:42] : Thread Initialized success
+[2024-10-19] [16:56:42] : Calibration Initialized success
+[2024-10-19] [16:56:42] : Plc Initialized success
+[2024-10-19] [16:57:29] : Program End
+[2024-10-19] [16:57:29] : DB Disconnect Success
+[2024-10-19] [17:03:35] : Comport Setup Load
+[2024-10-19] [17:03:35] : Load Model : 5G200
+[2024-10-19] [17:03:35] : Program Start
+[2024-10-19] [17:03:35] : Thread Initialized success
+[2024-10-19] [17:03:35] : Calibration Initialized success
+[2024-10-19] [17:03:35] : Plc Initialized success
+[2024-10-19] [17:03:41] : Display : Program Setup
+[2024-10-19] [17:03:49] : Comport Setup Save
+[2024-10-19] [17:05:09] : Program End
+[2024-10-19] [17:05:09] : DB Disconnect Success
+[2024-10-19] [17:13:46] : Comport Setup Load
+[2024-10-19] [17:13:46] : Load Model : 5G200
+[2024-10-19] [17:13:46] : Program Start
+[2024-10-19] [17:13:46] : Thread Initialized success
+[2024-10-19] [17:13:46] : Calibration Initialized success
+[2024-10-19] [17:13:46] : Plc Initialized success
+[2024-10-19] [17:16:11] : Display : Program Setup
+[2024-10-19] [17:16:26] : Program End
+[2024-10-19] [17:16:26] : DB Disconnect Success
+[2024-10-19] [17:22:00] : Comport Setup Load
+[2024-10-19] [17:22:00] : Load Model : 5G200
+[2024-10-19] [17:22:00] : Program Start
+[2024-10-19] [17:22:00] : Thread Initialized success
+[2024-10-19] [17:22:00] : Calibration Initialized success
+[2024-10-19] [17:22:00] : Plc Initialized success
+[2024-10-19] [17:22:13] : Display : Program Setup
+[2024-10-19] [17:22:22] : Comport Setup Save
+[2024-10-19] [17:25:29] : Program End
+[2024-10-19] [17:25:29] : DB Disconnect Success
+[2024-10-19] [17:27:43] : Comport Setup Load
+[2024-10-19] [17:27:43] : Load Model : 5G200
+[2024-10-19] [17:27:43] : Program Start
+[2024-10-19] [17:27:43] : Thread Initialized success
+[2024-10-19] [17:27:43] : Calibration Initialized success
+[2024-10-19] [17:29:23] : Comport Setup Load
+[2024-10-19] [17:29:23] : Load Model : 5G200
+[2024-10-19] [17:29:23] : Program Start
+[2024-10-19] [17:29:23] : Thread Initialized success
+[2024-10-19] [17:29:23] : Calibration Initialized success
+[2024-10-19] [17:29:23] : Plc Initialized success
+[2024-10-19] [17:30:18] : Program End
+[2024-10-19] [17:30:18] : DB Disconnect Success
+[2024-10-19] [17:39:09] : Comport Setup Load
+[2024-10-19] [17:39:09] : Load Model : 5G200
+[2024-10-19] [17:39:09] : Program Start
+[2024-10-19] [17:39:09] : Thread Initialized success
+[2024-10-19] [17:39:09] : Calibration Initialized success
+[2024-10-19] [17:39:50] : Plc Initialized success
+[2024-10-19] [17:39:57] : Display : Program Setup
+[2024-10-19] [17:40:07] : Comport Setup Save
+[2024-10-19] [17:40:19] : Program End
+[2024-10-19] [17:40:19] : DB Disconnect Success
+[2024-10-19] [17:41:46] : Comport Setup Load
+[2024-10-19] [17:41:46] : Load Model : 5G200
+[2024-10-19] [17:41:46] : Program Start
+[2024-10-19] [17:41:46] : Thread Initialized success
+[2024-10-19] [17:41:46] : Calibration Initialized success
+[2024-10-19] [17:41:46] : Plc Initialized success
+[2024-10-19] [17:43:15] : Display : Program Setup
+[2024-10-19] [17:43:23] : Comport Setup Save
+[2024-10-19] [17:43:27] : Program End
+[2024-10-19] [17:43:27] : DB Disconnect Success
+[2024-10-19] [17:46:36] : Comport Setup Load
+[2024-10-19] [17:46:36] : Load Model : 5G200
+[2024-10-19] [17:46:36] : Program Start
+[2024-10-19] [17:46:36] : Thread Initialized success
+[2024-10-19] [17:46:36] : Calibration Initialized success
+[2024-10-19] [17:49:17] : Plc Initialized success
+[2024-10-19] [17:49:35] : Program End
+[2024-10-19] [17:49:35] : DB Disconnect Success
+[2024-10-19] [17:53:25] : Comport Setup Load
+[2024-10-19] [17:53:25] : Load Model : 5G200
+[2024-10-19] [17:53:25] : Program Start
+[2024-10-19] [17:53:25] : Thread Initialized success
+[2024-10-19] [17:53:25] : Calibration Initialized success
+[2024-10-19] [17:54:21] : Comport Setup Load
+[2024-10-19] [17:54:21] : Load Model : 5G200
+[2024-10-19] [17:54:21] : Program Start
+[2024-10-19] [17:54:21] : Thread Initialized success
+[2024-10-19] [17:54:21] : Calibration Initialized success
+[2024-10-19] [17:54:22] : Plc Initialized success
+[2024-10-19] [17:54:26] : Display : Program Setup
+[2024-10-19] [17:54:30] : Comport Setup Save
+[2024-10-19] [17:54:55] : Program End
+[2024-10-19] [17:54:55] : DB Disconnect Success
+[2024-10-19] [17:55:25] : Comport Setup Load
+[2024-10-19] [17:55:25] : Load Model : 5G200
+[2024-10-19] [17:55:25] : Program Start
+[2024-10-19] [17:55:25] : Thread Initialized success
+[2024-10-19] [17:55:25] : Calibration Initialized success
+[2024-10-19] [17:55:25] : Plc Initialized success
+[2024-10-19] [17:55:30] : Display : Program Setup
+[2024-10-19] [17:55:42] : Program End
+[2024-10-19] [17:55:42] : DB Disconnect Success
+[2024-10-19] [17:56:16] : Comport Setup Load
+[2024-10-19] [17:56:16] : Load Model : 5G200
+[2024-10-19] [17:56:16] : Program Start
+[2024-10-19] [17:56:16] : Thread Initialized success
+[2024-10-19] [17:56:16] : Calibration Initialized success
+[2024-10-19] [17:56:17] : Plc Initialized success
+[2024-10-19] [17:56:20] : Display : Program Setup
+[2024-10-19] [17:56:33] : Program End
+[2024-10-19] [17:56:33] : DB Disconnect Success
+[2024-10-19] [17:57:06] : Comport Setup Load
+[2024-10-19] [17:57:06] : Load Model : 5G200
+[2024-10-19] [17:57:06] : Program Start
+[2024-10-19] [17:57:06] : Thread Initialized success
+[2024-10-19] [17:57:06] : Calibration Initialized success
+[2024-10-19] [17:57:07] : Plc Initialized success
+[2024-10-19] [17:57:28] : Program End
+[2024-10-19] [17:57:28] : DB Disconnect Success
+[2024-10-19] [17:59:35] : Comport Setup Load
+[2024-10-19] [17:59:35] : Load Model : 5G200
+[2024-10-19] [17:59:35] : Program Start
+[2024-10-19] [17:59:35] : Thread Initialized success
+[2024-10-19] [17:59:35] : Calibration Initialized success
+[2024-10-19] [17:59:35] : Plc Initialized success
+[2024-10-19] [17:59:53] : Program End
+[2024-10-19] [17:59:53] : DB Disconnect Success
+[2024-10-19] [18:01:47] : Comport Setup Load
+[2024-10-19] [18:01:47] : Load Model : 5G200
+[2024-10-19] [18:01:47] : Program Start
+[2024-10-19] [18:01:47] : Thread Initialized success
+[2024-10-19] [18:01:47] : Calibration Initialized success
+[2024-10-19] [18:05:02] : Plc Initialized success
+[2024-10-19] [18:05:04] : Program End
+[2024-10-19] [18:05:04] : DB Disconnect Success
+[2024-10-19] [18:05:37] : Comport Setup Load
+[2024-10-19] [18:05:37] : Load Model : 5G200
+[2024-10-19] [18:05:37] : Program Start
+[2024-10-19] [18:05:37] : Thread Initialized success
+[2024-10-19] [18:05:37] : Calibration Initialized success
+[2024-10-19] [18:06:04] : Plc Initialized success
+[2024-10-19] [18:08:50] : Comport Setup Load
+[2024-10-19] [18:08:50] : Load Model : 5G200
+[2024-10-19] [18:08:50] : Program Start
+[2024-10-19] [18:08:50] : Thread Initialized success
+[2024-10-19] [18:08:50] : Calibration Initialized success
+[2024-10-19] [18:13:15] : Plc Initialized success
+[2024-10-19] [18:13:17] : Program End
+[2024-10-19] [18:13:17] : DB Disconnect Success
+[2024-10-19] [18:16:17] : Comport Setup Load
+[2024-10-19] [18:16:17] : Load Model : 5G200
+[2024-10-19] [18:16:17] : Program Start
+[2024-10-19] [18:16:17] : Thread Initialized success
+[2024-10-19] [18:16:17] : Calibration Initialized success
+[2024-10-19] [18:20:04] : Comport Setup Load
+[2024-10-19] [18:20:04] : Load Model : 5G200
+[2024-10-19] [18:20:04] : Program Start
+[2024-10-19] [18:20:04] : Thread Initialized success
+[2024-10-19] [18:20:04] : Calibration Initialized success
+[2024-10-19] [18:21:05] : Plc Initialized success
+[2024-10-19] [18:22:13] : Program End
+[2024-10-19] [18:22:13] : DB Disconnect Success
+[2024-10-19] [18:23:30] : Comport Setup Load
+[2024-10-19] [18:23:30] : Load Model : 5G200
+[2024-10-19] [18:23:30] : Program Start
+[2024-10-19] [18:23:30] : Thread Initialized success
+[2024-10-19] [18:23:30] : Calibration Initialized success
+[2024-10-19] [18:23:44] : Plc Initialized success
+[2024-10-19] [18:24:01] : Program End
+[2024-10-19] [18:24:01] : DB Disconnect Success
+[2024-10-19] [18:25:12] : Comport Setup Load
+[2024-10-19] [18:25:12] : Load Model : 5G200
+[2024-10-19] [18:25:12] : Program Start
+[2024-10-19] [18:25:12] : Thread Initialized success
+[2024-10-19] [18:25:12] : Calibration Initialized success
+[2024-10-19] [18:26:37] : Plc Initialized success
+[2024-10-19] [18:26:45] : Program End
+[2024-10-19] [18:26:45] : DB Disconnect Success
+[2024-10-19] [18:30:24] : Comport Setup Load
+[2024-10-19] [18:30:24] : Load Model : 5G200
+[2024-10-19] [18:30:24] : Program Start
+[2024-10-19] [18:30:24] : Thread Initialized success
+[2024-10-19] [18:30:24] : Calibration Initialized success
+[2024-10-19] [18:30:24] : Plc Initialized success
+[2024-10-19] [18:30:45] : Program End
+[2024-10-19] [18:30:45] : DB Disconnect Success
+[2024-10-19] [18:31:45] : Comport Setup Load
+[2024-10-19] [18:31:45] : Load Model : 5G200
+[2024-10-19] [18:31:45] : Program Start
+[2024-10-19] [18:31:45] : Thread Initialized success
+[2024-10-19] [18:31:45] : Calibration Initialized success
+[2024-10-19] [18:32:02] : Plc Initialized success
+[2024-10-19] [18:32:07] : Program End
+[2024-10-19] [18:32:07] : DB Disconnect Success
+[2024-10-19] [18:32:55] : Comport Setup Load
+[2024-10-19] [18:32:55] : Load Model : 5G200
+[2024-10-19] [18:32:55] : Program Start
+[2024-10-19] [18:32:55] : Thread Initialized success
+[2024-10-19] [18:32:55] : Calibration Initialized success
+[2024-10-19] [18:33:15] : Comport Setup Load
+[2024-10-19] [18:33:15] : Load Model : 5G200
+[2024-10-19] [18:33:15] : Program Start
+[2024-10-19] [18:33:15] : Thread Initialized success
+[2024-10-19] [18:33:15] : Calibration Initialized success
+[2024-10-19] [18:36:57] : Comport Setup Load
+[2024-10-19] [18:36:57] : Load Model : 5G200
+[2024-10-19] [18:36:57] : Program Start
+[2024-10-19] [18:36:57] : Thread Initialized success
+[2024-10-19] [18:36:57] : Calibration Initialized success
+[2024-10-19] [18:39:02] : Comport Setup Load
+[2024-10-19] [18:39:02] : Load Model : 5G200
+[2024-10-19] [18:39:02] : Program Start
+[2024-10-19] [18:39:02] : Thread Initialized success
+[2024-10-19] [18:39:02] : Calibration Initialized success
+[2024-10-19] [18:39:03] : Plc Initialized success
+[2024-10-19] [18:39:30] : Program End
+[2024-10-19] [18:39:30] : DB Disconnect Success
+[2024-10-19] [18:41:27] : Comport Setup Load
+[2024-10-19] [18:41:27] : Load Model : 5G200
+[2024-10-19] [18:41:27] : Program Start
+[2024-10-19] [18:41:27] : Thread Initialized success
+[2024-10-19] [18:41:27] : Calibration Initialized success
+[2024-10-19] [18:41:29] : Plc Initialized success
+[2024-10-19] [18:41:37] : Program End
+[2024-10-19] [18:41:37] : DB Disconnect Success
+[2024-10-19] [18:41:54] : Comport Setup Load
+[2024-10-19] [18:41:54] : Load Model : 5G200
+[2024-10-19] [18:41:54] : Program Start
+[2024-10-19] [18:41:54] : Thread Initialized success
+[2024-10-19] [18:41:54] : Calibration Initialized success
+[2024-10-19] [18:41:54] : Plc Initialized success
+[2024-10-19] [18:43:06] : Program End
+[2024-10-19] [18:43:06] : DB Disconnect Success
+[2024-10-19] [18:46:00] : Comport Setup Load
+[2024-10-19] [18:46:00] : Load Model : 5G200
+[2024-10-19] [18:46:00] : Program Start
+[2024-10-19] [18:46:00] : Thread Initialized success
+[2024-10-19] [18:46:00] : Calibration Initialized success
+[2024-10-19] [18:46:02] : Plc Initialized success
+[2024-10-19] [18:46:06] : Program End
+[2024-10-19] [18:46:06] : DB Disconnect Success
+[2024-10-19] [18:49:41] : Comport Setup Load
+[2024-10-19] [18:49:41] : Load Model : 5G200
+[2024-10-19] [18:49:41] : Program Start
+[2024-10-19] [18:49:41] : Thread Initialized success
+[2024-10-19] [18:49:41] : Calibration Initialized success
+[2024-10-19] [18:49:42] : Plc Initialized success
+[2024-10-19] [18:49:54] : Program End
+[2024-10-19] [18:49:54] : DB Disconnect Success
+[2024-10-19] [18:50:23] : Comport Setup Load
+[2024-10-19] [18:50:23] : Load Model : 5G200
+[2024-10-19] [18:50:23] : Program Start
+[2024-10-19] [18:50:23] : Thread Initialized success
+[2024-10-19] [18:50:23] : Calibration Initialized success
+[2024-10-19] [18:50:23] : Plc Initialized success
+[2024-10-19] [18:50:36] : Program End
+[2024-10-19] [18:50:36] : DB Disconnect Success
+[2024-10-19] [18:51:20] : Comport Setup Load
+[2024-10-19] [18:51:20] : Load Model : 5G200
+[2024-10-19] [18:51:20] : Program Start
+[2024-10-19] [18:51:20] : Thread Initialized success
+[2024-10-19] [18:51:20] : Calibration Initialized success
+[2024-10-19] [18:51:20] : Plc Initialized success
+[2024-10-19] [18:51:37] : Display : Program Setup
+[2024-10-19] [18:51:42] : Display : Model Setup
+[2024-10-19] [18:52:03] : Load Model : 5G200
+[2024-10-19] [18:52:27] : Program End
+[2024-10-19] [18:52:27] : DB Disconnect Success
+[2024-10-19] [18:58:33] : Comport Setup Load
+[2024-10-19] [18:58:33] : Load Model : 5G200
+[2024-10-19] [18:58:33] : Program Start
+[2024-10-19] [18:58:33] : Thread Initialized success
+[2024-10-19] [18:58:33] : Calibration Initialized success
+[2024-10-19] [18:58:45] : Plc Initialized success
+[2024-10-19] [18:58:47] : Program End
+[2024-10-19] [18:58:47] : DB Disconnect Success
+[2024-10-19] [18:59:36] : Comport Setup Load
+[2024-10-19] [18:59:36] : Load Model : 5G200
+[2024-10-19] [18:59:36] : Program Start
+[2024-10-19] [18:59:36] : Thread Initialized success
+[2024-10-19] [18:59:36] : Calibration Initialized success
+[2024-10-19] [19:01:40] : Comport Setup Load
+[2024-10-19] [19:01:40] : Load Model : 5G200
+[2024-10-19] [19:01:40] : Program Start
+[2024-10-19] [19:01:40] : Thread Initialized success
+[2024-10-19] [19:01:40] : Calibration Initialized success
+[2024-10-19] [19:03:04] : Plc Initialized success
+[2024-10-19] [19:05:42] : Program End
+[2024-10-19] [19:05:42] : DB Disconnect Success
+[2024-10-19] [19:06:40] : Comport Setup Load
+[2024-10-19] [19:06:40] : Load Model : 5G200
+[2024-10-19] [19:06:40] : Program Start
+[2024-10-19] [19:06:40] : Thread Initialized success
+[2024-10-19] [19:06:40] : Calibration Initialized success
+[2024-10-19] [19:06:40] : Plc Initialized success
+[2024-10-19] [19:07:10] : Program End
+[2024-10-19] [19:07:10] : DB Disconnect Success
+[2024-10-19] [19:10:57] : Comport Setup Load
+[2024-10-19] [19:10:57] : Load Model : 5G200
+[2024-10-19] [19:10:57] : Program Start
+[2024-10-19] [19:10:57] : Thread Initialized success
+[2024-10-19] [19:10:57] : Calibration Initialized success
+[2024-10-19] [19:10:57] : Plc Initialized success
+[2024-10-19] [19:11:19] : Program End
+[2024-10-19] [19:11:19] : DB Disconnect Success
+[2024-10-19] [19:13:19] : Comport Setup Load
+[2024-10-19] [19:13:19] : Load Model : 5G200
+[2024-10-19] [19:13:19] : Program Start
+[2024-10-19] [19:13:19] : Thread Initialized success
+[2024-10-19] [19:13:19] : Calibration Initialized success
+[2024-10-19] [19:13:19] : Plc Initialized success
+[2024-10-19] [19:13:28] : Program End
+[2024-10-19] [19:13:28] : DB Disconnect Success
+[2024-10-19] [19:15:29] : Comport Setup Load
+[2024-10-19] [19:15:29] : Load Model : 5G200
+[2024-10-19] [19:15:29] : Program Start
+[2024-10-19] [19:15:29] : Thread Initialized success
+[2024-10-19] [19:15:29] : Calibration Initialized success
+[2024-10-19] [19:15:29] : Plc Initialized success
+[2024-10-19] [19:15:44] : Program End
+[2024-10-19] [19:15:44] : DB Disconnect Success
+[2024-10-19] [19:56:44] : Comport Setup Load
+[2024-10-19] [19:56:44] : Load Model : 5G200
+[2024-10-19] [19:56:44] : Program Start
+[2024-10-19] [19:56:44] : Thread Initialized success
+[2024-10-19] [19:56:44] : Calibration Initialized success
+[2024-10-19] [19:57:15] : Comport Setup Load
+[2024-10-19] [19:57:15] : Load Model : 5G200
+[2024-10-19] [19:57:15] : Program Start
+[2024-10-19] [19:57:15] : Thread Initialized success
+[2024-10-19] [19:57:15] : Calibration Initialized success
+[2024-10-19] [19:58:29] : Comport Setup Load
+[2024-10-19] [19:58:29] : Load Model : 5G200
+[2024-10-19] [19:58:29] : Program Start
+[2024-10-19] [19:58:29] : Thread Initialized success
+[2024-10-19] [19:58:29] : Calibration Initialized success
+[2024-10-19] [19:59:12] : Comport Setup Load
+[2024-10-19] [19:59:12] : Load Model : 5G200
+[2024-10-19] [19:59:12] : Program Start
+[2024-10-19] [19:59:12] : Thread Initialized success
+[2024-10-19] [19:59:12] : Calibration Initialized success

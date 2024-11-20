@@ -1,0 +1,68 @@
+HDRS = 	"e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\activex\\word"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\activex\\excel"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\custctrl"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\custctrl\\custsupp"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\cvirtsup"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\datasock"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\daqUtil"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\printing"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\toolbox"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\reportgen"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\localui"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\instr"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\toolslib\\custctrl"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\toolslib\\custctrl\\custsupp"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\instr"
+	"C:\\ProgramData\\National Instruments\\CVI2020\\instr"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\include"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\include"
+	"C:\\ProgramData\\National Instruments\\CVI2020\\include"
+	"C:\\ProgramData\\National Instruments\\CVI\\include"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\include\\ansi"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\include\\clang\\3.3"
+	"C:\\Program Files (x86)\\IVI Foundation\\IVI\\Include"
+	"C:\\Program Files (x86)\\IVI Foundation\\VISA\\winnt\\include"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\MSDTRedistributables\\SDKHeaderFiles\\8.1"
+	"c:\\Program Files (x86)\\National Instruments\\CVI2020\\bin"
+	"c:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\Bin"
+	;
+LOCATE on "0_Main.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab_0_Auto.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab_1_Manual.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab_2_Zeroset.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab_4_Graph.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "0_Main_Cb_Tab_5_History.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "1_Model.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "1_Model.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "1_Model_Cb_List.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "1_Model_Cb_Point.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "2_Result.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "2_Result.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "2_Result_DB.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "2_Result_File.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup_Comm_Amp.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup_Comm_Mark.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup_Comm_Plc.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "3_Setup_Comport.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "4_Calibration.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "4_Calibration.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "5_KeyPad.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "5_Keypad.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "6_Password.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "6_Password.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "7_Windows.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "8_Thread.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "A_Global.h" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+LOCATE on "A_Measure.c" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본" ;
+Object "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Release\\pwctrl.obj" : "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\pwctrl.c" ;
+FILENUM on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Release\\pwctrl.obj" = 1 ;
+DEFPROTS on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Release\\pwctrl.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Release\\pwctrl.obj.cvidefprots" ;
+OUTFILE on "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Release\\pwctrl.obj" = "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Release\\pwctrl.obj.out" ;
+PrjObjects += "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Release\\pwctrl.obj" ;
+Depends all : $(PrjObjects) ;

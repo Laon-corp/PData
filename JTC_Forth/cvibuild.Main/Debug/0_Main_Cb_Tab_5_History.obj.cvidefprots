@@ -1,0 +1,10 @@
+[Cb_History_Clear]
+Class="Function"
+Prototype="int Cb_History_Clear(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_5_History.c:3:17"
+
+[LogUpdate]
+Class="Function"
+Prototype="void LogUpdate(char *data);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_5_History.c:15:6"
+

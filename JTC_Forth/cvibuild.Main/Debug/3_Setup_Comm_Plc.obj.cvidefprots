@@ -1,0 +1,70 @@
+[CalcBcc]
+Class="Function"
+Prototype="void CalcBcc(char *buff, char *sbcc);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:10:7"
+
+[PlcInCommSend]
+Class="Function"
+Prototype="void PlcInCommSend();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:36:6"
+
+[PlcOutCommSend]
+Class="Function"
+Prototype="void PlcOutCommSend();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:43:6"
+
+[PLC_IO_Function]
+Class="Function"
+Prototype="void PLC_IO_Function(int portNo, int eventMask, void *callbackData);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:61:18"
+
+[PlcOpen]
+Class="Function"
+Prototype="void PlcOpen();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:144:6"
+
+[PlcClose]
+Class="Function"
+Prototype="void PlcClose();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:184:6"
+
+[PlcInit]
+Class="Function"
+Prototype="void PlcInit();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:189:6"
+
+[Cb_Timer_Plc]
+Class="Function"
+Prototype="int Cb_Timer_Plc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:231:17"
+
+[PlcBuff]
+Class="Function"
+Prototype="void PlcBuff(char *buff);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:271:6"
+
+[PlcEthernetTransmit]
+Class="Function"
+Prototype="void PlcEthernetTransmit();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:304:6"
+
+[PlcClient]
+Class="Function"
+Prototype="int PlcClient(unsigned int handle, int event, int error, void *callbackData);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:347:17"
+
+[PlcConnect]
+Class="Function"
+Prototype="void PlcConnect();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:409:6"
+
+[calc_out_data]
+Class="Function"
+Prototype="void calc_out_data(int bit, int set);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:428:7"
+
+[check_iomon]
+Class="Function"
+Prototype="void check_iomon();"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Plc.c:448:8"
+

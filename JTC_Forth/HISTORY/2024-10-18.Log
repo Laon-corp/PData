@@ -1,0 +1,246 @@
+[2024-10-18] [09:51:50] : Comport Setup Load
+[2024-10-18] [09:51:50] : Load Model : 5G200
+[2024-10-18] [09:51:50] : Program Start
+[2024-10-18] [09:51:50] : Thread Initialized success
+[2024-10-18] [09:51:50] : Calibration Initialized success
+[2024-10-18] [09:52:02] : Plc Initialized success
+[2024-10-18] [09:58:38] : DB Data Save Fail
+[2024-10-18] [09:58:38] : INSERT INTO laon.datatable (MODEL, DAY, GFLAG, MC1, MC2,DATA1, DATA2, DATA3, DATA4, DATA5, DATA6, DATA7) VALUES ( '5G200', '2024-10-18 09:52:06', 'NG', '101', '201', '42.476', '112.176', '110.086', '1.100', '57.652', '2.500', '10.414') 
+[2024-10-18] [09:58:38] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [09:58:40] : Program End
+[2024-10-18] [09:58:40] : DB Disconnect Success
+[2024-10-18] [10:25:12] : Comport Setup Load
+[2024-10-18] [10:25:12] : Load Model : 5G200
+[2024-10-18] [10:25:12] : Program Start
+[2024-10-18] [10:25:12] : Thread Initialized success
+[2024-10-18] [10:25:12] : Calibration Initialized success
+[2024-10-18] [10:25:21] : Plc Initialized success
+[2024-10-18] [10:27:51] : DB Data Save Fail
+[2024-10-18] [10:27:51] : INSERT INTO laon.datatable (MODEL, DAY, GFLAG, MC1, MC2,DATA1, DATA2, DATA3, DATA4, DATA5, DATA6, DATA7) VALUES ( '5G200', '2024-10-18 10:27:39', 'NG', '101', '201', '42.476', '112.176', '110.086', '1.100', '57.652', '2.500', '10.414') 
+[2024-10-18] [10:27:51] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [10:35:18] : Comport Setup Load
+[2024-10-18] [10:35:18] : Load Model : 5G200
+[2024-10-18] [10:35:18] : Program Start
+[2024-10-18] [10:35:18] : Thread Initialized success
+[2024-10-18] [10:35:18] : Calibration Initialized success
+[2024-10-18] [10:35:24] : Plc Initialized success
+[2024-10-18] [10:36:00] : DB Data Save Fail
+[2024-10-18] [10:36:00] : INSERT INTO laon.datatable (MODEL, DAY, GFLAG, MC1, MC2,DATA1, DATA2, DATA3, DATA4, DATA5, DATA6, DATA7) VALUES ( '5G200', '2024-10-18 10:35:27', 'NG', '101', '201', '42.476', '112.176', '110.086', '1.100', '57.652', '2.500', '10.414') 
+[2024-10-18] [10:36:00] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [10:36:53] : DB Data Search Fail
+[2024-10-18] [10:36:53] : select MODEL, DAY, GFLAG, MC1, MC2, DATA1, DATA2, DATA3, DATA4, DATA5, DATA6, DATA7 from LAON.dataTABLE where date(datetime) between '2024-10-18' AND '2024-10-18' AND MODEL = '4G100' 
+[2024-10-18] [11:05:33] : Comport Setup Load
+[2024-10-18] [11:05:33] : Load Model : 5G200
+[2024-10-18] [11:05:33] : Program Start
+[2024-10-18] [11:05:33] : Thread Initialized success
+[2024-10-18] [11:05:33] : Calibration Initialized success
+[2024-10-18] [11:05:42] : Plc Initialized success
+[2024-10-18] [11:05:53] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [11:07:55] : Program End
+[2024-10-18] [11:07:55] : DB Disconnect Success
+[2024-10-18] [11:23:15] : Comport Setup Load
+[2024-10-18] [11:23:15] : Load Model : 5G200
+[2024-10-18] [11:23:15] : Program Start
+[2024-10-18] [11:23:15] : Thread Initialized success
+[2024-10-18] [11:23:15] : Calibration Initialized success
+[2024-10-18] [11:23:21] : Plc Initialized success
+[2024-10-18] [11:23:41] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [11:26:56] : Program End
+[2024-10-18] [11:26:56] : DB Disconnect Success
+[2024-10-18] [13:57:46] : Comport Setup Load
+[2024-10-18] [13:57:46] : Load Model : 5G200
+[2024-10-18] [13:57:46] : Program Start
+[2024-10-18] [13:57:46] : Thread Initialized success
+[2024-10-18] [13:57:46] : Calibration Initialized success
+[2024-10-18] [13:57:55] : Plc Initialized success
+[2024-10-18] [13:57:57] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [13:59:56] : Program End
+[2024-10-18] [13:59:56] : DB Disconnect Success
+[2024-10-18] [14:06:22] : Comport Setup Load
+[2024-10-18] [14:06:22] : Load Model : 5G200
+[2024-10-18] [14:06:22] : Program Start
+[2024-10-18] [14:06:22] : Thread Initialized success
+[2024-10-18] [14:06:22] : Calibration Initialized success
+[2024-10-18] [14:06:30] : Plc Initialized success
+[2024-10-18] [14:16:07] : Comport Setup Load
+[2024-10-18] [14:16:07] : Load Model : 5G200
+[2024-10-18] [14:16:07] : Program Start
+[2024-10-18] [14:16:07] : Thread Initialized success
+[2024-10-18] [14:16:07] : Calibration Initialized success
+[2024-10-18] [14:16:16] : Plc Initialized success
+[2024-10-18] [14:33:55] : Comport Setup Load
+[2024-10-18] [14:33:55] : Load Model : 5G200
+[2024-10-18] [14:33:55] : Program Start
+[2024-10-18] [14:33:55] : Thread Initialized success
+[2024-10-18] [14:33:55] : Calibration Initialized success
+[2024-10-18] [14:34:07] : Plc Initialized success
+[2024-10-18] [14:35:38] : Comport Setup Load
+[2024-10-18] [14:35:38] : Load Model : 5G200
+[2024-10-18] [14:36:55] : Comport Setup Load
+[2024-10-18] [14:36:55] : Load Model : 5G200
+[2024-10-18] [14:36:55] : Program Start
+[2024-10-18] [14:36:55] : Thread Initialized success
+[2024-10-18] [14:36:55] : Calibration Initialized success
+[2024-10-18] [14:37:04] : Plc Initialized success
+[2024-10-18] [14:37:16] : Program End
+[2024-10-18] [14:37:16] : DB Disconnect Success
+[2024-10-18] [14:37:43] : Comport Setup Load
+[2024-10-18] [14:37:43] : Load Model : 5G200
+[2024-10-18] [14:37:43] : Program Start
+[2024-10-18] [14:37:43] : Thread Initialized success
+[2024-10-18] [14:37:43] : Calibration Initialized success
+[2024-10-18] [14:37:52] : Plc Initialized success
+[2024-10-18] [14:38:12] : DB Data Save Fail
+[2024-10-18] [14:38:12] : INSERT INTO laon.datatable (MODEL, DATETIME, GFLAG, MC1, MC2, MARKDATA1, DATA2, DATA3, DATA4, DATA5, DATA6, DATA7) VALUES ( '5G200', '2024-10-18 14:37:55', 'NG', '101', '201', '', '42.476', '112.176', '110.086', '1.100', '57.652', '2.500', '10.414') 
+[2024-10-18] [14:38:12] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [14:38:19] : Program End
+[2024-10-18] [14:38:19] : DB Disconnect Success
+[2024-10-18] [14:40:51] : Comport Setup Load
+[2024-10-18] [14:40:51] : Load Model : 5G200
+[2024-10-18] [14:40:51] : Program Start
+[2024-10-18] [14:40:51] : Thread Initialized success
+[2024-10-18] [14:40:51] : Calibration Initialized success
+[2024-10-18] [14:40:59] : Plc Initialized success
+[2024-10-18] [14:41:49] : Comport Setup Load
+[2024-10-18] [14:41:49] : Load Model : 5G200
+[2024-10-18] [14:41:49] : Program Start
+[2024-10-18] [14:41:49] : Thread Initialized success
+[2024-10-18] [14:41:49] : Calibration Initialized success
+[2024-10-18] [14:41:55] : Plc Initialized success
+[2024-10-18] [14:41:57] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [15:05:25] : Comport Setup Load
+[2024-10-18] [15:05:25] : Load Model : 5G200
+[2024-10-18] [15:05:25] : Program Start
+[2024-10-18] [15:05:25] : Thread Initialized success
+[2024-10-18] [15:05:25] : Calibration Initialized success
+[2024-10-18] [15:05:31] : Plc Initialized success
+[2024-10-18] [15:05:34] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [15:06:47] : Comport Setup Load
+[2024-10-18] [15:06:47] : Load Model : 5G200
+[2024-10-18] [15:06:47] : Program Start
+[2024-10-18] [15:06:47] : Thread Initialized success
+[2024-10-18] [15:06:47] : Calibration Initialized success
+[2024-10-18] [15:06:54] : Plc Initialized success
+[2024-10-18] [15:07:17] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [15:07:42] : Program End
+[2024-10-18] [15:07:42] : DB Disconnect Success
+[2024-10-18] [15:09:52] : Comport Setup Load
+[2024-10-18] [15:09:52] : Load Model : 5G200
+[2024-10-18] [15:09:52] : Program Start
+[2024-10-18] [15:09:52] : Thread Initialized success
+[2024-10-18] [15:09:52] : Calibration Initialized success
+[2024-10-18] [15:10:02] : Plc Initialized success
+[2024-10-18] [15:10:28] : Comport Setup Load
+[2024-10-18] [15:10:28] : Load Model : 5G200
+[2024-10-18] [15:10:28] : Program Start
+[2024-10-18] [15:10:28] : Thread Initialized success
+[2024-10-18] [15:10:28] : Calibration Initialized success
+[2024-10-18] [15:10:34] : Plc Initialized success
+[2024-10-18] [15:10:37] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [15:14:12] : Comport Setup Load
+[2024-10-18] [15:14:12] : Load Model : 5G200
+[2024-10-18] [15:14:12] : Program Start
+[2024-10-18] [15:14:12] : Thread Initialized success
+[2024-10-18] [15:14:12] : Calibration Initialized success
+[2024-10-18] [15:14:17] : Plc Initialized success
+[2024-10-18] [15:16:20] : Program End
+[2024-10-18] [15:16:20] : DB Disconnect Success
+[2024-10-18] [15:17:00] : Comport Setup Load
+[2024-10-18] [15:17:00] : Load Model : 5G200
+[2024-10-18] [15:17:00] : Program Start
+[2024-10-18] [15:17:00] : Thread Initialized success
+[2024-10-18] [15:17:00] : Calibration Initialized success
+[2024-10-18] [15:17:07] : Plc Initialized success
+[2024-10-18] [15:17:58] : Comport Setup Load
+[2024-10-18] [15:17:58] : Load Model : 5G200
+[2024-10-18] [15:17:58] : Program Start
+[2024-10-18] [15:17:58] : Thread Initialized success
+[2024-10-18] [15:17:58] : Calibration Initialized success
+[2024-10-18] [15:18:07] : Plc Initialized success
+[2024-10-18] [15:18:16] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [15:19:48] : Display : Program Setup
+[2024-10-18] [15:19:51] : Program Setup Save
+[2024-10-18] [15:20:00] : Program Setup Save
+[2024-10-18] [15:20:07] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [15:21:43] : Program End
+[2024-10-18] [15:21:43] : DB Disconnect Success
+[2024-10-18] [15:26:15] : Comport Setup Load
+[2024-10-18] [15:26:15] : Load Model : 5G200
+[2024-10-18] [15:26:15] : Program Start
+[2024-10-18] [15:26:15] : Thread Initialized success
+[2024-10-18] [15:26:15] : Calibration Initialized success
+[2024-10-18] [15:26:21] : Plc Initialized success
+[2024-10-18] [15:26:26] : Display : Program Setup
+[2024-10-18] [15:26:29] : Program Setup Save
+[2024-10-18] [15:26:34] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [15:34:53] : Program End
+[2024-10-18] [15:34:53] : DB Disconnect Success
+[2024-10-18] [15:36:16] : Comport Setup Load
+[2024-10-18] [15:36:16] : Load Model : 5G200
+[2024-10-18] [15:36:16] : Program Start
+[2024-10-18] [15:36:16] : Thread Initialized success
+[2024-10-18] [15:36:16] : Calibration Initialized success
+[2024-10-18] [15:36:20] : Plc Initialized success
+[2024-10-18] [15:37:17] : Comport Setup Load
+[2024-10-18] [15:37:17] : Load Model : 5G200
+[2024-10-18] [15:37:17] : Program Start
+[2024-10-18] [15:37:17] : Thread Initialized success
+[2024-10-18] [15:37:17] : Calibration Initialized success
+[2024-10-18] [15:37:23] : Plc Initialized success
+[2024-10-18] [15:37:26] : Display : Program Setup
+[2024-10-18] [15:37:28] : Program Setup Save
+[2024-10-18] [15:37:36] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [15:38:28] : Program End
+[2024-10-18] [15:38:28] : DB Disconnect Success
+[2024-10-18] [15:40:00] : Comport Setup Load
+[2024-10-18] [15:40:00] : Load Model : 5G200
+[2024-10-18] [15:40:00] : Program Start
+[2024-10-18] [15:40:00] : Thread Initialized success
+[2024-10-18] [15:40:00] : Calibration Initialized success
+[2024-10-18] [15:40:18] : Plc Initialized success
+[2024-10-18] [15:41:46] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [15:42:18] : Program End
+[2024-10-18] [15:42:18] : DB Disconnect Success
+[2024-10-18] [16:08:01] : Comport Setup Load
+[2024-10-18] [16:08:01] : Load Model : 5G200
+[2024-10-18] [16:08:01] : Program Start
+[2024-10-18] [16:08:01] : Thread Initialized success
+[2024-10-18] [16:08:01] : Calibration Initialized success
+[2024-10-18] [16:08:08] : Plc Initialized success
+[2024-10-18] [16:08:12] : Display : Model Setup
+[2024-10-18] [16:09:06] : Load Model : 5G200
+[2024-10-18] [16:09:30] : Program End
+[2024-10-18] [16:09:30] : DB Disconnect Success
+[2024-10-18] [16:15:24] : Comport Setup Load
+[2024-10-18] [16:15:24] : Load Model : 5G200
+[2024-10-18] [16:23:19] : Comport Setup Load
+[2024-10-18] [16:23:19] : Load Model : 5G200
+[2024-10-18] [16:25:04] : Comport Setup Load
+[2024-10-18] [16:25:04] : Load Model : 5G200
+[2024-10-18] [16:25:04] : Program Start
+[2024-10-18] [16:25:04] : Thread Initialized success
+[2024-10-18] [16:25:04] : Calibration Initialized success
+[2024-10-18] [16:25:19] : Plc Initialized success
+[2024-10-18] [16:25:32] : Program End
+[2024-10-18] [16:25:32] : DB Disconnect Success
+[2024-10-18] [16:25:57] : Comport Setup Load
+[2024-10-18] [16:25:57] : Load Model : 5G200
+[2024-10-18] [16:25:57] : Program Start
+[2024-10-18] [16:25:57] : Thread Initialized success
+[2024-10-18] [16:25:57] : Calibration Initialized success
+[2024-10-18] [16:26:04] : Plc Initialized success
+[2024-10-18] [16:26:15] : Auto Sig:1, Sensing Count:10
+[2024-10-18] [16:33:29] : Comport Setup Load
+[2024-10-18] [16:33:29] : Load Model : 5G200
+[2024-10-18] [16:33:29] : Program Start
+[2024-10-18] [16:33:29] : Thread Initialized success
+[2024-10-18] [16:33:29] : Calibration Initialized success
+[2024-10-18] [16:33:35] : Plc Initialized success
+[2024-10-18] [16:34:14] : Program End
+[2024-10-18] [16:34:14] : DB Disconnect Success
+[2024-10-18] [16:38:13] : Comport Setup Load
+[2024-10-18] [16:38:13] : Load Model : 5G200
+[2024-10-18] [16:38:13] : Program Start
+[2024-10-18] [16:38:13] : Thread Initialized success
+[2024-10-18] [16:38:13] : Calibration Initialized success
+[2024-10-18] [16:44:35] : Plc Initialized success

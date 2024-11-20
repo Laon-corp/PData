@@ -1,0 +1,5 @@
+[Cb_Main]
+Class="Function"
+Prototype="int Cb_Main(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - บนป็บป\0_Main_Cb_Tab.c:3:17"
+
