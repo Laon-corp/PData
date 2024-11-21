@@ -1,35 +1,35 @@
 [CalCRC]
 Class="Function"
 Prototype="short CalCRC(char *data, unsigned char len);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Mark.c:4:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Mark.c:4:7"
 
 [SendDataMark]
 Class="Function"
 Prototype="int SendDataMark(int type, char *data);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Mark.c:37:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Mark.c:37:6"
 
 [Mark_Cb_Function]
 Class="Function"
 Prototype="void Mark_Cb_Function(int portNo, int eventMask, void *callbackData);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Mark.c:183:19"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Mark.c:183:19"
 
 [MarkInit]
 Class="Function"
 Prototype="void MarkInit();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Mark.c:223:8"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Mark.c:223:8"
 
 [MarkClose]
 Class="Function"
 Prototype="void MarkClose();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Mark.c:268:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Mark.c:268:6"
 
 [MakeMarkData]
 Class="Function"
 Prototype="void MakeMarkData();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Mark.c:273:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Mark.c:273:6"
 
 [MakeMarkDataTest]
 Class="Function"
 Prototype="void MakeMarkDataTest();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Mark.c:331:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Mark.c:331:6"
 

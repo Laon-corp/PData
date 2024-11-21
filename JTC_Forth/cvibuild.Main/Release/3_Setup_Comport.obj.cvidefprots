@@ -1,30 +1,30 @@
 [LoadComport]
 Class="Function"
 Prototype="void LoadComport();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comport.c:5:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comport.c:5:7"
 
 [SaveComport]
 Class="Function"
 Prototype="void SaveComport();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comport.c:82:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comport.c:82:7"
 
 [Cb_ComportPanel]
 Class="Function"
 Prototype="int Cb_ComportPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comport.c:156:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comport.c:156:17"
 
 [Cb_Comport_Rollback]
 Class="Function"
 Prototype="int Cb_Comport_Rollback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comport.c:170:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comport.c:170:17"
 
 [Cb_Comport_Save]
 Class="Function"
 Prototype="int Cb_Comport_Save(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comport.c:183:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comport.c:183:17"
 
 [Cb_Comport]
 Class="Function"
 Prototype="int Cb_Comport(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comport.c:215:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comport.c:215:17"
 

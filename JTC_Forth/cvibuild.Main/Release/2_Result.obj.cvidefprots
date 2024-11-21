@@ -1,15 +1,15 @@
 [Cb_ResultPanel]
 Class="Function"
 Prototype="int Cb_ResultPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\2_Result.c:5:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\2_Result.c:5:17"
 
 [SetCountDisplay]
 Class="Function"
 Prototype="void SetCountDisplay(int a, int b, int c);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\2_Result.c:19:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\2_Result.c:19:7"
 
 [GetBeforeDate]
 Class="Function"
 Prototype="void GetBeforeDate(char *date);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\2_Result.c:31:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\2_Result.c:31:6"
 

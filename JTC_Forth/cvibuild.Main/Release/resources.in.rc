@@ -1,8 +1,8 @@
 #pragma code_page(65001)
 #include "C:\Program Files (x86)\National Instruments\Shared\MSDTRedistributables\SDKHeaderFiles\8.1\winver.h"
 
-2 ICON "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\Work\\아이콘.ico"
-1 24 "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\cvibuild.Main\\Release\\manifest.xml"
+2 ICON "e:\\@PROJECT_P\\CVI2020\\JTC_Forth\\Work\\아이콘.ico"
+1 24 "e:\\@PROJECT_P\\CVI2020\\JTC_Forth\\cvibuild.Main\\Release\\manifest.xml"
 
 
 STRINGTABLE DISCARDABLE
@@ -39,10 +39,10 @@ BEGIN
     END
 END
 
-0:Main.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\0_Main.uir"
-1:Model.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\1_Model.uir"
-2:Result.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\2_Result.uir"
-3:Setup.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\3_Setup.uir"
-4:Calibration.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\4_Calibration.uir"
-5:Keypad.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\5_Keypad.uir"
-6:Password.uir UIRFileType "e:\\@PROJECT\\LAON\\CVI\\CVI2020\\JTC - 복사본\\6_Password.uir"
+0:Main.uir UIRFileType "e:\\@PROJECT_P\\CVI2020\\JTC_Forth\\0_Main.uir"
+1:Model.uir UIRFileType "e:\\@PROJECT_P\\CVI2020\\JTC_Forth\\1_Model.uir"
+2:Result.uir UIRFileType "e:\\@PROJECT_P\\CVI2020\\JTC_Forth\\2_Result.uir"
+3:Setup.uir UIRFileType "e:\\@PROJECT_P\\CVI2020\\JTC_Forth\\3_Setup.uir"
+4:Calibration.uir UIRFileType "e:\\@PROJECT_P\\CVI2020\\JTC_Forth\\4_Calibration.uir"
+5:Keypad.uir UIRFileType "e:\\@PROJECT_P\\CVI2020\\JTC_Forth\\5_Keypad.uir"
+6:Password.uir UIRFileType "e:\\@PROJECT_P\\CVI2020\\JTC_Forth\\6_Password.uir"
