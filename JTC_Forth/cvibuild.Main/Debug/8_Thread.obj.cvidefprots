@@ -1,25 +1,25 @@
 [SleepFunc]
 Class="Function"
 Prototype="void SleepFunc(int a);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\8_Thread.c:4:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\8_Thread.c:4:6"
 
 [ThreadInit]
 Class="Function"
 Prototype="void ThreadInit();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\8_Thread.c:9:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\8_Thread.c:9:6"
 
 [ThreadFunc]
 Class="Function"
 Prototype="int ThreadFunc(void *Data);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\8_Thread.c:18:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\8_Thread.c:18:17"
 
 [ThreadLog]
 Class="Function"
 Prototype="int ThreadLog(void *Data);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\8_Thread.c:31:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\8_Thread.c:31:17"
 
 [ThreadMeas]
 Class="Function"
 Prototype="int ThreadMeas(void *Data);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\8_Thread.c:40:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\8_Thread.c:40:17"
 

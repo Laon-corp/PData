@@ -2,6 +2,7 @@
 #include "A_Global.h"
 
 double	ResultValue[MAX_MEAS_POINTS] = {0.0,};
+
 void	ReadSensorValueFile(void)
 {
 	int handle, i, j;

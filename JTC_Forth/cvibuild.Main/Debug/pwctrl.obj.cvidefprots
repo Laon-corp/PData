@@ -1,55 +1,55 @@
 [PasswordCtrl_CreateAnsi]
 Class="Function"
 Prototype="int PasswordCtrl_CreateAnsi(int panel, const char *label, int top, int left);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:46:13"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:46:13"
 
 [PasswordCtrl_CreateUtf8]
 Class="Function"
 Prototype="int PasswordCtrl_CreateUtf8(int panel, const char *label, int top, int left);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:63:13"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:63:13"
 
 [PasswordCtrl_Create]
 Class="Function"
 Prototype="int PasswordCtrl_Create(int panel, const char *label, int top, int left);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:80:13"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:80:13"
 
 [PasswordCtrl_RevertToString]
 Class="Function"
 Prototype="int PasswordCtrl_RevertToString(int panel, int control);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:111:13"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:111:13"
 
 [PasswordCtrl_SetAttributeAnsi]
 Class="Function"
 Prototype="int PasswordCtrl_SetAttributeAnsi(int panel, int passwordCtrl, int attribute, ...);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:183:15"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:183:15"
 
 [PasswordCtrl_SetAttributeUtf8]
 Class="Function"
 Prototype="int PasswordCtrl_SetAttributeUtf8(int panel, int passwordCtrl, int attribute, ...);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:197:15"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:197:15"
 
 [PasswordCtrl_SetAttribute]
 Class="Function"
 Prototype="int PasswordCtrl_SetAttribute(int panel, int passwordCtrl, int attribute, ...);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:210:15"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:210:15"
 
 [PasswordCtrl_GetAttributeAnsi]
 Class="Function"
 Prototype="int PasswordCtrl_GetAttributeAnsi(int panel, int passwordCtrl, int attribute, void *value);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:286:13"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:286:13"
 
 [PasswordCtrl_GetAttributeUtf8]
 Class="Function"
 Prototype="int PasswordCtrl_GetAttributeUtf8(int panel, int passwordCtrl, int attribute, void *value);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:293:13"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:293:13"
 
 [PasswordCtrl_GetAttribute]
 Class="Function"
 Prototype="int PasswordCtrl_GetAttribute(int panel, int passwordCtrl, int attribute, void *value);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:300:13"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:300:13"
 
 [PasswordCtrl_Callback]
 Class="Function"
 Prototype="int PasswordCtrl_Callback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\pwctrl.c:356:18"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\pwctrl.c:356:18"
 

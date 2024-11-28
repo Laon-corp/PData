@@ -128,19 +128,19 @@ void 	LoadDataFromFile(int no)
 		SetTableCellRangeAttribute(tab_table, TAB_TABLE_TABLE, MakeRect(i+1, 1, 1, MeasPoints+3), ATTR_TEXT_BOLD, 0);
 	 	SetTableCellRangeAttribute(tab_table, TAB_TABLE_TABLE, MakeRect(i+1, 1, 1, MeasPoints+3), ATTR_CELL_TYPE, VAL_CELL_STRING);
 	}
-	
+	//DataBuff[8][i]; <=마킹, 마킹기 추가시 같이 삽입
 	for(i = 0 ; i < no ; i ++)
-		ttemp[i] = DataBuff[8][i];
+		ttemp[i] = DataBuff[9][i];
 	SetTableCellRangeVals(tab_table, TAB_TABLE_TABLE, MakeRect(1, 1, no, 1), ttemp, VAL_COLUMN_MAJOR);
 	for(i = 0 ; i < no ; i ++)
-		ttemp[i] = DataBuff[10][i];
+		ttemp[i] = DataBuff[11][i];
 	SetTableCellRangeVals(tab_table, TAB_TABLE_TABLE, MakeRect(1, 2, no, 1), ttemp, VAL_COLUMN_MAJOR);
 	for(i = 0 ; i < no ; i ++)
-		ttemp[i] = DataBuff[11][i];
+		ttemp[i] = DataBuff[12][i];
 	SetTableCellRangeVals(tab_table, TAB_TABLE_TABLE, MakeRect(1, 3, no, 1), ttemp, VAL_COLUMN_MAJOR);
-	/*for(i = 0 ; i < no ; i ++)
-		ttemp[i] = DataBuff[9][i];
-	SetTableCellRangeVals(tab_table, TAB_TABLE_TABLE, MakeRect(1, 4, no, 1), ttemp, VAL_COLUMN_MAJOR);*/
+	//for(i = 0 ; i < no ; i ++)
+	//	ttemp[i] = DataBuff[12][i];
+	//SetTableCellRangeVals(tab_table, TAB_TABLE_TABLE, MakeRect(1, 4, no, 1), ttemp, VAL_COLUMN_MAJOR);
 
 	for(i = 0 ; i < no ; i ++)
 		ttemp[i] = DataBuff[1][i];
@@ -162,10 +162,13 @@ void 	LoadDataFromFile(int no)
 	SetTableCellRangeVals(tab_table, TAB_TABLE_TABLE, MakeRect(1, 9, no, 1), ttemp, VAL_COLUMN_MAJOR);
 	for(i = 0 ; i < no ; i ++)
 		ttemp[i] = DataBuff[7][i];
-	//SetTableCellRangeVals(tab_table, TAB_TABLE_TABLE, MakeRect(1, 11, no, 1), ttemp, VAL_COLUMN_MAJOR);
-	//for(i = 0 ; i < no ; i ++)
-	//	ttemp[i] = DataBuff[8][i];
 	SetTableCellRangeVals(tab_table, TAB_TABLE_TABLE, MakeRect(1, 10, no, 1), ttemp, VAL_COLUMN_MAJOR);
+	for(i = 0 ; i < no ; i ++)
+		ttemp[i] = DataBuff[8][i];
+	SetTableCellRangeVals(tab_table, TAB_TABLE_TABLE, MakeRect(1, 11, no, 1), ttemp, VAL_COLUMN_MAJOR);
+	//for(i = 0 ; i < no ; i ++)
+	//	ttemp[i] = DataBuff[9][i];
+	//SetTableCellRangeVals(tab_table, TAB_TABLE_TABLE, MakeRect(1, 11, no, 1), ttemp, VAL_COLUMN_MAJOR);
 	
 	for(j = 0 ; j < no ; j ++)
 	{

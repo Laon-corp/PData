@@ -86,7 +86,7 @@ int CVICALLBACK Cb_Db_Search (int panel, int control, int event,
 
 			// SQL
 			// select * from datatable where date(datetime) between '2020-12-10' AND '2020-12-20'; 
-			sprintf(ctemp, "select MODEL, DATETIME, GFLAG, MC1, MC2, MARK, DATA1, DATA2, DATA3, DATA4, DATA5, DATA6, DATA7 from LAON.dataTABLE where date(datetime) between '%s' AND '%s' ", DateStamp, DateStamp2);
+			sprintf(ctemp, "select MODEL, DATETIME, GFLAG, MC1, MC2, MARK, DATA1, DATA2, DATA3, DATA4, DATA5, DATA6, DATA7, DATA8 from LAON.dataTABLE where date(datetime) between '%s' AND '%s' ", DateStamp, DateStamp2);
 			// ALL, MODEL, ...
 			GetCtrlIndex(resultpanel, RESULT_MODEL, &no);
 //			GetLabelFromIndex(resultpanel, RESULT_MODEL, no, ModelNameTemp);
@@ -139,10 +139,10 @@ int CVICALLBACK Cb_Db_Search (int panel, int control, int event,
 				DBret = DBGetColChar(DBStmt, 8, &data[7], ""); 		//DATA2
 				DBret = DBGetColChar(DBStmt, 9, &data[8], "");		//DATA3
 				DBret = DBGetColChar(DBStmt, 10, &data[9], "");		//DATA4
-				DBret = DBGetColChar(DBStmt, 11, &data[10], "");		//DATA5
+				DBret = DBGetColChar(DBStmt, 11, &data[10], "");	//DATA5
 				DBret = DBGetColChar(DBStmt, 12, &data[11], "");	//DATA6
 				DBret = DBGetColChar(DBStmt, 13, &data[12], "");	//DATA7	
-				//DBret = DBGetColChar(DBStmt, 14, &data[13], "");	//DATA8
+				DBret = DBGetColChar(DBStmt, 14, &data[13], "");	//DATA8
 				
 				if(data[0] != NULL)	strcpy(DB_Data_Model[i], data[0]);
 				else				strcpy(DB_Data_Model[i],  " ");
@@ -183,8 +183,8 @@ int CVICALLBACK Cb_Db_Search (int panel, int control, int event,
 				if(data[12] != NULL)	strcpy(DB_Data_Buff7[i], data[12]);
 				else					strcpy(DB_Data_Buff7[i],  " ");
 
-				//if(data[13] != NULL)	strcpy(DB_Data_Buff8[i], data[13]);
-				//else					strcpy(DB_Data_Buff8[i],  " ");
+				if(data[13] != NULL)	strcpy(DB_Data_Buff8[i], data[13]);
+				else					strcpy(DB_Data_Buff8[i],  " ");
 
 
 				DBFree(data[0]);
@@ -200,7 +200,7 @@ int CVICALLBACK Cb_Db_Search (int panel, int control, int event,
 				DBFree(data[10]);
 				DBFree(data[11]);
 				DBFree(data[12]);
-				//DBFree(data[13]);
+				DBFree(data[13]);
 				
 				i++;
 				if(i >= 30000)
@@ -254,9 +254,9 @@ int CVICALLBACK Cb_Db_Search (int panel, int control, int event,
 			for( no = 0 ; no < i ; no ++ )
 				temp[no] = DB_Data_Buff7[no];	
 			SetTableCellRangeVals(resultpanel, RESULT_TABLE, MakeRect(1, 13, i, 1), temp, VAL_COLUMN_MAJOR);
-			//for( no = 0 ; no < i ; no ++ )
-			//	temp[no] = DB_Data_Buff8[no];	
-			//SetTableCellRangeVals(resultpanel, RESULT_TABLE, MakeRect(1, 14, i, 1), temp, VAL_COLUMN_MAJOR);
+			for( no = 0 ; no < i ; no ++ )
+				temp[no] = DB_Data_Buff8[no];	
+			SetTableCellRangeVals(resultpanel, RESULT_TABLE, MakeRect(1, 14, i, 1), temp, VAL_COLUMN_MAJOR);
 			
 			SetCtrlAttribute(resultpanel, RESULT_MSG_WAIT, ATTR_VISIBLE, 0);
 			
@@ -453,11 +453,11 @@ int CVICALLBACK Cb_CsvSave (int panel, int control, int event,
 			
 			for(i = 0 ; i < no ; i ++)
 			{
-				sprintf(ctemp, "%d,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,", 
+				sprintf(ctemp, "%d,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,", 
 					i+1,	DB_Data_Model[i], DB_Data_DateTime[i], DB_Data_Gflag[i], 
 							DB_Data_Mc1[i],   DB_Data_Mc2[i],      //DB_Data_Mark[i],
 							DB_Data_Buff1[i], DB_Data_Buff2[i], DB_Data_Buff3[i], DB_Data_Buff4[i], DB_Data_Buff5[i],
-							DB_Data_Buff6[i], DB_Data_Buff7[i]);
+							DB_Data_Buff6[i], DB_Data_Buff7[i], DB_Data_Buff8[i]);
 				WriteLine(handle, ctemp, -1);
 			}
 			CloseFile(handle);

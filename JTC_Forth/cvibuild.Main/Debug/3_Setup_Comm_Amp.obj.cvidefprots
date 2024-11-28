@@ -1,45 +1,45 @@
 [Cb_Timer_Amp]
 Class="Function"
 Prototype="int Cb_Timer_Amp(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Amp.c:34:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Amp.c:34:17"
 
 [RestAmp]
 Class="Function"
 Prototype="int RestAmp();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Amp.c:63:5"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Amp.c:63:5"
 
 [Amp_Callback_Func]
 Class="Function"
 Prototype="void Amp_Callback_Func(int portNo, int eventMask, void *callbackData);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Amp.c:85:19"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Amp.c:85:19"
 
 [Amp_Callback_Func_HS]
 Class="Function"
 Prototype="void Amp_Callback_Func_HS(int portNo, int eventMask, void *callbackData);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Amp.c:175:19"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Amp.c:175:19"
 
 [GetAmpParameter]
 Class="Function"
 Prototype="int GetAmpParameter();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Amp.c:230:5"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Amp.c:230:5"
 
 [ThreadAmp]
 Class="Function"
 Prototype="int ThreadAmp(void *functionData);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Amp.c:295:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Amp.c:295:17"
 
 [AmpPortOpen]
 Class="Function"
 Prototype="int AmpPortOpen();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Amp.c:310:5"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Amp.c:310:5"
 
 [AmpPortClose]
 Class="Function"
 Prototype="void AmpPortClose();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Amp.c:353:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Amp.c:353:6"
 
 [AmpStart]
 Class="Function"
 Prototype="void AmpStart(char flag);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup_Comm_Amp.c:359:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup_Comm_Amp.c:359:6"
 

@@ -1,5 +1,5 @@
 [CheckHdd]
 Class="Function"
 Prototype="void CheckHdd();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - บนป็บป\7_Windows.c:7:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\7_Windows.c:7:7"
 

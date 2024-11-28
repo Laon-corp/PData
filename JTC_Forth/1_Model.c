@@ -441,6 +441,8 @@ void	LoadModel_Calculation(void)
 					SetCtrlVal(tab_auto, TAB_AUTO_IF_TXT_6, Model[i].Name);
 				else if(Model[i].Offset == 7)
 					SetCtrlVal(tab_auto, TAB_AUTO_IF_TXT_7, Model[i].Name);
+				else if(Model[i].Offset == 8)
+					SetCtrlVal(tab_auto, TAB_AUTO_IF_TXT_8, Model[i].Name);
 				else
 					;
 			}
@@ -614,7 +616,8 @@ void	InitTabTableData(void)
 	//main - Table
 	DeleteTableRows(tab_table, TAB_TABLE_TABLE, 1, -1); 
 	DeleteTableColumns(tab_table, TAB_TABLE_TABLE, 1, -1);
-	InsertTableColumns(tab_table, TAB_TABLE_TABLE, 1, MeasPoints+4, VAL_USE_MASTER_CELL_TYPE);
+	//마킹 추가시 확인 필요 
+	InsertTableColumns(tab_table, TAB_TABLE_TABLE, 1, MeasPoints+4, VAL_USE_MASTER_CELL_TYPE); //
 	
 	for(i = 0 ; i < 3 ; i ++)
 	{

@@ -676,8 +676,10 @@ void  	check_iomon(void)
 	if(d_out[268] != def_out[268])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_6_P, d_out[268]);
 	if(d_out[271] != def_out[271])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_7_M, d_out[271]);
 	if(d_out[273] != def_out[273])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_7_P, d_out[273]);
+	if(d_out[276] != def_out[276])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_8_M, d_out[276]);
+	if(d_out[278] != def_out[278])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_8_P, d_out[278]);
 	
-	//MANUAL 제품감지 센서
+	//MANUAL 제품감지 센서 LAMP
 	if(d_in[216] != def_in[216])		SetCtrlVal(tab_manual, TAB_MANU_LED_SENSOR_1, d_in[216]); 
 	if(d_in[217] != def_in[217])		SetCtrlVal(tab_manual, TAB_MANU_LED_SENSOR_2, d_in[217]);
 	if(d_in[218] != def_in[218])		SetCtrlVal(tab_manual, TAB_MANU_LED_SENSOR_3, d_in[218]);

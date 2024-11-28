@@ -1,90 +1,90 @@
 [ReadSensorValueFile]
 Class="Function"
 Prototype="void ReadSensorValueFile();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:5:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:6:6"
 
 [InitAllData]
 Class="Function"
 Prototype="void InitAllData();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:47:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:48:6"
 
 [InitStData]
 Class="Function"
 Prototype="void InitStData(int sig);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:55:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:56:6"
 
 [SetSpcPrecision]
 Class="Function"
 Prototype="void SetSpcPrecision();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:119:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:120:6"
 
 [ResetSpcData]
 Class="Function"
 Prototype="void ResetSpcData();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:127:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:128:6"
 
 [MakeGraphData]
 Class="Function"
 Prototype="void MakeGraphData();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:145:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:146:6"
 
 [GraphPlot]
 Class="Function"
 Prototype="void GraphPlot();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:211:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:212:6"
 
 [SetGraphRange]
 Class="Function"
 Prototype="void SetGraphRange();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:304:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:305:7"
 
 [SetSpcData]
 Class="Function"
 Prototype="void SetSpcData(int mc);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:345:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:346:7"
 
 [CalcSpcData]
 Class="Function"
 Prototype="void CalcSpcData(int mc);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:357:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:358:6"
 
 [SendResultToPlc]
 Class="Function"
 Prototype="void SendResultToPlc();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:446:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:447:6"
 
 [SetDataValue]
 Class="Function"
 Prototype="void SetDataValue();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:490:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:491:7"
 
 [CalculateResultValue]
 Class="Function"
 Prototype="void CalculateResultValue(int sig);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:577:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:578:6"
 
 [ShiftSensorValueFile]
 Class="Function"
 Prototype="void ShiftSensorValueFile(int a);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:747:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:748:6"
 
 [SaveSensorValue]
 Class="Function"
 Prototype="void SaveSensorValue(int sig);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:763:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:764:6"
 
 [AutoMeasFinish]
 Class="Function"
 Prototype="void AutoMeasFinish(int sig);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:822:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:823:6"
 
 [ManuMeasFinish]
 Class="Function"
 Prototype="void ManuMeasFinish(int sig);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:980:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:981:6"
 
 [ZeroMeasFinish]
 Class="Function"
 Prototype="void ZeroMeasFinish(int sig);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\A_Measure.c:1044:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:1045:6"
 

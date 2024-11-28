@@ -1,35 +1,35 @@
 [GetSaveDataNum]
 Class="Function"
 Prototype="void GetSaveDataNum();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\2_Result_File.c:7:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\2_Result_File.c:7:7"
 
 [LoadDataFromFile]
 Class="Function"
 Prototype="void LoadDataFromFile(int no);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\2_Result_File.c:67:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\2_Result_File.c:67:7"
 
 [GetDataFileName]
 Class="Function"
 Prototype="void GetDataFileName();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\2_Result_File.c:228:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\2_Result_File.c:231:6"
 
 [CreateDataFile]
 Class="Function"
 Prototype="void CreateDataFile();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\2_Result_File.c:321:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\2_Result_File.c:324:7"
 
 [CreateDataNgFile]
 Class="Function"
 Prototype="void CreateDataNgFile();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\2_Result_File.c:410:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\2_Result_File.c:413:7"
 
 [SaveDataFile]
 Class="Function"
 Prototype="void SaveDataFile();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\2_Result_File.c:484:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\2_Result_File.c:487:6"
 
 [Cb_TestNo]
 Class="Function"
 Prototype="int Cb_TestNo(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\2_Result_File.c:537:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\2_Result_File.c:540:17"
 

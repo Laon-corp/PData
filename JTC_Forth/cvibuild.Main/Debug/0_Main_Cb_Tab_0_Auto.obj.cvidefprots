@@ -1,50 +1,50 @@
 [Cb_Point]
 Class="Function"
 Prototype="int Cb_Point(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_0_Auto.c:12:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\0_Main_Cb_Tab_0_Auto.c:12:17"
 
 [Cb_Ring_MeasPoint]
 Class="Function"
 Prototype="int Cb_Ring_MeasPoint(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_0_Auto.c:35:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\0_Main_Cb_Tab_0_Auto.c:35:17"
 
 [Cb_Meas_1]
 Class="Function"
 Prototype="int Cb_Meas_1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_0_Auto.c:53:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\0_Main_Cb_Tab_0_Auto.c:53:17"
 
 [Cb_Meas_2]
 Class="Function"
 Prototype="int Cb_Meas_2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_0_Auto.c:72:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\0_Main_Cb_Tab_0_Auto.c:72:17"
 
 [Cb_Meas_3]
 Class="Function"
 Prototype="int Cb_Meas_3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_0_Auto.c:91:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\0_Main_Cb_Tab_0_Auto.c:91:17"
 
 [Cb_Meas_4]
 Class="Function"
 Prototype="int Cb_Meas_4(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_0_Auto.c:110:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\0_Main_Cb_Tab_0_Auto.c:110:17"
 
 [Cb_Timer_Meas_1]
 Class="Function"
 Prototype="int Cb_Timer_Meas_1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_0_Auto.c:129:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\0_Main_Cb_Tab_0_Auto.c:129:17"
 
 [Cb_Timer_Meas_2]
 Class="Function"
 Prototype="int Cb_Timer_Meas_2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_0_Auto.c:144:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\0_Main_Cb_Tab_0_Auto.c:144:17"
 
 [Cb_Timer_Meas_3]
 Class="Function"
 Prototype="int Cb_Timer_Meas_3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_0_Auto.c:159:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\0_Main_Cb_Tab_0_Auto.c:159:17"
 
 [Cb_Timer_Meas_4]
 Class="Function"
 Prototype="int Cb_Timer_Meas_4(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\0_Main_Cb_Tab_0_Auto.c:174:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\0_Main_Cb_Tab_0_Auto.c:174:17"
 

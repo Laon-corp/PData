@@ -1,110 +1,110 @@
 [InitSystem]
 Class="Function"
 Prototype="void InitSystem();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:5:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:5:6"
 
 [InitManuSol]
 Class="Function"
 Prototype="void InitManuSol();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:27:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:27:6"
 
 [InitPlcErrStr]
 Class="Function"
 Prototype="void InitPlcErrStr();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:74:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:74:6"
 
 [InitIO]
 Class="Function"
 Prototype="void InitIO();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:102:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:102:6"
 
 [LoadSetup]
 Class="Function"
 Prototype="void LoadSetup();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:151:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:151:7"
 
 [SaveSetup]
 Class="Function"
 Prototype="void SaveSetup();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:252:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:252:7"
 
 [InitLogPath]
 Class="Function"
 Prototype="void InitLogPath();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:356:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:356:6"
 
 [GetRegHdd]
 Class="Function"
 Prototype="int GetRegHdd();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:422:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:422:6"
 
 [GetRegPath]
 Class="Function"
 Prototype="void GetRegPath();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:471:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:471:7"
 
 [SetRegPath]
 Class="Function"
 Prototype="void SetRegPath();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:566:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:566:7"
 
 [GetRegUsedDays]
 Class="Function"
 Prototype="int GetRegUsedDays();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:617:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:617:6"
 
 [SetRegUsedDays]
 Class="Function"
 Prototype="void SetRegUsedDays();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:657:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:657:6"
 
 [GetRegUserPw]
 Class="Function"
 Prototype="void GetRegUserPw();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:673:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:673:6"
 
 [SetRegUserPw]
 Class="Function"
 Prototype="void SetRegUserPw();"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:696:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:696:6"
 
 [Cb_SetupPanel]
 Class="Function"
 Prototype="int Cb_SetupPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:712:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:712:17"
 
 [Cb_Rollback]
 Class="Function"
 Prototype="int Cb_Rollback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:726:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:726:17"
 
 [Cb_Save]
 Class="Function"
 Prototype="int Cb_Save(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:748:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:748:17"
 
 [Cb_Path_Pop_Model]
 Class="Function"
 Prototype="int Cb_Path_Pop_Model(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:776:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:776:17"
 
 [Cb_Path_Pop_Result]
 Class="Function"
 Prototype="int Cb_Path_Pop_Result(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:792:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:792:17"
 
 [Cb_Path_Pop_History]
 Class="Function"
 Prototype="int Cb_Path_Pop_History(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:808:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:808:17"
 
 [Cb_Path_Pop_Setup]
 Class="Function"
 Prototype="int Cb_Path_Pop_Setup(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:824:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:824:17"
 
 [Cb_Img_Button]
 Class="Function"
 Prototype="int Cb_Img_Button(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
-SourceLocation="e:\@PROJECT\LAON\CVI\CVI2020\JTC - 복사본\3_Setup.c:840:17"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\3_Setup.c:840:17"
 
