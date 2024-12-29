@@ -463,8 +463,10 @@ void	SendResultToPlc(void)
 			else if(Mc[0].Mode[0].ResultValue[i][Mc[0].Mode[0].EndDataNo - 1] >=  Model[i].LCL &&
 					Mc[0].Mode[0].ResultValue[i][Mc[0].Mode[0].EndDataNo - 1] <= Model[i].LWL)
 			{
-				PlcData[241 + ((Model[i].Offset-1)*5)] = 1;
-				SetTableCellAttribute (tab_table, TAB_TABLE_TABLE, MakePoint(i + 5, no), ATTR_TEXT_BGCOLOR, VAL_GREEN);
+				//5=>4
+				PlcData[243 + ((Model[i].Offset-1)*5)] = 1;
+				SetTableCellAttribute (tab_table, TAB_TABLE_TABLE, MakePoint(i + 4, no), ATTR_TEXT_BGCOLOR, VAL_GREEN);
+				SetCtrlAttribute(tab_auto, PointCtrl[i], ATTR_TEXT_BGCOLOR, VAL_GREEN);
 			}
 			// OK
 			else if(Mc[0].Mode[0].ResultValue[i][Mc[0].Mode[0].EndDataNo - 1] > Model[i].LWL &&
@@ -476,8 +478,10 @@ void	SendResultToPlc(void)
 			else if(Mc[0].Mode[0].ResultValue[i][Mc[0].Mode[0].EndDataNo - 1] >= Model[i].UWL &&
 					Mc[0].Mode[0].ResultValue[i][Mc[0].Mode[0].EndDataNo - 1] <=  Model[i].UCL)
 			{
-				PlcData[243 + ((Model[i].Offset-1)*5)] = 1;
-				SetTableCellAttribute (tab_table, TAB_TABLE_TABLE, MakePoint(i + 5, no), ATTR_TEXT_BGCOLOR, VAL_GREEN);
+				//5=>4
+				PlcData[241 + ((Model[i].Offset-1)*5)] = 1;
+				SetTableCellAttribute (tab_table, TAB_TABLE_TABLE, MakePoint(i + 4, no), ATTR_TEXT_BGCOLOR, VAL_GREEN);
+				SetCtrlAttribute(tab_auto, PointCtrl[i], ATTR_TEXT_BGCOLOR, VAL_GREEN);
 			}
 			// +NG
 			else if(Mc[0].Mode[0].ResultValue[i][Mc[0].Mode[0].EndDataNo - 1] >  Model[i].UCL)
@@ -585,15 +589,17 @@ void	CalculateResultValue(int sig)
 	double 	MinTemp[MAX_CH] = {0.0,};
 	double 	MaxTemp[MAX_CH] = {0.0,};
 	
-	for(i = 0 ; i < MAX_CH ; i ++)
-	{
-		for(j = 0 ; j < MeasChIndex[sig] ; j ++)
+	if(!liveFlag)
+		for(i = 0 ; i < MAX_CH ; i ++)
 		{
-			MeasChTemp[i][j] = MeasChValue[j][i];
+			for(j = 0 ; j < MeasChIndex[sig] ; j ++)
+			{
+				MeasChTemp[i][j] = MeasChValue[j][i];
+			}
+			MaxMin1D(MeasChTemp[i], MeasChIndex[sig], &DataPerChValue[i][2], &MaxIndex, &DataPerChValue[i][1], &MinIndex);
+			Mean(MeasChTemp[i], MeasChIndex[sig], &DataPerChValue[i][0]);	
 		}
-		MaxMin1D(MeasChTemp[i], MeasChIndex[sig], &DataPerChValue[i][2], &MaxIndex, &DataPerChValue[i][1], &MinIndex);
-		Mean(MeasChTemp[i], MeasChIndex[sig], &DataPerChValue[i][0]);	
-	}
+
 		
 	for(i = 0 ; i < MeasPoints ; i ++)
 	{
@@ -835,7 +841,6 @@ void AutoMeasFinish(int sig)
 	}
 	
 	LastSig = 0;
-	
 	strcpy(MeasTime, CurrTime);
 	strcpy(MeasDate, CurrDate);
 	
@@ -844,6 +849,7 @@ void AutoMeasFinish(int sig)
 	
 	SaveSensorValue(sig);
 	CalculateResultValue(sig);
+	liveFlag = 0;
 	//가공기 관련 확인 사항
 	for(i = 0 ; i < MeasPoints ; i ++)
 	{
@@ -871,7 +877,8 @@ void AutoMeasFinish(int sig)
 	{
 		if(GFlag[i])
 		{
-			SetCtrlAttribute(tab_auto, PointCtrl[i], ATTR_TEXT_BGCOLOR, 0x80ff00);
+			//SetCtrlAttribute(tab_auto, PointCtrl[i], ATTR_TEXT_BGCOLOR, 0x80ff00);
+			SetCtrlAttribute(tab_auto, PointCtrl[i], ATTR_TEXT_BGCOLOR, VAL_WHITE);
 			SetCtrlAttribute(tab_auto, PointCtrl[i], ATTR_TEXT_COLOR, VAL_BLACK);
 		}
 		else

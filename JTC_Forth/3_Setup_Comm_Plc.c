@@ -636,31 +636,35 @@ void  	check_iomon(void)
 	}
 	
 	if(d_in[40])
-		McNo1 = 0;
+		McNo2 = 0;
 	else if(d_in[41])
-		McNo1 = 1;
+		McNo2 = 1;
 	else if(d_in[42])
-		McNo1 = 2;
+		McNo2 = 2;
+	else if(d_in[43])
+		McNo2 = 3;
 	else
-		McNo1 = 0;
+		McNo2 = 0;
 	
 	if(d_in[44])
-		McNo2 = 0;
+		McNo1 = 0;
 	else if(d_in[45])
-		McNo2 = 1;
-	else if(d_in[46])
-		McNo2 = 2;
+		McNo1 = 1;
+	else if(d_in[34])
+		McNo1 = 2;
+	else if(d_in[35])
+		McNo1 = 3;
 	else
-		McNo2 = 0;
+		McNo1 = 0;
 	
-	if(d_in[40] != def_in[40])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_1, d_in[40]);
-	if(d_in[41] != def_in[41])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_2, d_in[41]);
-	if(d_in[42] != def_in[42])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_3, d_in[42]);
-//	if(d_in[43] != def_in[43])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_3, d_in[43]);
-	if(d_in[44] != def_in[44])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_4, d_in[44]);
-	if(d_in[45] != def_in[45])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_5, d_in[45]);
-	if(d_in[46] != def_in[46])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_6, d_in[46]);
-//	if(d_in[47] != def_in[47])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_6, d_in[47]);
+	if(d_in[40] != def_in[40])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_1, d_in[40]); //201
+	if(d_in[41] != def_in[41])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_2, d_in[41]); //202
+	if(d_in[42] != def_in[42])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_3, d_in[42]); //203
+	if(d_in[43] != def_in[43])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_4, d_in[43]); //204
+	if(d_in[44] != def_in[44])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_5, d_in[44]); //101
+	if(d_in[45] != def_in[45])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_6, d_in[45]); //102
+	if(d_in[34] != def_in[34])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_7, d_in[34]); //103
+	if(d_in[35] != def_in[35])		SetCtrlVal(tab_auto, TAB_AUTO_LED_MC_8, d_in[35]); //104
 	
 	if(d_out[241] != def_out[241])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_1_M, d_out[241]);
 	if(d_out[243] != def_out[243])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_1_P, d_out[243]);
@@ -668,8 +672,8 @@ void  	check_iomon(void)
 	if(d_out[248] != def_out[248])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_2_P, d_out[248]);
 	if(d_out[251] != def_out[251])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_3_M, d_out[251]);
 	if(d_out[253] != def_out[253])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_3_P, d_out[253]);
-	if(d_out[256] != def_out[256])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_4_M, d_out[256]);
-	if(d_out[258] != def_out[258])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_4_P, d_out[258]);
+	if(d_out[256] != def_out[256])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_4_P, d_out[256]);
+	if(d_out[258] != def_out[258])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_4_M, d_out[258]);
 	if(d_out[261] != def_out[261])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_5_M, d_out[261]);
 	if(d_out[263] != def_out[263])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_5_P, d_out[263]);
 	if(d_out[266] != def_out[266])	SetCtrlVal(tab_auto, TAB_AUTO_LED_IF_6_M, d_out[266]);

@@ -340,13 +340,14 @@ void	SaveDataBase(void)
 		sprintf(Mc1, "102");
 	else if(McNo1 == 2)
 		sprintf(Mc1, "103");
+	else if(McNo1 == 3)
+		sprintf(Mc1, "104");
 	
 	if(McNo2 == 0)
 		sprintf(Mc2, "201");
 	else if(McNo2 == 1)
 		sprintf(Mc2, "202");
-	else if(McNo2 == 2)
-		sprintf(Mc2, "203");
+
 
 	for(i = 0; i < MeasPoints ; i++)							
 	{

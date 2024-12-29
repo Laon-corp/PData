@@ -616,8 +616,8 @@ void	InitTabTableData(void)
 	//main - Table
 	DeleteTableRows(tab_table, TAB_TABLE_TABLE, 1, -1); 
 	DeleteTableColumns(tab_table, TAB_TABLE_TABLE, 1, -1);
-	//마킹 추가시 확인 필요 
-	InsertTableColumns(tab_table, TAB_TABLE_TABLE, 1, MeasPoints+4, VAL_USE_MASTER_CELL_TYPE); //
+	//마킹 추가시 확인 필요 3=>4
+	InsertTableColumns(tab_table, TAB_TABLE_TABLE, 1, MeasPoints+3, VAL_USE_MASTER_CELL_TYPE); //
 	
 	for(i = 0 ; i < 3 ; i ++)
 	{
@@ -652,13 +652,13 @@ void	InitTabTableData(void)
 		SetTableColumnAttribute (tab_table, TAB_TABLE_TABLE, i+1+3, ATTR_LABEL_POINT_SIZE, 11);
 		SetTableColumnAttribute (tab_table, TAB_TABLE_TABLE, i+1+3, ATTR_LABEL_BOLD, 1);
 		SetTableColumnAttribute (tab_table, TAB_TABLE_TABLE, i+1+3, ATTR_USE_LABEL_TEXT, 1);
-
+//데이터 표 
 		if(i == 0)
 			SetTableColumnAttribute (tab_table, TAB_TABLE_TABLE, i+1+3, ATTR_COLUMN_WIDTH, 60);		
 		else if(i == MeasPoints - 1)
-			SetTableColumnAttribute (tab_table, TAB_TABLE_TABLE, i+1+3, ATTR_COLUMN_WIDTH, 120);		
+			SetTableColumnAttribute (tab_table, TAB_TABLE_TABLE, i+1+3, ATTR_COLUMN_WIDTH, 100);		
 		else
-			SetTableColumnAttribute (tab_table, TAB_TABLE_TABLE, i+1+3, ATTR_COLUMN_WIDTH, 100);				
+			SetTableColumnAttribute (tab_table, TAB_TABLE_TABLE, i+1+3, ATTR_COLUMN_WIDTH, 80);				
 		SetTableColumnAttribute (tab_table, TAB_TABLE_TABLE, i+1+3, ATTR_LABEL_TEXT, Model[i].Name);
 	}	
 }

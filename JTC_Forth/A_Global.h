@@ -534,3 +534,5 @@ int		MeasCycleNo;
 int 	Pc_Cycle;
 double 	Opt_Time_1;
 int 	Safety_Door;
+//meas Test
+int 	liveFlag;

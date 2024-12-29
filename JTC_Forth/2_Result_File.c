@@ -214,7 +214,6 @@ void 	LoadDataFromFile(int no)
 		}
 		//마킹기 추 가 시 3-> 4
 		SetTableSelection(tab_table, TAB_TABLE_TABLE, MakeRect(j+1, 1, 1, MeasPoints+3));		
-			
 	}
 
 	CloseFile(handle);

@@ -56,35 +56,35 @@ SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:447:6"
 [SetDataValue]
 Class="Function"
 Prototype="void SetDataValue();"
-SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:491:7"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:495:7"
 
 [CalculateResultValue]
 Class="Function"
 Prototype="void CalculateResultValue(int sig);"
-SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:578:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:582:6"
 
 [ShiftSensorValueFile]
 Class="Function"
 Prototype="void ShiftSensorValueFile(int a);"
-SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:748:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:754:6"
 
 [SaveSensorValue]
 Class="Function"
 Prototype="void SaveSensorValue(int sig);"
-SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:764:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:770:6"
 
 [AutoMeasFinish]
 Class="Function"
 Prototype="void AutoMeasFinish(int sig);"
-SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:823:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:829:6"
 
 [ManuMeasFinish]
 Class="Function"
 Prototype="void ManuMeasFinish(int sig);"
-SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:981:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:988:6"
 
 [ZeroMeasFinish]
 Class="Function"
 Prototype="void ZeroMeasFinish(int sig);"
-SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:1045:6"
+SourceLocation="e:\@PROJECT_P\CVI2020\JTC_Forth\A_Measure.c:1052:6"
 
